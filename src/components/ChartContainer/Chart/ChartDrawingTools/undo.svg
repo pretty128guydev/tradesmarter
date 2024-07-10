@@ -1,0 +1,20 @@
+<svg
+version="1.0"
+xmlns="http://www.w3.org/2000/svg"
+width="24.000000pt"
+height="24.000000pt"
+viewBox="0 0 24.000000 24.000000"
+preserveAspectRatio="xMidYMid meet"
+>
+<g
+	transform="translate(0.000000,24.000000) scale(0.100000,-0.100000)"
+	stroke="none"
+>
+	<path
+		fill="current"
+		d="M20 127 l0 -47 47 0 c44 0 45 1 30 18 -21 23 -13 32 30 32 23 0 41
+-8 57 -25 26 -28 36 -31 36 -11 0 23 -59 66 -90 66 -16 0 -41 -5 -56 -12 -23
+-11 -28 -10 -40 7 -13 17 -14 14 -14 -28z"
+	/>
+</g>
+</svg>

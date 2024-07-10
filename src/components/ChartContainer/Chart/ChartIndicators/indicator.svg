@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <g fill-rule="evenodd">
+        <g>
+            <path fill="current" d="M11.5 11L14 15 9 15z" transform="translate(-425 -23) translate(412 16) translate(14 8)"/>
+            <path fill="current" d="M2.5 0L5 4 0 4z" transform="translate(-425 -23) translate(412 16) translate(14 8) rotate(-180 2.5 2)"/>
+            <path fill="none" stroke="current" d="M0 14L3.454 7 9.983 8.975 14 0" transform="translate(-425 -23) translate(412 16) translate(14 8)"/>
+        </g>
+    </g>
+</svg>

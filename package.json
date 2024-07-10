@@ -1,0 +1,114 @@
+{
+  "name": "platform6",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "@babel/helper-skip-transparent-expression-wrappers": "^7.12.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@types/blueimp-md5": "^2.7.0",
+    "@types/jest": "^24.0.0",
+    "@types/js-cookie": "^2.2.6",
+    "@types/lodash": "^4.14.162",
+    "@types/node": "^12.0.0",
+    "@types/react": "^16.9.0",
+    "@types/react-dom": "^16.9.0",
+    "@types/react-redux": "^7.1.9",
+    "@types/react-router": "^5.1.8",
+    "@types/styled-components": "^5.1.4",
+    "husky": "^4.3.0",
+    "lint-staged": "^10.5.2",
+    "node-sass": "^4.0.0",
+    "prettier": "^2.2.1",
+    "ttag-cli": "^1.9.0",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "@fingerprintjs/fingerprintjs": "^3.0.5",
+    "@types/canvas-confetti": "^1.6.1",
+    "@types/jsonp": "^0.2.1",
+    "@types/react-virtualized": "^9.21.11",
+    "axios": "^0.21.1",
+    "blueimp-md5": "^2.18.0",
+    "bodymovin": "^4.13.0",
+    "canvas-confetti": "^1.9.0",
+    "connected-react-router": "^6.8.0",
+    "date-fns": "^2.16.1",
+    "disable-scroll": "^0.6.0",
+    "fancy-canvas": "^2.1.0",
+    "highcharts": "^11.1.0",
+    "highcharts-indicators": "github:tradesmarter/indicators#tradesmarter",
+    "history": "^5.0.0",
+    "js-cookie": "^2.2.1",
+    "jsonp": "^0.2.1",
+    "lightstreamer-client": "^7.0.0",
+    "lightweight-charts": "^4.1.4",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.3",
+    "react": "^16.14.0",
+    "react-currency-input-field": "^3.0.0",
+    "react-customscroll": "^5.1.0",
+    "react-dom": "^16.14.0",
+    "react-free-scrollbar": "^0.3.4",
+    "react-indiana-drag-scroll": "^2.2.0",
+    "react-md": "^2.4.2",
+    "react-player": "^2.7.2",
+    "react-redux": "^7.2.1",
+    "react-router": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "react-tooltip": "^4.2.13",
+    "react-virtualized": "^9.22.3",
+    "redux": "^4.0.5",
+    "redux-saga": "^1.1.3",
+    "reselect": "^4.0.0",
+    "styled-components": "^5.2.0",
+    "technicalindicators": "^3.1.0",
+    "ttag": "^1.7.23",
+    "typesafe-actions": "^5.1.0",
+    "use-sound": "^4.0.1",
+    "vanilla-picker": "^2.11.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "start:80": "sudo PORT=80 HOST=trading.tradesmarter.com react-scripts start",
+    "translations:create": "npx ttag init $LANG translations/$LANG.po",
+    "translations:update": "npx ttag update translations/$LANG.po src/components",
+    "translations:updateAll": "node updateLocales.js",
+    "translations:convert": "npx ttag po2json translations/$LANG.po > src/core/translations/$LANG.po.json",
+    "translations:convertAll": "node convertLocales.js",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "./src/**/*.{js,jsx,ts,tsx}": [
+      "node_modules/.bin/eslint",
+      "prettier --write"
+    ]
+  },
+  "resolutions": {
+    "@types/react": "17.0.2",
+    "@types/react-dom": "17.0.2"
+  }
+}

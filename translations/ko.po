@@ -1,0 +1,2093 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-01-28 09:38+0000\n"
+"Last-Translator: Moshe Gabay <moshe@backpack.io>, 2021\n"
+"Language-Team: Korean (https://www.transifex.com/tradesmarter/teams/116351/ko/)\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"mime-version: 1.0\n"
+"x-generator: Poedit 2.4.2\n"
+
+#: src/components/Header/Account.tsx:138
+#: src/components/Header/Account.tsx:263
+#: src/components/modals/SignInModal/index.tsx:111
+#: src/components/modals/SignInModal/index.tsx:161
+msgid "Login"
+msgstr "로그인"
+
+#: src/components/modals/SignInModal/index.tsx:142
+msgid "Forgot password?"
+msgstr "비밀번호를 잊으셨습니까?"
+
+#: src/components/modals/PasswordResetModal/index.tsx:121
+#: src/components/modals/SignInModal/index.tsx:151
+msgid "Create account"
+msgstr "계정 생성"
+
+#: src/components/modals/SignInModal/index.tsx:161
+msgid "Signing in..."
+msgstr "로그인 중..."
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:528
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:369
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:534
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:369
+#: src/components/modals/SellbackModal/index.tsx:66
+msgid "Sellback"
+msgstr "매각"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:700
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:707
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:215
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:706
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:713
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:215
+#: src/components/modals/SellbackModal/index.tsx:102
+msgid "Return"
+msgstr "반품"
+
+#: src/components/modals/SellbackModal/index.tsx:126
+msgid "Confirm sellback"
+msgstr "매각 확인"
+
+#: src/components/modals/PracticeExpiredModal/index.tsx:36
+msgid "Practice expired"
+msgstr "연습이 만료됨"
+
+#: src/components/modals/PracticeExpiredModal/index.tsx:43
+#: src/components/modals/SwitchToRealModal/index.tsx:50
+msgid "Switch to real"
+msgstr "실제로 전환"
+
+#: src/components/ChartContainer/Chart/Sentiment/index.tsx:239
+#: src/components/Dashboard/RatioTraders/index.tsx:33
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:103
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:201
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:103
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:201
+#: src/components/TradeBox/DirectionPanels.tsx:282
+#: src/components/modals/SellbackModal/index.tsx:80
+msgid "High"
+msgstr "높음"
+
+#: src/components/ChartContainer/Chart/Sentiment/index.tsx:243
+#: src/components/Dashboard/RatioTraders/index.tsx:38
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:104
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:202
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:104
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:202
+#: src/components/TradeBox/DirectionPanels.tsx:381
+#: src/components/modals/SellbackModal/index.tsx:80
+msgid "Low"
+msgstr "낮음"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:344
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:386
+#: src/components/TradeBox/ExpirySelect.tsx:370
+msgid "Short"
+msgstr "짧은"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:356
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:394
+#: src/components/TradeBox/ExpirySelect.tsx:378
+msgid "Long"
+msgstr "긴"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:195
+#: src/components/Mobile/HomeMenuPanel/index.tsx:237
+#: src/components/Sidebar/index.tsx:329
+#: src/components/SidebarNew/index.tsx:355
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:171
+#: src/components/TradeBox/index.tsx:223
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:171
+#: src/components/TradeBoxNew/index.tsx:211
+#. not dead period and not timeout,
+msgid "Trade"
+msgstr "거래"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:172
+#: src/components/TradeBox/index.tsx:224
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:172
+#: src/components/TradeBoxNew/index.tsx:212
+#. not dead period and not timeout,
+msgid "Trading is not available"
+msgstr "거래를 할 수 없습니다"
+
+#: src/components/TradeBox/MobileInfoPanel.tsx:70
+#: src/components/TradeBox/TextInfoBlock.tsx:78
+#: src/components/TradeBoxNew/MobileInfoPanel.tsx:70
+#: src/components/TradeBoxNew/TextInfoBlock.tsx:78
+msgid "Time left"
+msgstr "남은 시간"
+
+#: src/components/Sidebar/SignalsPanel.tsx:30
+#: src/components/Sidebar/index.tsx:323
+#: src/components/SidebarNew/SignalsPanel.tsx:26
+#: src/components/SidebarNew/index.tsx:349
+msgid "Signals"
+msgstr "신호"
+
+#: src/components/Sidebar/SocialPanel.tsx:30
+#: src/components/SidebarNew/SocialPanel.tsx:26
+msgid "Social"
+msgstr "소셜"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:51
+#: src/components/Mobile/HomeMenuPanel/index.tsx:201
+#: src/components/Mobile/HomeMenuPanel/index.tsx:226
+#: src/components/Sidebar/VideoNews/index.tsx:84
+#: src/components/Sidebar/index.tsx:319
+#: src/components/SidebarNew/VideoNews/index.tsx:84
+#: src/components/SidebarNew/index.tsx:345
+msgid "Video News"
+msgstr "비디오 뉴스"
+
+#: src/components/Sidebar/TutorialsPanel/index.tsx:65
+#: src/components/Sidebar/index.tsx:321
+#: src/components/SidebarNew/TutorialsPanel/index.tsx:61
+#: src/components/SidebarNew/index.tsx:347
+msgid "Tutorials"
+msgstr "튜토리얼"
+
+#: src/components/Sidebar/PositionsPanel/Placeholder.tsx:49
+#: src/components/SidebarNew/PositionsPanel/Placeholder.tsx:49
+msgid "No Open Positions"
+msgstr "오픈 포지션 없음"
+
+#: src/components/Sidebar/PositionsPanel/Placeholder.tsx:49
+#: src/components/SidebarNew/PositionsPanel/Placeholder.tsx:49
+msgid "No Closed Positions"
+msgstr "마감된 포지션 없음"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:46
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:75
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:85
+#: src/components/Sidebar/services/TradeStatus.ts:6
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:46
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:75
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:85
+#: src/components/SidebarNew/services/TradeStatus.ts:6
+#: src/components/TradeBox/PayoutsBox.tsx:50
+#: src/components/TradeBoxNew/PayoutsBox.tsx:50
+msgid "In the money"
+msgstr "인 더 머니"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:50
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:77
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:87
+#: src/components/Sidebar/services/TradeStatus.ts:10
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:50
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:77
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:87
+#: src/components/SidebarNew/services/TradeStatus.ts:10
+#: src/components/TradeBox/PayoutsBox.tsx:56
+#: src/components/TradeBoxNew/PayoutsBox.tsx:56
+msgid "Out of the money"
+msgstr "아웃 오브 더 머니"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:48
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:52
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:79
+#: src/components/Sidebar/services/TradeStatus.ts:8
+#: src/components/Sidebar/services/TradeStatus.ts:12
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:48
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:52
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:79
+#: src/components/SidebarNew/services/TradeStatus.ts:8
+#: src/components/SidebarNew/services/TradeStatus.ts:12
+#: src/components/TradeBox/PayoutsBox.tsx:60
+#: src/components/TradeBoxNew/PayoutsBox.tsx:60
+msgid "At the money"
+msgstr "엣 더 머니"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:185
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:304
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:185
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:304
+msgid "Trade time"
+msgstr "거래 시간"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:189
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:308
+#: src/components/Sidebar/PositionsPanel/OpenPositions/ItemsGroup.tsx:208
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:189
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:308
+#: src/components/SidebarNew/PositionsPanel/OpenPositions/ItemsGroup.tsx:200
+msgid "Expiry time"
+msgstr "만료 시간"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:219
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:226
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:596
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:193
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:312
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:225
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:232
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:602
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:193
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:312
+msgid "Trade ID"
+msgstr "거래 ID"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:284
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:291
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:661
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:668
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:316
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:290
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:297
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:667
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:674
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:316
+msgid "Strike"
+msgstr "스트라이크"
+
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:321
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:321
+msgid "Current Price"
+msgstr "현재 가격"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:271
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:278
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:648
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:655
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:205
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:326
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:277
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:284
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:654
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:661
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:205
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:326
+msgid "Investment"
+msgstr "투자"
+
+#: src/components/ChartContainer/Chart/CfdSentimentSwitcher.tsx:115
+#: src/components/ChartContainer/Chart/ChartPositionInfo/index.tsx:179
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:310
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:317
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:687
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:694
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:210
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:331
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:316
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:323
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:693
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:700
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:210
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:331
+#: src/components/TradeBoxNew/index.tsx:419
+msgid "Payout"
+msgstr "지불금"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:258
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:265
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:635
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:642
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:220
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:264
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:271
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:641
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:648
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:220
+msgid "Status"
+msgstr "상태"
+
+#: src/components/Sidebar/PositionsPanel/index.tsx:53
+#: src/components/SidebarNew/PositionsPanel/index.tsx:53
+msgid "OPEN POSITIONS"
+msgstr "오픈 포지션"
+
+#: src/components/Sidebar/PositionsPanel/index.tsx:53
+#: src/components/SidebarNew/PositionsPanel/index.tsx:53
+msgid "CLOSED POSITIONS"
+msgstr "클로즈드 포지션"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:43
+#: src/components/Mobile/HomeMenuPanel/index.tsx:197
+#: src/components/Mobile/HomeMenuPanel/index.tsx:240
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:876
+#: src/components/Sidebar/PositionsPanel/index.tsx:102
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:882
+#: src/components/SidebarNew/PositionsPanel/index.tsx:95
+msgid "Positions"
+msgstr "포지션"
+
+#: src/components/Sidebar/NewsPanel/NewsFeedItem.tsx:55
+#: src/components/SidebarNew/NewsPanel/NewsFeedItem.tsx:52
+msgid "Read More"
+msgstr "더 읽기"
+
+#: src/components/Sidebar/NewsPanel/index.tsx:25
+#: src/components/SidebarNew/NewsPanel/index.tsx:25
+msgid "GENERAL"
+msgstr "일반"
+
+#: src/components/Sidebar/NewsPanel/index.tsx:25
+#: src/components/SidebarNew/NewsPanel/index.tsx:25
+msgid "CRYPTO"
+msgstr "암호화"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:47
+#: src/components/Mobile/HomeMenuPanel/index.tsx:199
+#: src/components/Mobile/HomeMenuPanel/index.tsx:227
+#: src/components/Sidebar/NewsPanel/index.tsx:36
+#: src/components/Sidebar/index.tsx:317
+#: src/components/SidebarNew/NewsPanel/index.tsx:36
+#: src/components/SidebarNew/index.tsx:343
+msgid "News"
+msgstr "뉴스"
+
+#: src/components/AccountBar/index.tsx:116
+#: src/components/Mobile/Header/index.tsx:210
+msgid "Practice"
+msgstr "연습하기"
+
+#: src/components/Mobile/Header/index.tsx:214
+msgid "Real"
+msgstr "리얼"
+
+#: src/components/AccountBar/index.tsx:153
+#: src/components/Mobile/Header/index.tsx:220
+msgid "Balance"
+msgstr "균형"
+
+#: src/components/AccountBar/index.tsx:159
+#: src/components/Mobile/Header/index.tsx:226
+msgid "Invested"
+msgstr "투자"
+
+#: src/components/Header/Account.tsx:245
+#: src/components/Mobile/Drawer/drawerMenu.tsx:250
+#: src/components/SideMenuBar/index.tsx:270
+msgid "Log out"
+msgstr "로그아웃"
+
+#: src/components/ChartContainer/OutOfTradingHours.tsx:117
+msgid "Out of trading hours"
+msgstr "거래 시간 초과"
+
+#: src/components/ChartContainer/OutOfTradingHours.tsx:131
+msgid "Will become available again on"
+msgstr "다음에 다시 사용할 수 있습니다"
+
+#: src/components/Assets/SearchSideMode/index.tsx:39
+#: src/components/ChartContainer/InstrumentsBar/index.tsx:191
+#: src/components/Mobile/SearchAssetsPanel/SearchSideMode/index.tsx:36
+msgid "All assets"
+msgstr "모든 자산"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:289
+msgid "Chart timeframes"
+msgstr "차트 기간"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:171
+#: src/components/ChartContainer/Chart/ChartControls.tsx:300
+msgid "Chart types"
+msgstr "차트 유형"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:315
+msgid "Chart drawing tools list"
+msgstr "차트 그리기 도구 리스트"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:364
+#: src/components/ChartContainer/Chart/ChartControls.tsx:488
+msgid "Candlestick"
+msgstr "캔들 차트"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:378
+#: src/components/ChartContainer/Chart/ChartControls.tsx:503
+msgid "Line"
+msgstr "라인"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:392
+#: src/components/ChartContainer/Chart/ChartControls.tsx:518
+msgid "Area"
+msgstr "지역"
+
+#: src/components/ChartContainer/Chart/Sentiment/index.tsx:237
+msgid "Trader sentiment"
+msgstr "트레이더 센티멘트"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/index.tsx:44
+msgid "INDICATORS"
+msgstr "지표"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/SelectionPanel/ItemMenu/index.tsx:73
+#: src/components/ChartContainer/Chart/ChartIndicators/SelectionPanel/ItemMenu/index.tsx:82
+msgid "All Indicators"
+msgstr "모든 지표"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/SelectionPanel/ItemMenu/index.tsx:79
+msgid "Currently in use"
+msgstr "현재 사용 중입니다"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/SelectionPanel/ItemMenu/index.tsx:105
+msgid "Search..."
+msgstr "검색..."
+
+#: src/components/ChartContainer/Chart/ChartIndicators/SelectionPanel/ItemExplorer/index.tsx:67
+msgid "Add Indicator"
+msgstr "표시기 추가"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/EditPanel/index.tsx:48
+#: src/components/ChartContainer/Chart/ChartIndicators/SelectionPanel/ItemExplorer/index.tsx:71
+msgid "Update"
+msgstr "업데이트"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:277
+msgid "Clear All"
+msgstr "모두 지우기"
+
+#: src/components/AccountBar/index.tsx:109
+msgid "Connected"
+msgstr "연결됨"
+
+#: src/components/AccountBar/index.tsx:147
+msgid "REAL"
+msgstr "리얼"
+
+#: src/components/AccountBar/index.tsx:165
+msgid "Available cash"
+msgstr "사용 가능한 현금"
+
+#: src/components/AccountBar/BonusWalletPicker/BonusWalletInfo.tsx:69
+#: src/components/AccountBar/BonusWalletPicker/index.tsx:34
+#: src/components/AccountBar/index.tsx:173
+msgid "Available bonus"
+msgstr "사요 가능한 보너스"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:53
+#: src/components/modals/PasswordResetModal/index.tsx:107
+#: src/components/modals/SignInModal/FieldGroup.tsx:53
+#: src/components/modals/SignInModal/index.tsx:116
+msgid "Email address"
+msgstr "이메일 주소"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:54
+#: src/components/modals/SignInModal/FieldGroup.tsx:54
+#: src/components/modals/SignInModal/index.tsx:127
+msgid "Password"
+msgstr "비밀번호"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:58
+#: src/components/modals/PasswordResetModal/index.tsx:109
+#: src/components/modals/SignInModal/FieldGroup.tsx:58
+#: src/components/modals/SignInModal/index.tsx:118
+msgid "Enter your email address"
+msgstr "이메일 주소를 입력하세요"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:59
+#: src/components/modals/SignInModal/FieldGroup.tsx:59
+#: src/components/modals/SignInModal/index.tsx:129
+msgid "Enter your password"
+msgstr "비밀번호를 입력하세요"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:63
+#: src/components/modals/PasswordResetModal/index.tsx:108
+#: src/components/modals/SignInModal/FieldGroup.tsx:63
+#: src/components/modals/SignInModal/index.tsx:117
+msgid "Please enter valid email address"
+msgstr "유효한 이메일 주소를 입력하십시오"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:64
+#: src/components/modals/SignInModal/FieldGroup.tsx:64
+#: src/components/modals/SignInModal/index.tsx:128
+msgid "Please enter your password"
+msgstr "비밀번호를 입력하십시오"
+
+#: src/components/Header/Account.tsx:68
+#: src/components/Mobile/Dashboard.tsx:42
+#: src/components/Mobile/Drawer/index.tsx:56
+#: src/components/Mobile/HomeMenuPanel/index.tsx:35
+#: src/components/Mobile/HomeMenuPanel/index.tsx:193
+#: src/components/Mobile/HomeMenuPanel/index.tsx:225
+#: src/components/Sidebar/index.tsx:313
+#: src/components/SidebarNew/index.tsx:339
+#: src/components/helper.tsx:6
+msgid "Dashboard"
+msgstr "계기반"
+
+#: src/components/Header/Account.tsx:70
+#: src/components/Mobile/Drawer/index.tsx:57
+msgid "Settings"
+msgstr "설정"
+
+#: src/components/Header/Account.tsx:72
+#: src/components/Header/index.tsx:121
+#: src/components/Mobile/Drawer/index.tsx:58
+#: src/components/Mobile/Header/index.tsx:155
+#: src/components/helper.tsx:52
+msgid "Deposit"
+msgstr "입금"
+
+#: src/components/Header/Account.tsx:74
+#: src/components/Mobile/Drawer/index.tsx:59
+#: src/components/helper.tsx:28
+msgid "Withdrawal"
+msgstr "출금"
+
+#: src/components/Header/Account.tsx:76
+#: src/components/Mobile/Drawer/index.tsx:60
+#: src/components/helper.tsx:30
+msgid "Transfer Funds"
+msgstr "자금 이체"
+
+#: src/components/Header/Account.tsx:78
+#: src/components/Mobile/Drawer/index.tsx:61
+#: src/components/helper.tsx:24
+msgid "Add Account"
+msgstr "계정 추가"
+
+#: src/components/Header/Account.tsx:80
+#: src/components/Mobile/Drawer/index.tsx:62
+#: src/components/helper.tsx:46
+msgid "Privacy Center"
+msgstr "개인정보 보호 센터"
+
+#: src/components/Header/Account.tsx:82
+#: src/components/Mobile/Drawer/index.tsx:63
+#: src/components/helper.tsx:32
+msgid "Transactions"
+msgstr "트랜잭션"
+
+#: src/components/modals/GuestDemoExpiredModal/index.tsx:36
+#: src/components/modals/SessionExpiredModal/index.tsx:28
+msgid "Logged Out"
+msgstr "로그아웃됨"
+
+#: src/components/modals/GuestDemoExpiredModal/index.tsx:43
+msgid "Your guest demo account expired, please create real account."
+msgstr "게스트 데모 계정이 만료되었습니다. 실제 계정을 만드십시오."
+
+#: src/components/modals/GuestDemoExpiredModal/index.tsx:50
+msgid "Create real account"
+msgstr "실제 계정 만들기"
+
+#: src/components/Header/index.tsx:130
+#: src/components/Mobile/Drawer/index.tsx:82
+msgid "Guest demo"
+msgstr "게스트 데모"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:406
+#: src/components/ChartContainer/Chart/ChartControls.tsx:533
+msgid "OHLC"
+msgstr "OHLC"
+
+#: src/components/Assets/Groups/constants/groups.ts:33
+#: src/components/Assets/Groups/index.tsx:63
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:33
+#: src/components/Assets/GroupsSideMode/index.tsx:64
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:50
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:59
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:33
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:64
+msgid "Crypto"
+msgstr "암호화폐"
+
+#: src/components/Assets/Groups/constants/groups.ts:51
+#: src/components/Assets/Groups/index.tsx:69
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:51
+#: src/components/Assets/GroupsSideMode/index.tsx:70
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:51
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:60
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:51
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:70
+msgid "Commodities"
+msgstr "분류: 원자재"
+
+#: src/components/Assets/Groups/constants/groups.ts:57
+#: src/components/Assets/Groups/index.tsx:71
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:57
+#: src/components/Assets/GroupsSideMode/index.tsx:72
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:53
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:62
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:57
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:72
+msgid "Indices"
+msgstr "분류: 지수"
+
+#: src/components/Assets/Groups/constants/groups.ts:45
+#: src/components/Assets/Groups/index.tsx:67
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:45
+#: src/components/Assets/GroupsSideMode/index.tsx:68
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:54
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:63
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:45
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:68
+msgid "Stocks"
+msgstr "주식"
+
+#: src/components/Assets/Groups/constants/groups.ts:39
+#: src/components/Assets/Groups/index.tsx:65
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:39
+#: src/components/Assets/GroupsSideMode/index.tsx:66
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:52
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:61
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:39
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:66
+msgid "Currencies"
+msgstr "화폐"
+
+#: src/components/modals/PasswordResetModal/index.tsx:100
+#: src/components/modals/PasswordResetModal/index.tsx:163
+#: src/components/modals/PasswordResetModal/index.tsx:180
+msgid "Restore password"
+msgstr "비밀번호 복원"
+
+#: src/components/modals/PasswordResetModal/index.tsx:102
+msgid "Please enter your email address and we will send you instruction on how to reset your password."
+msgstr "이메일 주소를 입력해 주시면 비밀번호 재설정 방법에 대한 안내를 보내드립니다."
+
+#: src/components/modals/PasswordResetModal/index.tsx:132
+msgid "Cancel"
+msgstr "취소"
+
+#: src/components/modals/PasswordResetModal/index.tsx:144
+msgid "Submit"
+msgstr "제출"
+
+#: src/components/modals/PasswordResetModal/index.tsx:182
+#. *
+#. * Show success contents
+#. 
+msgid "We have reset the password, please check the email"
+msgstr "비밀번호를 재설정했습니다. 이메일을 확인하십시오"
+
+#: src/components/modals/PasswordResetModal/index.tsx:191
+#: src/components/modals/SessionExpiredModal/index.tsx:41
+msgid "Close"
+msgstr "닫기"
+
+#: src/components/TradeBox/TextInfoBlock.tsx:70
+#: src/components/TradeBoxNew/TextInfoBlock.tsx:70
+msgid "Expiry at"
+msgstr "만료 날짜"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:316
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:312
+msgid "Time Duration"
+msgstr "지속 시간"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:364
+#: src/components/TradeBox/index.tsx:395
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:367
+#: src/components/TradeBoxNew/index.tsx:369
+msgid "Amount"
+msgstr "금액"
+
+#: src/components/notifications/TradeSubmit/TradeSubmittedSuccess.tsx:20
+msgid "The trade was successfully opened"
+msgstr "무역이 성공적으로 열렸습니다."
+
+#: src/components/notifications/TradeSubmit/TradeSubmittedError.tsx:36
+msgid "Minimum investment amount"
+msgstr "최소 투자 금액"
+
+#: src/components/notifications/TradeSubmit/TradeSubmittedError.tsx:39
+msgid "Maximum investment amount"
+msgstr "최대 투자 금액"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:197
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:197
+#: src/components/TradeBox/TextInfoBlock.tsx:61
+#: src/components/TradeBoxNew/TextInfoBlock.tsx:61
+msgid "Strike Price"
+msgstr "스트라이크 프라이스"
+
+#: src/components/ChartContainer/Chart/ChartPositionInfo/index.tsx:267
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:521
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:362
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:527
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:362
+msgid "Sell back"
+msgstr "다시 팔기"
+
+#: src/components/AccountBar/index.tsx:21
+msgid "Balance Bonus"
+msgstr "잔액 보너스"
+
+#: src/components/AccountBar/index.tsx:22
+msgid "Smart Bonus"
+msgstr "스마트 보너스"
+
+#: src/components/AccountBar/index.tsx:23
+msgid "Pending Bonus"
+msgstr "보류 중인 보너스"
+
+#: src/components/AccountBar/index.tsx:24
+msgid "Profit Bonus"
+msgstr "이익 보너스"
+
+#: src/components/AccountBar/index.tsx:25
+msgid "Sticky Bonus"
+msgstr "스티커 보너스"
+
+#: src/components/AccountBar/index.tsx:26
+msgid "No Deposit Bonus"
+msgstr "보증금 보너스 없음"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:674
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:681
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:201
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:680
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:687
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:201
+msgid "Closed Price"
+msgstr "종가"
+
+#: src/components/ChartContainer/Chart/CurrentPayout.tsx:45
+#: src/components/ChartContainer/MobileInstrumentsBar/CurrentPayout.tsx:33
+msgid "PAYOUT"
+msgstr "지불금"
+
+#: src/components/modals/SellbackModal/index.tsx:74
+msgid "ID"
+msgstr "아이디"
+
+#: src/components/modals/SellbackModal/index.tsx:78
+msgid "Type"
+msgstr "유형"
+
+#: src/components/modals/SellbackModal/index.tsx:84
+msgid "Asset"
+msgstr "자산"
+
+#: src/components/modals/SellbackModal/index.tsx:98
+msgid "Spot Price"
+msgstr "스팟 가격"
+
+#: src/components/modals/SessionExpiredModal/index.tsx:35
+msgid "You are logged out, please log in to the platform."
+msgstr "로그아웃되었습니다. 플랫폼에 로그인하십시오."
+
+#: src/components/TradeBox/MobileInfoPanel.tsx:69
+#: src/components/TradeBoxNew/MobileInfoPanel.tsx:69
+msgid "Strike price"
+msgstr "스트라이크 프라이스"
+
+#: src/components/TradeBox/MobileInfoPanel.tsx:71
+#: src/components/TradeBoxNew/MobileInfoPanel.tsx:71
+msgid "Potential profit"
+msgstr "잠재적 이익"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:54
+#: src/components/Sidebar/services/TradeStatus.ts:14
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:54
+#: src/components/SidebarNew/services/TradeStatus.ts:14
+msgid "Sold back"
+msgstr "다시 판매됨"
+
+#: src/components/ChartContainer/Chart/InstrumentInfo/index.tsx:76
+msgid "Precision"
+msgstr "정밀도"
+
+#: src/components/ChartContainer/Chart/InstrumentInfo/index.tsx:77
+msgid "Opening hours"
+msgstr "영업 시간"
+
+#: src/components/AccountBar/BonusWalletPicker/BonusWalletInfo.tsx:74
+msgid "Released bonus"
+msgstr "출시 보너스"
+
+#: src/components/AccountBar/BonusWalletPicker/BonusWalletInfo.tsx:79
+msgid "Original bonus"
+msgstr "오리지널 보너스"
+
+#: src/components/AccountBar/BonusWalletPicker/BonusWalletInfo.tsx:84
+msgid "Volume traded"
+msgstr "거래량"
+
+#: src/components/AccountBar/BonusWalletPicker/BonusWalletInfo.tsx:89
+msgid "Volume required"
+msgstr "필요한 볼륨"
+
+#: src/components/ui/FavIcon.tsx:83
+msgid "Remove from Favorites"
+msgstr "즐겨 찾기에서 삭제하기"
+
+#: src/components/ui/FavIcon.tsx:83
+msgid "Add to Favorites"
+msgstr "즐겨 찾기에 추가"
+
+#: src/components/ui/TopIcon.tsx:81
+msgid "Remove from chart"
+msgstr "차트에서 제거"
+
+#: src/components/ui/TopIcon.tsx:81
+msgid "Add to chart"
+msgstr "차트에 추가"
+
+#: src/components/notifications/TradeSubmit/TradeSubmittedPositionClosed.tsx:30
+#, javascript-format
+msgid "${ props.notification.props.amount } positions were closed at ${ time }. Total profit "
+msgstr "총 수익"
+
+#: src/components/notifications/TradeSubmit/TradeSubmittedPositionClosed.tsx:52
+msgid "Go to the closed positions"
+msgstr "마감된 포지션으로 이동"
+
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:201
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:201
+#: src/components/TradeBox/DirectionPanels.tsx:281
+#: src/components/TradeBoxNew/DirectionPanels.tsx:287
+msgid "UP"
+msgstr "높음"
+
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:202
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:202
+#: src/components/TradeBox/DirectionPanels.tsx:380
+#: src/components/TradeBoxNew/DirectionPanels.tsx:396
+msgid "DOWN"
+msgstr "낮음"
+
+#: src/components/TradeBox/ExpirySelect.tsx:134
+#: src/components/TradeBoxNew/ExpirySelect.tsx:131
+#, javascript-format
+msgid "${ expiry } seconds"
+msgstr "${ expiry }초"
+
+#: src/components/TradeBox/ExpirySelect.tsx:138
+#: src/components/TradeBoxNew/ExpirySelect.tsx:135
+#, javascript-format
+msgid "${ expiry } min"
+msgstr "${ expiry }분"
+
+#: src/components/TradeBox/ExpirySelect.tsx:142
+#: src/components/TradeBoxNew/ExpirySelect.tsx:139
+#, javascript-format
+msgid "${ hours } hour"
+msgstr "${ hours }시간"
+
+#: src/components/TradeBox/ExpirySelect.tsx:142
+#: src/components/TradeBoxNew/ExpirySelect.tsx:139
+#, javascript-format
+msgid "${ hours } hours"
+msgstr "${ hours }시간"
+
+#: src/components/TradeBox/ExpirySelect.tsx:145
+#: src/components/TradeBoxNew/ExpirySelect.tsx:142
+#, javascript-format
+msgid "${ hours } day"
+msgstr "${ hours }일"
+
+#: src/components/TradeBox/ExpirySelect.tsx:145
+#: src/components/TradeBoxNew/ExpirySelect.tsx:142
+#, javascript-format
+msgid "${ hours } days"
+msgstr "${ hours }일"
+
+#: src/components/TradeBox/MobileInfoPanel.tsx:72
+#: src/components/TradeBoxNew/MobileInfoPanel.tsx:72
+msgid "Breakeven Price"
+msgstr "손익분기점 가격"
+
+#: src/components/TradeBox/NextExpiryBox.tsx:162
+#: src/components/TradeBoxNew/NextExpiryBox.tsx:162
+msgid "It’s not possible to open a trade at this expiry time anymore, since the price is no longer in the range."
+msgstr "가격이 더 이상 범위 내에 있지 않기 때문에 이 만료 시간에 더 이상 거래를 열 수 없습니다."
+
+#: src/components/TradeBox/NextExpiryBox.tsx:163
+#: src/components/TradeBoxNew/NextExpiryBox.tsx:163
+msgid "Pick another expiry time."
+msgstr "다른 만료 시간 선택"
+
+#: src/components/TradeBox/NextExpiryBox.tsx:167
+#: src/components/TradeBoxNew/NextExpiryBox.tsx:167
+msgid "Next expiry time"
+msgstr "다음 만료 시간"
+
+#: src/components/TradeBox/OneclickTradeBox.tsx:40
+#: src/components/TradeBoxNew/OneclickTradeBox.tsx:40
+msgid "One-click Trade"
+msgstr "원클릭 거래"
+
+#: src/components/TradeBox/PayoutInformationBox.tsx:30
+#: src/components/TradeBox/index.tsx:548
+#: src/components/TradeBox/index.tsx:580
+#: src/components/TradeBoxNew/PayoutInformationBox.tsx:30
+msgid "Payout information"
+msgstr "지불 정보"
+
+#: src/components/TradeBox/TimeLeft.tsx:21
+#: src/components/TradeBoxNew/TimeLeft.tsx:21
+msgid "seconds"
+msgstr "초"
+
+#: src/components/TradeBox/index.tsx:524
+#: src/components/TradeBoxNew/index.tsx:486
+msgid "Tap high or low"
+msgstr "높음 또는 낮음"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:156
+#, javascript-format
+msgid "${ expiry }s"
+msgstr "${ expiry }초"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:160
+#, javascript-format
+msgid "${ expiry }m"
+msgstr "${ expiry }분"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:164
+#, javascript-format
+msgid "${ hours }h"
+msgstr "${ hours }시간"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:167
+#, javascript-format
+msgid "${ hours }d"
+msgstr "${ hours }일"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:103
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:103
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:436
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:557
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:462
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:590
+msgid "Up"
+msgstr "높음"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:104
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:104
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:485
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:526
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:518
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:559
+msgid "Down"
+msgstr "낮음"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:582
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:615
+msgid "Tap up or down"
+msgstr "위 또는 아래로 탭"
+
+#: src/components/Sidebar/index.tsx:315
+#: src/components/SidebarNew/index.tsx:341
+msgid "Open/Сlosed Positions"
+msgstr "열림/닫힘 포지션"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:55
+#: src/components/Mobile/HomeMenuPanel/index.tsx:203
+#: src/components/Mobile/HomeMenuPanel/index.tsx:224
+#: src/components/Sidebar/index.tsx:325
+#: src/components/SidebarNew/index.tsx:351
+msgid "Daily Analysis"
+msgstr "일일 분석"
+
+#: src/components/Sidebar/index.tsx:327
+#: src/components/SidebarNew/index.tsx:353
+msgid "Markets"
+msgstr "시장"
+
+#: src/components/Sidebar/index.tsx:446
+#: src/components/SidebarNew/index.tsx:472
+msgid "new"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:89
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:89
+msgid "Money back"
+msgstr "환불"
+
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:337
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:337
+msgid "Current PnL"
+msgstr "현재손익"
+
+#: src/components/ChartContainer/Chart/ChartPositionInfo/index.tsx:267
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:487
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:493
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:348
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:493
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:499
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:348
+msgid "Close Trade"
+msgstr "현재손익"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:545
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:386
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:551
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:386
+msgid "Hedge"
+msgstr "헤지"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:565
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:402
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:571
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:402
+msgid "Double Up"
+msgstr "더블 업"
+
+#: src/components/Sidebar/PositionsPanel/index.tsx:121
+#: src/components/SidebarNew/PositionsPanel/index.tsx:111
+#, javascript-format
+msgid "Showing last ${ closedTrades }"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/index.tsx:128
+#: src/components/SidebarNew/PositionsPanel/index.tsx:116
+msgid "load more"
+msgstr "더 보기"
+
+#: src/components/Sidebar/PositionsPanel/OpenPositions/ItemsGroup.tsx:214
+#: src/components/SidebarNew/PositionsPanel/OpenPositions/ItemsGroup.tsx:206
+msgid "Total P&L"
+msgstr "총 손익"
+
+#: src/components/Sidebar/PositionsPanel/OpenPositions/PositionsModeSwitcher.tsx:36
+#: src/components/SidebarNew/PositionsPanel/OpenPositions/PositionsModeSwitcher.tsx:36
+msgid "Group by expiry time"
+msgstr "만료 시간별로 그룹화"
+
+#: src/components/Sidebar/NewsPanel/NewsFeedItem.tsx:47
+#: src/components/SidebarNew/NewsPanel/NewsFeedItem.tsx:47
+msgid "Read Less"
+msgstr "덜 읽기"
+
+#: src/components/Sidebar/DailyAnalysisPanel/index.tsx:31
+#: src/components/SidebarNew/DailyAnalysisPanel/index.tsx:31
+msgid "daily analysis"
+msgstr "일일 분석"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:216
+msgid "Home"
+msgstr "홈"
+
+#: src/components/Dashboard/TradeVolume/chart.tsx:53
+msgid "Volume Per Day"
+msgstr "일당 볼륨"
+
+#: src/components/Dashboard/TradeVolume/index.tsx:64
+msgid "total traded volume"
+msgstr "총 거래량"
+
+#: src/components/Dashboard/TradeVolume/index.tsx:78
+msgid "number of trades"
+msgstr "거래 횟수"
+
+#: src/components/Dashboard/TradeVolume/index.tsx:92
+msgid "average volume"
+msgstr "평균 볼륨"
+
+#: src/components/Dashboard/TopTradedAssets/index.tsx:44
+msgid "Other"
+msgstr "기타"
+
+#: src/components/Dashboard/TopTradedAssets/index.tsx:57
+msgid "Top traded assets"
+msgstr "상위 거래 자산 순위"
+
+#: src/components/Dashboard/RecentUpdates/index.tsx:22
+msgid "Recent Updates"
+msgstr "최근 업데이트"
+
+#: src/components/Dashboard/RecentTrades/download.tsx:83
+msgid "Download"
+msgstr "다운로드"
+
+#: src/components/Dashboard/RecentTrades/index.tsx:31
+msgid "Recent Trades"
+msgstr "최근 거래"
+
+#: src/components/Dashboard/RecentTrades/index.tsx:39
+msgid "Load More"
+msgstr "더 보기"
+
+#: src/components/Dashboard/RecentTrades/table.tsx:33
+msgid "id"
+msgstr "아이디"
+
+#: src/components/Dashboard/RecentTrades/table.tsx:36
+msgid "trade time"
+msgstr "거래 시간"
+
+#: src/components/Dashboard/RecentTrades/table.tsx:39
+msgid "expiry time"
+msgstr "만료 시간"
+
+#: src/components/Dashboard/RecentTrades/table.tsx:42
+msgid "asset"
+msgstr "자산"
+
+#: src/components/Dashboard/RecentTrades/table.tsx:45
+msgid "investment"
+msgstr "투자"
+
+#: src/components/Assets/Table/index.tsx:154
+#: src/components/Assets/TableSideMode/index.tsx:102
+#: src/components/ChartContainer/Chart/Instruments/InstrumentSubGroup.tsx:90
+#: src/components/Dashboard/RecentTrades/table.tsx:48
+#: src/components/Mobile/SearchAssetsPanel/TableSideMode/index.tsx:100
+msgid "payout"
+msgstr "지불금"
+
+#: src/components/Assets/Table/index.tsx:158
+#: src/components/Dashboard/RecentTrades/table.tsx:51
+msgid "status"
+msgstr "상태"
+
+#: src/components/Dashboard/RecentTrades/table.tsx:54
+msgid "return"
+msgstr "뒤로"
+
+#: src/components/Dashboard/RatioTraders/index.tsx:47
+msgid "High/Low Ratio"
+msgstr "높음/낮음 비율"
+
+#: src/components/Dashboard/Cash/index.tsx:34
+msgid "balance"
+msgstr "균형"
+
+#: src/components/Dashboard/Cash/index.tsx:45
+msgid "invested"
+msgstr "투자"
+
+#: src/components/Dashboard/Cash/index.tsx:56
+msgid "available cash"
+msgstr "사용 가능한 현금"
+
+#: src/components/Dashboard/Bonus/index.tsx:48
+msgid "total bonus received"
+msgstr "받은 총 보너스"
+
+#: src/components/Dashboard/Bonus/index.tsx:59
+msgid "traded bonus"
+msgstr "거래 보너스"
+
+#: src/components/Dashboard/Bonus/index.tsx:70
+msgid "pending bonus"
+msgstr "보류 중인 보너스"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:343
+msgid "Indicators only available on timeframes  of 1 min and above."
+msgstr "1분 이상의 기간에만 표시기를 사용할 수 있습니다."
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:204
+#: src/components/ChartContainer/Chart/ChartControls.tsx:348
+msgid "Switch"
+msgstr "스위치"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:98
+#: src/components/ChartContainer/Chart/period.ts:27
+#: src/components/ChartContainer/Chart/period.ts:29
+msgid "Tick"
+msgstr "진드기"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:100
+#: src/components/ChartContainer/Chart/period.ts:46
+msgid "1m"
+msgstr "1분"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:102
+#: src/components/ChartContainer/Chart/period.ts:48
+msgid "1 Minute"
+msgstr "1분"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:104
+#: src/components/ChartContainer/Chart/period.ts:65
+msgid "2m"
+msgstr "2분"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:106
+#: src/components/ChartContainer/Chart/period.ts:67
+msgid "2 Minutes"
+msgstr "2분"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:108
+#: src/components/ChartContainer/Chart/period.ts:84
+msgid "5m"
+msgstr "5분"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:110
+#: src/components/ChartContainer/Chart/period.ts:86
+msgid "5 Minutes"
+msgstr "5분"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:112
+#: src/components/ChartContainer/Chart/period.ts:103
+msgid "15m"
+msgstr "15분"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:114
+#: src/components/ChartContainer/Chart/period.ts:105
+msgid "15 Minutes"
+msgstr "15분"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:116
+#: src/components/ChartContainer/Chart/period.ts:122
+msgid "30m"
+msgstr "30분"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:118
+#: src/components/ChartContainer/Chart/period.ts:124
+msgid "30 Minutes"
+msgstr "30분"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:120
+#: src/components/ChartContainer/Chart/period.ts:141
+msgid "1h"
+msgstr "1시간"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:122
+#: src/components/ChartContainer/Chart/period.ts:143
+msgid "1 Hour"
+msgstr "1시간"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:124
+#: src/components/ChartContainer/Chart/period.ts:160
+msgid "2h"
+msgstr "2시간"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:126
+#: src/components/ChartContainer/Chart/period.ts:162
+msgid "2 Hours"
+msgstr "2시간"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:128
+#: src/components/ChartContainer/Chart/period.ts:179
+msgid "4h"
+msgstr "4시간"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:130
+#: src/components/ChartContainer/Chart/period.ts:181
+msgid "4 Hours"
+msgstr "4시간"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:132
+#: src/components/ChartContainer/Chart/period.ts:198
+msgid "1d"
+msgstr "1일"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:134
+#: src/components/ChartContainer/Chart/period.ts:200
+msgid "1 Day"
+msgstr "1일"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:136
+#: src/components/ChartContainer/Chart/period.ts:217
+msgid "1w"
+msgstr "1주"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:138
+#: src/components/ChartContainer/Chart/period.ts:219
+msgid "1 Week"
+msgstr "1주"
+
+#: src/components/Assets/Table/index.tsx:162
+#: src/components/Assets/TableSideMode/index.tsx:99
+#: src/components/ChartContainer/Chart/Instruments/InstrumentSubGroup.tsx:88
+#: src/components/Mobile/SearchAssetsPanel/TableSideMode/index.tsx:103
+msgid "price"
+msgstr "가격"
+
+#: src/components/ChartContainer/Chart/Instruments/InstrumentSubGroup.tsx:89
+msgid "daily %"
+msgstr "매일 %"
+
+#: src/components/ChartContainer/Chart/ChartPositionInfo/index.tsx:194
+msgid "Return on sell"
+msgstr "판매 수익률"
+
+#: src/components/ChartContainer/Chart/ChartPositionInfo/index.tsx:207
+msgid "Breakeven (1x)"
+msgstr "손익분기점"
+
+#: src/components/ChartContainer/Chart/ChartPositionInfo/index.tsx:221
+msgid "Money doubled (2x)"
+msgstr "두 배로 늘어난 돈(2x)"
+
+#: src/components/ChartContainer/Chart/ChartPositionInfo/index.tsx:237
+msgid "Open PnL"
+msgstr "PnL 열기"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:40
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:78
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:126
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:145
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:164
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:183
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:202
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:221
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:254
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:278
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:297
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:316
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:343
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:362
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:381
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:400
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:429
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:448
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:467
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:486
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:548
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:589
+msgid "Index"
+msgstr "색인"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:45
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:59
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:83
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:131
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:150
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:169
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:188
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:207
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:226
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:240
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:259
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:283
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:302
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:321
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:348
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:367
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:386
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:405
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:434
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:453
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:472
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:491
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:553
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:594
+msgid "Period"
+msgstr "기간"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:64
+msgid "Decimals"
+msgstr "소수점"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:88
+msgid "Standard Deviation"
+msgstr "표준 편차"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:102
+msgid "Short period"
+msgstr "짧은 기간"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:107
+msgid "Long period"
+msgstr "긴 기간"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:112
+msgid "Signal period"
+msgstr "신호 주기"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:264
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:558
+msgid "Periods"
+msgstr "기간"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:496
+msgid "Top band"
+msgstr "탑 밴드"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:501
+msgid "Bottom band"
+msgstr "하단 밴드"
+
+#: src/components/Assets/Groups/constants/groups.ts:8
+#: src/components/Assets/Groups/index.tsx:55
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:8
+#: src/components/Assets/GroupsSideMode/index.tsx:56
+#: src/components/ChartContainer/Chart/ChartIndicators/SelectionPanel/ItemMenu/index.tsx:76
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:8
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:56
+msgid "Favorites"
+msgstr "즐겨찾기"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:22
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:171
+msgid "Label"
+msgstr "상표"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:28
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:173
+msgid "Circle"
+msgstr "원"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:34
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:175
+msgid "Rectangle"
+msgstr "직사각형"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:40
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:177
+msgid "Segment"
+msgstr "분절"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:46
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:179
+msgid "Arrow segment"
+msgstr "화살표 부분"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:52
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:181
+msgid "Ray"
+msgstr "레이"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:58
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:183
+msgid "Arrow ray"
+msgstr "화살 광선"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:64
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:185
+msgid "Horizontal line"
+msgstr "수평선"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:70
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:187
+msgid "Vertical line"
+msgstr "수직선"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:76
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:189
+msgid "Elliot 3"
+msgstr "엘리엇 3"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:82
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:191
+msgid "Elliot 5"
+msgstr "엘리엇 5"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:88
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:193
+msgid "Crooked 3"
+msgstr "비뚤어진 3"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:94
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:195
+msgid "Crooked 5"
+msgstr "비뚤어진 5"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:100
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:197
+msgid "Measure XY"
+msgstr "XY측정"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:106
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:199
+msgid "Measure Y"
+msgstr "Y측정"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:112
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:201
+msgid "Measure X"
+msgstr "X측정"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:123
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:203
+#. {
+#. title: 'Fibonacci',
+#. class: 'highcharts-fibonacci',
+#. icon: 'chart-fibonacci'
+#. },
+msgid "Pitchfork"
+msgstr "긁어 올리다"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:129
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:205
+msgid "Parallel channel"
+msgstr "병렬 채널"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:135
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:207
+msgid "Vertical counter"
+msgstr "수직 카운터"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:141
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:209
+msgid "Vertical label"
+msgstr "세로 레이블"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:147
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:211
+msgid "Vertical arrow"
+msgstr "수직 화살표"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:199
+msgid "Indicators only available on timeframes of 1 min and above."
+msgstr "표시기는 1분 이상의 시간 프레임에서만 사용할 수 있습니다."
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:272
+msgid "Zoom in"
+msgstr "확대"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:317
+msgid "Toggle navigator"
+msgstr "터글 네비게이터"
+
+#: src/components/Assets/Table/index.tsx:112
+msgid "Opens in"
+msgstr "에서 열림"
+
+#: src/components/Assets/Table/index.tsx:146
+msgid "instrument"
+msgstr "악기"
+
+#: src/components/Assets/Table/index.tsx:150
+msgid "description"
+msgstr "설명"
+
+#: src/components/Assets/Table/index.tsx:174
+msgid "open trades"
+msgstr "공개 거래"
+
+#: src/components/Assets/Table/index.tsx:179
+msgid "add/remove"
+msgstr "추가/제거"
+
+#: src/components/Assets/Table/index.tsx:184
+msgid "actions"
+msgstr "실행"
+
+#: src/components/Assets/Table/index.tsx:278
+msgid "Open"
+msgstr "열기"
+
+#: src/components/Assets/Search/index.tsx:31
+#: src/components/Assets/SearchSideMode/index.tsx:68
+#: src/components/Mobile/SearchAssetsPanel/SearchSideMode/index.tsx:57
+msgid "Type asset name to search"
+msgstr "검색할 자산 이름 입력"
+
+#: src/components/Assets/Groups/constants/groups.ts:15
+#: src/components/Assets/Groups/index.tsx:57
+msgid "Hot assets"
+msgstr "인기 자산"
+
+#: src/components/Assets/Groups/constants/groups.ts:21
+#: src/components/Assets/Groups/index.tsx:59
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:21
+#: src/components/Assets/GroupsSideMode/index.tsx:60
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:21
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:60
+msgid "Recently traded"
+msgstr "최근 거래"
+
+#: src/components/Assets/Groups/constants/groups.ts:27
+#: src/components/Assets/Groups/index.tsx:61
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:27
+#: src/components/Assets/GroupsSideMode/index.tsx:62
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:27
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:62
+msgid "Top riser/fallen"
+msgstr "탑 상승/하강"
+
+#: src/components/ChartContainer/MobileInstrumentsBar/ProductTypePanel/TypeList/TypeItem/index.tsx:37
+#: src/components/TradeBox/ProductTypePanel/index.tsx:78
+#: src/components/TradeBox/ProductTypePanel/index.tsx:159
+#: src/components/TradeBoxNew/ProductTypePanel/index.tsx:79
+#: src/components/TradeBoxNew/ProductTypePanel/index.tsx:165
+msgid "High/Low"
+msgstr "저 높은"
+
+#: src/components/ChartContainer/MobileInstrumentsBar/ProductTypePanel/TypeList/TypeItem/index.tsx:38
+#: src/components/TradeBox/ProductTypePanel/index.tsx:72
+#: src/components/TradeBox/ProductTypePanel/index.tsx:147
+#: src/components/TradeBoxNew/ProductTypePanel/index.tsx:73
+#: src/components/TradeBoxNew/ProductTypePanel/index.tsx:153
+msgid "Options"
+msgstr "옵션"
+
+#: src/components/TradeBox/ExpiriesSlider/ExpiryItem.tsx:31
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:297
+#: src/components/TradeBoxNew/ExpiriesSlider/ExpiryItem.tsx:31
+#, javascript-format
+msgid "${ game.cdfExpiry }H"
+msgstr "${ game.cdfExpiry }시간"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:59
+#: src/components/Mobile/HomeMenuPanel/index.tsx:205
+#: src/components/Mobile/HomeMenuPanel/index.tsx:228
+#: src/components/Sidebar/index.tsx:331
+#: src/components/SidebarNew/index.tsx:357
+msgid "Leaderboard"
+msgstr "리더보드"
+
+#: src/components/Sidebar/VideoNews/index.tsx:76
+#: src/components/SidebarNew/VideoNews/index.tsx:76
+msgid "Market session Brief"
+msgstr "시장 세션 요약"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:46
+#: src/components/SidebarNew/LeaderBoard/index.tsx:46
+msgid "TODAY"
+msgstr "금일"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:46
+#: src/components/SidebarNew/LeaderBoard/index.tsx:46
+msgid "THIS WEEK"
+msgstr "이번주"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:46
+#: src/components/SidebarNew/LeaderBoard/index.tsx:46
+msgid "THIS MONTH"
+msgstr "이번달"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:97
+#: src/components/SidebarNew/LeaderBoard/index.tsx:97
+msgid "Trader’s Performance"
+msgstr "트레이더의 실적"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:102
+#: src/components/SidebarNew/LeaderBoard/index.tsx:102
+msgid "Rank"
+msgstr "순위"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:103
+#: src/components/SidebarNew/LeaderBoard/index.tsx:103
+msgid "Name"
+msgstr "이름"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:104
+#: src/components/SidebarNew/LeaderBoard/index.tsx:104
+msgid "Profit"
+msgstr "이익"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:122
+#: src/components/SidebarNew/LeaderBoard/index.tsx:122
+msgid "Load more"
+msgstr "더 보기"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:242
+msgid "Zoom out"
+msgstr "축소"
+
+#: src/components/Assets/Table/index.tsx:168
+msgid "24h change"
+msgstr "24시간 변화"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:440
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:490
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:565
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:466
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:523
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:598
+msgid "It is not allowed to make trades in the opposite direction while you have active open trades"
+msgstr "오픈 트레이드가 활발한 상태에서 반대 방향으로 거래하는것은 허용되지 않습니다"
+
+#: src/components/ChartContainer/Chart/CfdSentimentSwitcher.tsx:117
+msgid "Price"
+msgstr "가격"
+
+#: src/components/ChartContainer/Chart/CfdSentimentSwitcher.tsx:119
+msgid "Multiplier"
+msgstr "승수"
+
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:37
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:67
+msgid "Basic Chart"
+msgstr "기본 차트"
+
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:54
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:80
+msgid "Switch to Basic Chart"
+msgstr "기본 차트로 전환"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:421
+#: src/components/ChartContainer/Chart/ChartControls.tsx:549
+msgid "Heikin Ashi"
+msgstr "헤이킨 아시"
+
+#: src/components/ChartContainer/Chart/index.tsx:545
+msgid "CLOSE"
+msgstr "닫기"
+
+#: src/components/ChartContainer/Chart/index.tsx:545
+msgid "EXPIRED"
+msgstr "만료됨"
+
+#: src/components/ChartContainer/Chart/index.tsx:545
+msgid "SELL"
+msgstr "판매"
+
+#: src/components/ChartContainer/Chart/index.tsx:1266
+#: src/components/ChartContainer/Chart/plotLines.ts:115
+msgid "Breakeven"
+msgstr "손익분기점"
+
+#: src/components/ChartContainer/Chart/plotLines.ts:104
+msgid "If the asset price above this level at expiry time, you're making profits"
+msgstr "만기 시점에 자산 가격이 이 수준 이상이면 수익이 발생합니다."
+
+#: src/components/ChartContainer/Chart/plotLines.ts:106
+msgid "If the asset price below this level at expiry time, you're making profits"
+msgstr "만기 시점에 자산 가격이 이 수준보다 낮으면 수익이 발생합니다."
+
+#: src/components/Sidebar/index.tsx:333
+#: src/components/SidebarNew/index.tsx:359
+msgid "Pool Trades"
+msgstr "풀 거래"
+
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:224
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:224
+msgid "Trades"
+msgstr "거래"
+
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:232
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:232
+msgid "High Pool"
+msgstr "높은 풀"
+
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:243
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:314
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:243
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:314
+msgid "User"
+msgstr "사용자"
+
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:244
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:315
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:244
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:315
+msgid "Time"
+msgstr "시간"
+
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:245
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:316
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:245
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:316
+msgid "Open Price"
+msgstr "오픈 가격"
+
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:303
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:303
+msgid "Low Pool"
+msgstr "낮은 풀"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:232
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:239
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:609
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:616
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:238
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:245
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:615
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:622
+msgid "Symbol"
+msgstr "상징"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:245
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:252
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:622
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:629
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:251
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:258
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:628
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:635
+msgid "Direction"
+msgstr "방향"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:297
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:304
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:303
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:310
+msgid "Crnt Price"
+msgstr "현재 가격"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:323
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:330
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:329
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:336
+msgid "PnL"
+msgstr "왁싱 및 약화"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:336
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:343
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:713
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:720
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:342
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:349
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:719
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:726
+msgid "Trade Time"
+msgstr "거래 시간"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:349
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:356
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:603
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:726
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:733
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:355
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:362
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:609
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:732
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:739
+msgid "Expiry Time"
+msgstr "만료 시간"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:362
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:369
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:368
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:375
+msgid "Actions"
+msgstr "행위"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:861
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:882
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:867
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:888
+msgid "Open Positions"
+msgstr "오픈 포지션"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:888
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:894
+msgid "Closed Positions"
+msgstr "클로즈드 포지션"
+
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:39
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:69
+msgid "Trading View"
+msgstr "트레이딩 뷰"
+
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:41
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:71
+msgid "Advanced Chart"
+msgstr "고급 차트"
+
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:56
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:82
+msgid "Switch to Trading View"
+msgstr "트레이딩 보기로 전환"
+
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:58
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:84
+msgid "Switch to Advanced Chart"
+msgstr "고급 차트로 전환"
+
+#: src/components/ChartContainer/Chart/index.tsx:2425
+#: src/components/TradeBox/index.tsx:441
+#: src/components/TradeBoxNew/index.tsx:395
+msgid "Expiration"
+msgstr "만료"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:429
+#: src/components/ChartContainer/Chart/index.tsx:3690
+msgid "purchase time"
+msgstr "구매 시간"
+
+#: src/components/Assets/TableSideMode/index.tsx:96
+#: src/components/Mobile/SearchAssetsPanel/TableSideMode/index.tsx:98
+msgid "instrmnt"
+msgstr "악기"
+
+#: src/components/Assets/TableSideMode/index.tsx:105
+#: src/components/Mobile/SearchAssetsPanel/TableSideMode/index.tsx:106
+msgid "chg %"
+msgstr ""
+
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:15
+#: src/components/Assets/GroupsSideMode/index.tsx:58
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:15
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:58
+msgid "Most traded"
+msgstr ""
+
+#: src/components/ChartContainer/MobileInstrumentsBar/ProductTypePanel/TypeList/TypeItem/index.tsx:39
+#: src/components/TradeBox/ProductTypePanel/index.tsx:84
+#: src/components/TradeBox/ProductTypePanel/index.tsx:171
+#: src/components/TradeBoxNew/ProductTypePanel/index.tsx:85
+#: src/components/TradeBoxNew/ProductTypePanel/index.tsx:177
+msgid "Above/Below"
+msgstr ""
+
+#: src/components/TradeBox/ProductTypePanel/index.tsx:121
+msgid "Product"
+msgstr ""
+
+#: src/components/TradeBox/DirectionPanels.tsx:279
+#: src/components/TradeBoxNew/DirectionPanels.tsx:285
+msgid "Above"
+msgstr ""
+
+#: src/components/TradeBox/DirectionPanels.tsx:378
+#: src/components/TradeBoxNew/DirectionPanels.tsx:394
+msgid "Below"
+msgstr ""
+
+#: src/components/TradeBox/index.tsx:524
+#: src/components/TradeBoxNew/index.tsx:486
+msgid "tap above or below"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:280
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:259
+msgid "sec"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:280
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:259
+msgid "s"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:284
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:263
+msgid "min"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:284
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:263
+msgid "m"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:289
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:268
+msgid "hour"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:289
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:268
+msgid "hours"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:289
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:268
+msgid "h"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:294
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:273
+msgid "day"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:294
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:273
+msgid "days"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:294
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:273
+msgid "d"
+msgstr ""
+
+#: src/components/helper.tsx:8
+msgid "My Profile"
+msgstr "내 프로필"
+
+#: src/components/helper.tsx:10
+msgid "Accounts"
+msgstr "계정"
+
+#: src/components/helper.tsx:12
+msgid "Trading"
+msgstr "거래"
+
+#: src/components/helper.tsx:18
+msgid "Terms & Privacy"
+msgstr "약관 및 개인정보 보호"
+
+#: src/components/helper.tsx:20
+msgid "Trading Accounts"
+msgstr "거래 계좌"
+
+#: src/components/helper.tsx:22
+msgid "Add Accounts"
+msgstr "계정 추가"
+
+#: src/components/helper.tsx:26
+msgid "Add Funds"
+msgstr "자금 추가"
+
+#: src/components/helper.tsx:34
+msgid "Transaction"
+msgstr "거래"
+
+#: src/components/helper.tsx:36
+msgid "Delete Account"
+msgstr "계정 삭제"
+
+#: src/components/helper.tsx:38
+msgid "Edit Profile"
+msgstr "프로필 수정"
+
+#: src/components/helper.tsx:40
+msgid "Account Verification"
+msgstr "계정 인증"
+
+#: src/components/helper.tsx:42
+msgid "Change Password"
+msgstr "비밀번호 변경"
+
+#: src/components/helper.tsx:44
+msgid "Mobile Verification"
+msgstr "모바일 인증"
+
+#: src/components/helper.tsx:48
+msgid "Trading History"
+msgstr ""
+
+#: src/components/helper.tsx:14
+msgid "Expiry Prices"
+msgstr "만료 값"
+
+#: src/components/helper.tsx:16
+msgid "Asset Index"
+msgstr "자산 목록"
+
+#: src/sagas/accountSaga.ts:62
+msgid "Login failed, please verify that you are using the correct email and password"
+msgstr "로그인 실패. 정확한 이메일과 비밀번호를 쓰고 있는지 확인 바랍니다."
+
+#: src/sagas/tradingSaga.ts:401
+msgid "Cancelled Successfully"
+msgstr ""
+
+#: src/components/TradeBoxNew/DirectionPanels.tsx:288
+msgid "Higher"
+msgstr ""
+
+#: src/components/TradeBoxNew/DirectionPanels.tsx:397
+msgid "Lower"
+msgstr ""
+
+#: src/components/Mobile/Drawer/index.tsx:169
+msgid "User ID"
+msgstr ""
+
+#: src/components/Header/Account.tsx:149
+#: src/components/Header/Account.tsx:269
+#: src/components/helper.tsx:50
+msgid "Open Account"
+msgstr "계좌 개설"
+
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:365
+#, javascript-format
+msgid "${ expiry.cdfExpiry }H"
+msgstr ""
+
+#: src/components/modals/SwitchToRealModal/index.tsx:36
+msgid "Switch to real account"
+msgstr ""
+
+#: src/components/modals/SwitchToRealModal/index.tsx:38
+msgid "Switch to real account, so you can start making real profit on the market"
+msgstr ""
+
+#: src/components/modals/MakeDepositModal/index.tsx:45
+msgid "This is your real account"
+msgstr ""
+
+#: src/components/modals/MakeDepositModal/index.tsx:47
+msgid "Add funds to your real account, so you can start making real profit on the market"
+msgstr ""
+
+#: src/components/modals/MakeDepositModal/index.tsx:65
+msgid "Make a deposit"
+msgstr ""
+
+#: src/components/modals/EmailConfirmation/index.tsx:33
+msgid "Email Confirmation"
+msgstr ""
+
+#: src/components/modals/EmailConfirmation/index.tsx:35
+msgid "Please complete your email address confirmation in order to secure your account and fund on it"
+msgstr ""
+
+#: src/components/modals/EmailConfirmation/index.tsx:38
+msgid "Confirm Your Email"
+msgstr ""

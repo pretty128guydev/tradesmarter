@@ -1,0 +1,2101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2022-01-26 17:34+0700\n"
+"Last-Translator: Moshe Gabay <moshe@backpack.io>, 2021\n"
+"Language-Team: Thai (https://www.transifex.com/tradesmarter/teams/116351/th/)\n"
+"Language: th\n"
+"mime-version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"x-generator: Poedit 3.0.1\n"
+
+#: src/components/Header/Account.tsx:138
+#: src/components/Header/Account.tsx:263
+#: src/components/modals/SignInModal/index.tsx:111
+#: src/components/modals/SignInModal/index.tsx:161
+msgid "Login"
+msgstr "ล็อกอิน"
+
+#: src/components/modals/SignInModal/index.tsx:142
+msgid "Forgot password?"
+msgstr "ลืมรหัสผ่าน"
+
+#: src/components/modals/PasswordResetModal/index.tsx:121
+#: src/components/modals/SignInModal/index.tsx:151
+msgid "Create account"
+msgstr "สร้างบัญชีผู้ใช้"
+
+#: src/components/modals/SignInModal/index.tsx:161
+msgid "Signing in..."
+msgstr "การลงชื่อเข้าใช้..."
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:528
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:369
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:534
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:369
+#: src/components/modals/SellbackModal/index.tsx:66
+msgid "Sellback"
+msgstr "ขายคืน"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:700
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:707
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:215
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:706
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:713
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:215
+#: src/components/modals/SellbackModal/index.tsx:102
+msgid "Return"
+msgstr "คืนสินค้า"
+
+#: src/components/modals/SellbackModal/index.tsx:126
+msgid "Confirm sellback"
+msgstr "ยืนยันการขาย"
+
+#: src/components/modals/PracticeExpiredModal/index.tsx:36
+msgid "Practice expired"
+msgstr "การฝึกซ้อมหมดอายุ"
+
+#: src/components/modals/PracticeExpiredModal/index.tsx:43
+#: src/components/modals/SwitchToRealModal/index.tsx:50
+msgid "Switch to real"
+msgstr "สลับเป็นจริง"
+
+#: src/components/ChartContainer/Chart/Sentiment/index.tsx:239
+#: src/components/Dashboard/RatioTraders/index.tsx:33
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:103
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:201
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:103
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:201
+#: src/components/TradeBox/DirectionPanels.tsx:282
+#: src/components/modals/SellbackModal/index.tsx:80
+msgid "High"
+msgstr "สูง"
+
+#: src/components/ChartContainer/Chart/Sentiment/index.tsx:243
+#: src/components/Dashboard/RatioTraders/index.tsx:38
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:104
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:202
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:104
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:202
+#: src/components/TradeBox/DirectionPanels.tsx:381
+#: src/components/modals/SellbackModal/index.tsx:80
+msgid "Low"
+msgstr "ต่ำ"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:344
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:386
+#: src/components/TradeBox/ExpirySelect.tsx:370
+msgid "Short"
+msgstr "ระยะสั้น"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:356
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:394
+#: src/components/TradeBox/ExpirySelect.tsx:378
+msgid "Long"
+msgstr "ระยะยาว"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:195
+#: src/components/Mobile/HomeMenuPanel/index.tsx:237
+#: src/components/Sidebar/index.tsx:329
+#: src/components/SidebarNew/index.tsx:355
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:171
+#: src/components/TradeBox/index.tsx:223
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:171
+#: src/components/TradeBoxNew/index.tsx:211
+#. not dead period and not timeout,
+msgid "Trade"
+msgstr "เทรด"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:172
+#: src/components/TradeBox/index.tsx:224
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:172
+#: src/components/TradeBoxNew/index.tsx:212
+#. not dead period and not timeout,
+msgid "Trading is not available"
+msgstr "การซื้อขายไม่สามารถใช้งานได้"
+
+#: src/components/TradeBox/MobileInfoPanel.tsx:70
+#: src/components/TradeBox/TextInfoBlock.tsx:78
+#: src/components/TradeBoxNew/MobileInfoPanel.tsx:70
+#: src/components/TradeBoxNew/TextInfoBlock.tsx:78
+msgid "Time left"
+msgstr "เวลาที่เหลือ"
+
+#: src/components/Sidebar/SignalsPanel.tsx:30
+#: src/components/Sidebar/index.tsx:323
+#: src/components/SidebarNew/SignalsPanel.tsx:26
+#: src/components/SidebarNew/index.tsx:349
+msgid "Signals"
+msgstr "สัญญาณ"
+
+#: src/components/Sidebar/SocialPanel.tsx:30
+#: src/components/SidebarNew/SocialPanel.tsx:26
+msgid "Social"
+msgstr "โซเชียล"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:51
+#: src/components/Mobile/HomeMenuPanel/index.tsx:201
+#: src/components/Mobile/HomeMenuPanel/index.tsx:226
+#: src/components/Sidebar/VideoNews/index.tsx:84
+#: src/components/Sidebar/index.tsx:319
+#: src/components/SidebarNew/VideoNews/index.tsx:84
+#: src/components/SidebarNew/index.tsx:345
+msgid "Video News"
+msgstr "ข่าววีดีโอ"
+
+#: src/components/Sidebar/TutorialsPanel/index.tsx:65
+#: src/components/Sidebar/index.tsx:321
+#: src/components/SidebarNew/TutorialsPanel/index.tsx:61
+#: src/components/SidebarNew/index.tsx:347
+msgid "Tutorials"
+msgstr "บทช่วยสอน"
+
+#: src/components/Sidebar/PositionsPanel/Placeholder.tsx:49
+#: src/components/SidebarNew/PositionsPanel/Placeholder.tsx:49
+msgid "No Open Positions"
+msgstr "ไม่มีตำแหน่งที่เปิดอยู่"
+
+#: src/components/Sidebar/PositionsPanel/Placeholder.tsx:49
+#: src/components/SidebarNew/PositionsPanel/Placeholder.tsx:49
+msgid "No Closed Positions"
+msgstr "ไม่มีตำแหน่งปิด"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:46
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:75
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:85
+#: src/components/Sidebar/services/TradeStatus.ts:6
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:46
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:75
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:85
+#: src/components/SidebarNew/services/TradeStatus.ts:6
+#: src/components/TradeBox/PayoutsBox.tsx:50
+#: src/components/TradeBoxNew/PayoutsBox.tsx:50
+msgid "In the money"
+msgstr "กำไร"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:50
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:77
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:87
+#: src/components/Sidebar/services/TradeStatus.ts:10
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:50
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:77
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:87
+#: src/components/SidebarNew/services/TradeStatus.ts:10
+#: src/components/TradeBox/PayoutsBox.tsx:56
+#: src/components/TradeBoxNew/PayoutsBox.tsx:56
+msgid "Out of the money"
+msgstr "ขาดทุน"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:48
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:52
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:79
+#: src/components/Sidebar/services/TradeStatus.ts:8
+#: src/components/Sidebar/services/TradeStatus.ts:12
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:48
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:52
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:79
+#: src/components/SidebarNew/services/TradeStatus.ts:8
+#: src/components/SidebarNew/services/TradeStatus.ts:12
+#: src/components/TradeBox/PayoutsBox.tsx:60
+#: src/components/TradeBoxNew/PayoutsBox.tsx:60
+msgid "At the money"
+msgstr "ที่เงิน"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:185
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:304
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:185
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:304
+msgid "Trade time"
+msgstr "เวลาเทรด"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:189
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:308
+#: src/components/Sidebar/PositionsPanel/OpenPositions/ItemsGroup.tsx:208
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:189
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:308
+#: src/components/SidebarNew/PositionsPanel/OpenPositions/ItemsGroup.tsx:200
+msgid "Expiry time"
+msgstr "เวลาหมดอายุ"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:219
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:226
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:596
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:193
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:312
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:225
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:232
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:602
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:193
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:312
+msgid "Trade ID"
+msgstr "รหัสการค้า"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:284
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:291
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:661
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:668
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:316
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:290
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:297
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:667
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:674
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:316
+msgid "Strike"
+msgstr "ราคาที่ถือครอง"
+
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:321
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:321
+msgid "Current Price"
+msgstr "ราคาปัจจุบัน"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:271
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:278
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:648
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:655
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:205
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:326
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:277
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:284
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:654
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:661
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:205
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:326
+msgid "Investment"
+msgstr "การลงทุน"
+
+#: src/components/ChartContainer/Chart/CfdSentimentSwitcher.tsx:115
+#: src/components/ChartContainer/Chart/ChartPositionInfo/index.tsx:179
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:310
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:317
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:687
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:694
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:210
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:331
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:316
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:323
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:693
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:700
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:210
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:331
+#: src/components/TradeBoxNew/index.tsx:419
+msgid "Payout"
+msgstr "การจ่ายเงิน"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:258
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:265
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:635
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:642
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:220
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:264
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:271
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:641
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:648
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:220
+msgid "Status"
+msgstr "สถานะ"
+
+#: src/components/Sidebar/PositionsPanel/index.tsx:53
+#: src/components/SidebarNew/PositionsPanel/index.tsx:53
+msgid "OPEN POSITIONS"
+msgstr "ตำแหน่งที่เปิดอยู่"
+
+#: src/components/Sidebar/PositionsPanel/index.tsx:53
+#: src/components/SidebarNew/PositionsPanel/index.tsx:53
+msgid "CLOSED POSITIONS"
+msgstr "ตำแหน่งปิด"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:43
+#: src/components/Mobile/HomeMenuPanel/index.tsx:197
+#: src/components/Mobile/HomeMenuPanel/index.tsx:240
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:876
+#: src/components/Sidebar/PositionsPanel/index.tsx:102
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:882
+#: src/components/SidebarNew/PositionsPanel/index.tsx:95
+msgid "Positions"
+msgstr "การซื้อขาย"
+
+#: src/components/Sidebar/NewsPanel/NewsFeedItem.tsx:55
+#: src/components/SidebarNew/NewsPanel/NewsFeedItem.tsx:52
+msgid "Read More"
+msgstr "อ่านเพิ่มเติม"
+
+#: src/components/Sidebar/NewsPanel/index.tsx:25
+#: src/components/SidebarNew/NewsPanel/index.tsx:25
+msgid "GENERAL"
+msgstr "ทั่วไป"
+
+#: src/components/Sidebar/NewsPanel/index.tsx:25
+#: src/components/SidebarNew/NewsPanel/index.tsx:25
+msgid "CRYPTO"
+msgstr "คริปโตเคอเรนซี่"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:47
+#: src/components/Mobile/HomeMenuPanel/index.tsx:199
+#: src/components/Mobile/HomeMenuPanel/index.tsx:227
+#: src/components/Sidebar/NewsPanel/index.tsx:36
+#: src/components/Sidebar/index.tsx:317
+#: src/components/SidebarNew/NewsPanel/index.tsx:36
+#: src/components/SidebarNew/index.tsx:343
+msgid "News"
+msgstr "ข่าวสาร"
+
+#: src/components/AccountBar/index.tsx:116
+#: src/components/Mobile/Header/index.tsx:210
+msgid "Practice"
+msgstr "ฝึกซ้อม"
+
+#: src/components/Mobile/Header/index.tsx:214
+msgid "Real"
+msgstr "ของจริง"
+
+#: src/components/AccountBar/index.tsx:153
+#: src/components/Mobile/Header/index.tsx:220
+msgid "Balance"
+msgstr "ยอดคงเหลือ"
+
+#: src/components/AccountBar/index.tsx:159
+#: src/components/Mobile/Header/index.tsx:226
+msgid "Invested"
+msgstr "ลงทุน"
+
+#: src/components/Header/Account.tsx:245
+#: src/components/Mobile/Drawer/drawerMenu.tsx:250
+#: src/components/SideMenuBar/index.tsx:270
+msgid "Log out"
+msgstr "ออกจากระบบ"
+
+#: src/components/ChartContainer/OutOfTradingHours.tsx:117
+msgid "Out of trading hours"
+msgstr "นอกเวลาการเทรด"
+
+#: src/components/ChartContainer/OutOfTradingHours.tsx:131
+msgid "Will become available again on"
+msgstr "จะพร้อมใช้งานอีกครั้งใน"
+
+#: src/components/Assets/SearchSideMode/index.tsx:39
+#: src/components/ChartContainer/InstrumentsBar/index.tsx:191
+#: src/components/Mobile/SearchAssetsPanel/SearchSideMode/index.tsx:36
+msgid "All assets"
+msgstr "สินทรัพย์ทั้งหมด"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:289
+msgid "Chart timeframes"
+msgstr "กรอบเวลาของแผนภูมิ"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:171
+#: src/components/ChartContainer/Chart/ChartControls.tsx:300
+msgid "Chart types"
+msgstr "ชนิดแผนภูมิ"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:315
+msgid "Chart drawing tools list"
+msgstr "รายการเครื่องมือวาดแผนภูมิ"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:364
+#: src/components/ChartContainer/Chart/ChartControls.tsx:488
+msgid "Candlestick"
+msgstr "เชิงเทียน"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:378
+#: src/components/ChartContainer/Chart/ChartControls.tsx:503
+msgid "Line"
+msgstr "บรรทัด"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:392
+#: src/components/ChartContainer/Chart/ChartControls.tsx:518
+msgid "Area"
+msgstr "พื้นที่"
+
+#: src/components/ChartContainer/Chart/Sentiment/index.tsx:237
+msgid "Trader sentiment"
+msgstr "ความเชื่อมั่นของเทรดเดอร์"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/index.tsx:44
+msgid "INDICATORS"
+msgstr "ตัวชี้วัด"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/SelectionPanel/ItemMenu/index.tsx:73
+#: src/components/ChartContainer/Chart/ChartIndicators/SelectionPanel/ItemMenu/index.tsx:82
+msgid "All Indicators"
+msgstr "ตัวชี้วัดทั้งหมด"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/SelectionPanel/ItemMenu/index.tsx:79
+msgid "Currently in use"
+msgstr "กำลังใช้อยู่"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/SelectionPanel/ItemMenu/index.tsx:105
+msgid "Search..."
+msgstr "ค้นหา..."
+
+#: src/components/ChartContainer/Chart/ChartIndicators/SelectionPanel/ItemExplorer/index.tsx:67
+msgid "Add Indicator"
+msgstr "เพิ่มตัวบ่งชี้"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/EditPanel/index.tsx:48
+#: src/components/ChartContainer/Chart/ChartIndicators/SelectionPanel/ItemExplorer/index.tsx:71
+msgid "Update"
+msgstr "อัพเดท"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:277
+msgid "Clear All"
+msgstr "ล้างทั้งหมด"
+
+#: src/components/AccountBar/index.tsx:109
+msgid "Connected"
+msgstr "เชื่อมต่อแล้ว"
+
+#: src/components/AccountBar/index.tsx:147
+msgid "REAL"
+msgstr "จริง"
+
+#: src/components/AccountBar/index.tsx:165
+msgid "Available cash"
+msgstr "เงินสดที่มีอยู่"
+
+#: src/components/AccountBar/BonusWalletPicker/BonusWalletInfo.tsx:69
+#: src/components/AccountBar/BonusWalletPicker/index.tsx:34
+#: src/components/AccountBar/index.tsx:173
+msgid "Available bonus"
+msgstr "โบนัสที่มีอยู่"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:53
+#: src/components/modals/PasswordResetModal/index.tsx:107
+#: src/components/modals/SignInModal/FieldGroup.tsx:53
+#: src/components/modals/SignInModal/index.tsx:116
+msgid "Email address"
+msgstr "ที่อยู่อีเมล"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:54
+#: src/components/modals/SignInModal/FieldGroup.tsx:54
+#: src/components/modals/SignInModal/index.tsx:127
+msgid "Password"
+msgstr "รหัสผ่าน"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:58
+#: src/components/modals/PasswordResetModal/index.tsx:109
+#: src/components/modals/SignInModal/FieldGroup.tsx:58
+#: src/components/modals/SignInModal/index.tsx:118
+msgid "Enter your email address"
+msgstr "ป้อนที่อยู่อีเมลของคุณ"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:59
+#: src/components/modals/SignInModal/FieldGroup.tsx:59
+#: src/components/modals/SignInModal/index.tsx:129
+msgid "Enter your password"
+msgstr "ป้อนรหัสผ่านของคุณ"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:63
+#: src/components/modals/PasswordResetModal/index.tsx:108
+#: src/components/modals/SignInModal/FieldGroup.tsx:63
+#: src/components/modals/SignInModal/index.tsx:117
+msgid "Please enter valid email address"
+msgstr "กรุณากรอกที่อยู่อีเมลที่ถูกต้อง"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:64
+#: src/components/modals/SignInModal/FieldGroup.tsx:64
+#: src/components/modals/SignInModal/index.tsx:128
+msgid "Please enter your password"
+msgstr "กรุณากรอกรหัสผ่านของคุณ"
+
+#: src/components/Header/Account.tsx:68
+#: src/components/Mobile/Dashboard.tsx:42
+#: src/components/Mobile/Drawer/index.tsx:56
+#: src/components/Mobile/HomeMenuPanel/index.tsx:35
+#: src/components/Mobile/HomeMenuPanel/index.tsx:193
+#: src/components/Mobile/HomeMenuPanel/index.tsx:225
+#: src/components/Sidebar/index.tsx:313
+#: src/components/SidebarNew/index.tsx:339
+#: src/components/helper.tsx:6
+msgid "Dashboard"
+msgstr "แดชบอร์ด"
+
+#: src/components/Header/Account.tsx:70
+#: src/components/Mobile/Drawer/index.tsx:57
+msgid "Settings"
+msgstr "การตั้งค่า"
+
+#: src/components/Header/Account.tsx:72
+#: src/components/Header/index.tsx:121
+#: src/components/Mobile/Drawer/index.tsx:58
+#: src/components/Mobile/Header/index.tsx:155
+#: src/components/helper.tsx:52
+msgid "Deposit"
+msgstr "เงินฝาก"
+
+#: src/components/Header/Account.tsx:74
+#: src/components/Mobile/Drawer/index.tsx:59
+#: src/components/helper.tsx:28
+msgid "Withdrawal"
+msgstr "การถอนเงิน"
+
+#: src/components/Header/Account.tsx:76
+#: src/components/Mobile/Drawer/index.tsx:60
+#: src/components/helper.tsx:30
+msgid "Transfer Funds"
+msgstr "โอนเงิน"
+
+#: src/components/Header/Account.tsx:78
+#: src/components/Mobile/Drawer/index.tsx:61
+#: src/components/helper.tsx:24
+msgid "Add Account"
+msgstr "เพิ่มบัญชี"
+
+#: src/components/Header/Account.tsx:80
+#: src/components/Mobile/Drawer/index.tsx:62
+#: src/components/helper.tsx:46
+msgid "Privacy Center"
+msgstr "ศูนย์ความเป็นส่วนตัว"
+
+#: src/components/Header/Account.tsx:82
+#: src/components/Mobile/Drawer/index.tsx:63
+#: src/components/helper.tsx:32
+msgid "Transactions"
+msgstr "การทำธุรกรรม"
+
+#: src/components/modals/GuestDemoExpiredModal/index.tsx:36
+#: src/components/modals/SessionExpiredModal/index.tsx:28
+msgid "Logged Out"
+msgstr "ออกจากระบบ"
+
+#: src/components/modals/GuestDemoExpiredModal/index.tsx:43
+msgid "Your guest demo account expired, please create real account."
+msgstr "บัญชีทดลองของผู้เข้าพักของคุณหมดอายุแล้ว โปรดสร้างบัญชีจริง"
+
+#: src/components/modals/GuestDemoExpiredModal/index.tsx:50
+msgid "Create real account"
+msgstr "สร้างบัญชีจริง"
+
+#: src/components/Header/index.tsx:130
+#: src/components/Mobile/Drawer/index.tsx:82
+msgid "Guest demo"
+msgstr "การสาธิตของผู้เข้าพัก"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:406
+#: src/components/ChartContainer/Chart/ChartControls.tsx:533
+msgid "OHLC"
+msgstr "โอห์แอลซี"
+
+#: src/components/Assets/Groups/constants/groups.ts:33
+#: src/components/Assets/Groups/index.tsx:63
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:33
+#: src/components/Assets/GroupsSideMode/index.tsx:64
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:50
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:59
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:33
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:64
+msgid "Crypto"
+msgstr "คริปโตเคอเรนซี่"
+
+#: src/components/Assets/Groups/constants/groups.ts:51
+#: src/components/Assets/Groups/index.tsx:69
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:51
+#: src/components/Assets/GroupsSideMode/index.tsx:70
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:51
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:60
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:51
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:70
+msgid "Commodities"
+msgstr "สินค้าโภคภัณฑ์"
+
+#: src/components/Assets/Groups/constants/groups.ts:57
+#: src/components/Assets/Groups/index.tsx:71
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:57
+#: src/components/Assets/GroupsSideMode/index.tsx:72
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:53
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:62
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:57
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:72
+msgid "Indices"
+msgstr "ดัชนี"
+
+#: src/components/Assets/Groups/constants/groups.ts:45
+#: src/components/Assets/Groups/index.tsx:67
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:45
+#: src/components/Assets/GroupsSideMode/index.tsx:68
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:54
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:63
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:45
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:68
+msgid "Stocks"
+msgstr "หุ้น"
+
+#: src/components/Assets/Groups/constants/groups.ts:39
+#: src/components/Assets/Groups/index.tsx:65
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:39
+#: src/components/Assets/GroupsSideMode/index.tsx:66
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:52
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:61
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:39
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:66
+msgid "Currencies"
+msgstr "สกุลเงิน"
+
+#: src/components/modals/PasswordResetModal/index.tsx:100
+#: src/components/modals/PasswordResetModal/index.tsx:163
+#: src/components/modals/PasswordResetModal/index.tsx:180
+msgid "Restore password"
+msgstr "คืนค่ารหัสผ่าน"
+
+#: src/components/modals/PasswordResetModal/index.tsx:102
+msgid "Please enter your email address and we will send you instruction on how to reset your password."
+msgstr "โปรดป้อนที่อยู่อีเมลของคุณและเราจะส่งคำแนะนำเกี่ยวกับวิธีการรีเซ็ตรหัสผ่านของคุณ"
+
+#: src/components/modals/PasswordResetModal/index.tsx:132
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+#: src/components/modals/PasswordResetModal/index.tsx:144
+msgid "Submit"
+msgstr "ส่งข้อมูล"
+
+#: src/components/modals/PasswordResetModal/index.tsx:182
+#. *
+#. * Show success contents
+#. 
+msgid "We have reset the password, please check the email"
+msgstr "เราได้รีเซ็ตรหัสผ่านแล้ว โปรดตรวจสอบอีเมล์"
+
+#: src/components/modals/PasswordResetModal/index.tsx:191
+#: src/components/modals/SessionExpiredModal/index.tsx:41
+msgid "Close"
+msgstr "ปิด"
+
+#: src/components/TradeBox/TextInfoBlock.tsx:70
+#: src/components/TradeBoxNew/TextInfoBlock.tsx:70
+msgid "Expiry at"
+msgstr "หมดอายุที่"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:316
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:312
+msgid "Time Duration"
+msgstr "ระยะเวลา"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:364
+#: src/components/TradeBox/index.tsx:395
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:367
+#: src/components/TradeBoxNew/index.tsx:369
+msgid "Amount"
+msgstr "จำนวนเงิน"
+
+#: src/components/notifications/TradeSubmit/TradeSubmittedSuccess.tsx:20
+msgid "The trade was successfully opened"
+msgstr "การค้าได้เปิดเรียบร้อยแล้ว"
+
+#: src/components/notifications/TradeSubmit/TradeSubmittedError.tsx:36
+msgid "Minimum investment amount"
+msgstr "จำนวนเงินลงทุนขั้นต่ำ"
+
+#: src/components/notifications/TradeSubmit/TradeSubmittedError.tsx:39
+msgid "Maximum investment amount"
+msgstr "จำนวนเงินลงทุนสูงสุด"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:197
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:197
+#: src/components/TradeBox/TextInfoBlock.tsx:61
+#: src/components/TradeBoxNew/TextInfoBlock.tsx:61
+msgid "Strike Price"
+msgstr "ราคาปัจจุบัน"
+
+#: src/components/ChartContainer/Chart/ChartPositionInfo/index.tsx:267
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:521
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:362
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:527
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:362
+msgid "Sell back"
+msgstr "ขายคืน"
+
+#: src/components/AccountBar/index.tsx:21
+msgid "Balance Bonus"
+msgstr "โบนัสสมดุล"
+
+#: src/components/AccountBar/index.tsx:22
+msgid "Smart Bonus"
+msgstr "โบนัสสมาร์ท"
+
+#: src/components/AccountBar/index.tsx:23
+msgid "Pending Bonus"
+msgstr "โบนัสที่รอดำเนินการ"
+
+#: src/components/AccountBar/index.tsx:24
+msgid "Profit Bonus"
+msgstr "โบนัสกำไร"
+
+#: src/components/AccountBar/index.tsx:25
+msgid "Sticky Bonus"
+msgstr "โบนัสเหนียว"
+
+#: src/components/AccountBar/index.tsx:26
+msgid "No Deposit Bonus"
+msgstr "โบนัสไม่มีเงินฝาก"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:674
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:681
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:201
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:680
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:687
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:201
+msgid "Closed Price"
+msgstr "ราคาปิด"
+
+#: src/components/ChartContainer/Chart/CurrentPayout.tsx:45
+#: src/components/ChartContainer/MobileInstrumentsBar/CurrentPayout.tsx:33
+msgid "PAYOUT"
+msgstr "อัตรากำไร"
+
+#: src/components/modals/SellbackModal/index.tsx:74
+msgid "ID"
+msgstr "รหัสประจำตัว"
+
+#: src/components/modals/SellbackModal/index.tsx:78
+msgid "Type"
+msgstr "ประเภท"
+
+#: src/components/modals/SellbackModal/index.tsx:84
+msgid "Asset"
+msgstr "สินทรัพย์"
+
+#: src/components/modals/SellbackModal/index.tsx:98
+msgid "Spot Price"
+msgstr "ราคาสปอต"
+
+#: src/components/modals/SessionExpiredModal/index.tsx:35
+msgid "You are logged out, please log in to the platform."
+msgstr "คุณออกจากระบบแล้ว โปรดล็อกอินเข้าสู่แพลตฟอร์ม"
+
+#: src/components/TradeBox/MobileInfoPanel.tsx:69
+#: src/components/TradeBoxNew/MobileInfoPanel.tsx:69
+msgid "Strike price"
+msgstr "ราคาปัจจุบัน"
+
+#: src/components/TradeBox/MobileInfoPanel.tsx:71
+#: src/components/TradeBoxNew/MobileInfoPanel.tsx:71
+msgid "Potential profit"
+msgstr "กำไรที่อาจเกิดขึ้น"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:54
+#: src/components/Sidebar/services/TradeStatus.ts:14
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:54
+#: src/components/SidebarNew/services/TradeStatus.ts:14
+msgid "Sold back"
+msgstr "ขายคืนแล้ว"
+
+#: src/components/ChartContainer/Chart/InstrumentInfo/index.tsx:76
+msgid "Precision"
+msgstr "ความแม่นยำ"
+
+#: src/components/ChartContainer/Chart/InstrumentInfo/index.tsx:77
+msgid "Opening hours"
+msgstr "เวลาเปิดทำการ"
+
+#: src/components/AccountBar/BonusWalletPicker/BonusWalletInfo.tsx:74
+msgid "Released bonus"
+msgstr "โบนัสที่วางจำหน่าย"
+
+#: src/components/AccountBar/BonusWalletPicker/BonusWalletInfo.tsx:79
+msgid "Original bonus"
+msgstr "โบนัสเดิม"
+
+#: src/components/AccountBar/BonusWalletPicker/BonusWalletInfo.tsx:84
+msgid "Volume traded"
+msgstr "ปริมาณการเทรด"
+
+#: src/components/AccountBar/BonusWalletPicker/BonusWalletInfo.tsx:89
+msgid "Volume required"
+msgstr "ปริมาณที่ต้องการ"
+
+#: src/components/ui/FavIcon.tsx:83
+msgid "Remove from Favorites"
+msgstr "ลบออกจากรายการโปรด"
+
+#: src/components/ui/FavIcon.tsx:83
+msgid "Add to Favorites"
+msgstr "เพิ่มในรายการโปรด"
+
+#: src/components/ui/TopIcon.tsx:81
+msgid "Remove from chart"
+msgstr "ลบจากแผนภูมิ"
+
+#: src/components/ui/TopIcon.tsx:81
+msgid "Add to chart"
+msgstr "เพิ่มลงในแผนภูมิ"
+
+#: src/components/notifications/TradeSubmit/TradeSubmittedPositionClosed.tsx:30
+#, javascript-format
+msgid "${ props.notification.props.amount } positions were closed at ${ time }. Total profit "
+msgstr ""
+
+#: src/components/notifications/TradeSubmit/TradeSubmittedPositionClosed.tsx:52
+msgid "Go to the closed positions"
+msgstr "ตำแหน่งปิด"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:156
+#, javascript-format
+msgid "${ expiry }s"
+msgstr ""
+
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:160
+#, javascript-format
+msgid "${ expiry }m"
+msgstr "${ expiry }นาที"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:164
+#, javascript-format
+msgid "${ hours }h"
+msgstr "${ hours }ชั่วโมง"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:167
+#, javascript-format
+msgid "${ hours }d"
+msgstr "${ hours }วัน"
+
+#: src/components/TradeBox/NextExpiryBox.tsx:162
+#: src/components/TradeBoxNew/NextExpiryBox.tsx:162
+msgid "It’s not possible to open a trade at this expiry time anymore, since the price is no longer in the range."
+msgstr "ไม่สามารถเปิดคำสั่งการซื้อขายในช่วงเวลานี้ได้เนื่องจากหมดอายุเวลาการซื้อขาย"
+
+#: src/components/TradeBox/NextExpiryBox.tsx:163
+#: src/components/TradeBoxNew/NextExpiryBox.tsx:163
+msgid "Pick another expiry time."
+msgstr "โปรดเลือกช่วงเวลาอื่น"
+
+#: src/components/TradeBox/NextExpiryBox.tsx:167
+#: src/components/TradeBoxNew/NextExpiryBox.tsx:167
+msgid "Next expiry time"
+msgstr "ช่วงอายุเวลาถัดไป"
+
+#: src/components/TradeBox/OneclickTradeBox.tsx:40
+#: src/components/TradeBoxNew/OneclickTradeBox.tsx:40
+msgid "One-click Trade"
+msgstr "การซื้อขายคลิกเดียว"
+
+#: src/components/TradeBox/PayoutInformationBox.tsx:30
+#: src/components/TradeBox/index.tsx:548
+#: src/components/TradeBox/index.tsx:580
+#: src/components/TradeBoxNew/PayoutInformationBox.tsx:30
+msgid "Payout information"
+msgstr "ข้อมูลการจ่ายเงิน"
+
+#: src/components/TradeBox/TimeLeft.tsx:21
+#: src/components/TradeBoxNew/TimeLeft.tsx:21
+msgid "seconds"
+msgstr "วินาที"
+
+#: src/components/Sidebar/index.tsx:315
+#: src/components/SidebarNew/index.tsx:341
+msgid "Open/Сlosed Positions"
+msgstr "ประวัติการซื้อขาย"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:55
+#: src/components/Mobile/HomeMenuPanel/index.tsx:203
+#: src/components/Mobile/HomeMenuPanel/index.tsx:224
+#: src/components/Sidebar/index.tsx:325
+#: src/components/SidebarNew/index.tsx:351
+msgid "Daily Analysis"
+msgstr "การวิเคราะห์รายวัน"
+
+#: src/components/Sidebar/index.tsx:327
+#: src/components/SidebarNew/index.tsx:353
+msgid "Markets"
+msgstr "ตลาด"
+
+#: src/components/Sidebar/index.tsx:446
+#: src/components/SidebarNew/index.tsx:472
+msgid "new"
+msgstr "ใหม่"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:545
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:386
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:551
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:386
+msgid "Hedge"
+msgstr "เฮดจ์"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:565
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:402
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:571
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:402
+msgid "Double Up"
+msgstr "เพิ่มออเดอร์"
+
+#: src/components/Sidebar/PositionsPanel/index.tsx:121
+#: src/components/SidebarNew/PositionsPanel/index.tsx:111
+#, javascript-format
+msgid "Showing last ${ closedTrades }"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/index.tsx:128
+#: src/components/SidebarNew/PositionsPanel/index.tsx:116
+msgid "load more"
+msgstr "โหลดมากขึ้น"
+
+#: src/components/Sidebar/PositionsPanel/OpenPositions/ItemsGroup.tsx:214
+#: src/components/SidebarNew/PositionsPanel/OpenPositions/ItemsGroup.tsx:206
+msgid "Total P&L"
+msgstr "กำไรและขาดทุนสุทธิ"
+
+#: src/components/Sidebar/PositionsPanel/OpenPositions/PositionsModeSwitcher.tsx:36
+#: src/components/SidebarNew/PositionsPanel/OpenPositions/PositionsModeSwitcher.tsx:36
+msgid "Group by expiry time"
+msgstr "ช่วงอายุเวลาแบบกลุ่ม"
+
+#: src/components/Sidebar/NewsPanel/NewsFeedItem.tsx:47
+#: src/components/SidebarNew/NewsPanel/NewsFeedItem.tsx:47
+msgid "Read Less"
+msgstr ""
+
+#: src/components/Sidebar/DailyAnalysisPanel/index.tsx:31
+#: src/components/SidebarNew/DailyAnalysisPanel/index.tsx:31
+msgid "daily analysis"
+msgstr "การวิเคราะห์รายวัน"
+
+#: src/components/Dashboard/TradeVolume/chart.tsx:53
+msgid "Volume Per Day"
+msgstr "ปริมาณต่อวัน"
+
+#: src/components/Dashboard/TradeVolume/index.tsx:64
+msgid "total traded volume"
+msgstr "ปริมาณการซื้อขายทั้งหมด"
+
+#: src/components/Dashboard/TradeVolume/index.tsx:78
+msgid "number of trades"
+msgstr "จำนวนการซื้อขาย"
+
+#: src/components/Dashboard/TradeVolume/index.tsx:92
+msgid "average volume"
+msgstr "ปริมาณเฉลี่ย"
+
+#: src/components/Dashboard/TopTradedAssets/index.tsx:44
+msgid "Other"
+msgstr "อื่นๆ"
+
+#: src/components/Dashboard/TopTradedAssets/index.tsx:57
+msgid "Top traded assets"
+msgstr "สินทรัพย์ซื้อขายยอดนิยม"
+
+#: src/components/Dashboard/RecentUpdates/index.tsx:22
+msgid "Recent Updates"
+msgstr "อัปเดตล่าสุด"
+
+#: src/components/Dashboard/RecentTrades/download.tsx:83
+msgid "Download"
+msgstr "ดาวน์โหลด"
+
+#: src/components/Dashboard/RecentTrades/index.tsx:31
+msgid "Recent Trades"
+msgstr "ขาย"
+
+#: src/components/Dashboard/RecentTrades/index.tsx:39
+msgid "Load More"
+msgstr "โหลดมากขึ้น"
+
+#: src/components/Dashboard/RecentTrades/table.tsx:33
+msgid "id"
+msgstr "ID"
+
+#: src/components/Dashboard/RecentTrades/table.tsx:36
+msgid "trade time"
+msgstr "เวลาการค้า"
+
+#: src/components/Dashboard/RecentTrades/table.tsx:39
+msgid "expiry time"
+msgstr "เวลาหมดอายุ"
+
+#: src/components/Dashboard/RecentTrades/table.tsx:42
+msgid "asset"
+msgstr "สินทรัพย์"
+
+#: src/components/Dashboard/RecentTrades/table.tsx:45
+msgid "investment"
+msgstr "การลงทุน"
+
+#: src/components/Assets/Table/index.tsx:154
+#: src/components/Assets/TableSideMode/index.tsx:102
+#: src/components/ChartContainer/Chart/Instruments/InstrumentSubGroup.tsx:90
+#: src/components/Dashboard/RecentTrades/table.tsx:48
+#: src/components/Mobile/SearchAssetsPanel/TableSideMode/index.tsx:100
+msgid "payout"
+msgstr "การจ่ายเงิน"
+
+#: src/components/Assets/Table/index.tsx:158
+#: src/components/Dashboard/RecentTrades/table.tsx:51
+msgid "status"
+msgstr "สถานะ"
+
+#: src/components/Dashboard/RecentTrades/table.tsx:54
+msgid "return"
+msgstr "กลับ"
+
+#: src/components/Dashboard/RatioTraders/index.tsx:47
+msgid "High/Low Ratio"
+msgstr "อัตราส่วนสูง / ต่ำ"
+
+#: src/components/Dashboard/Cash/index.tsx:34
+msgid "balance"
+msgstr "ยอดคงเหลือ"
+
+#: src/components/Dashboard/Cash/index.tsx:45
+msgid "invested"
+msgstr "ซึ่งได้ลงทุน"
+
+#: src/components/Dashboard/Cash/index.tsx:56
+msgid "available cash"
+msgstr "เงินสดที่มีอยู่"
+
+#: src/components/Dashboard/Bonus/index.tsx:48
+msgid "total bonus received"
+msgstr "ได้รับโบนัสรวม"
+
+#: src/components/Dashboard/Bonus/index.tsx:59
+msgid "traded bonus"
+msgstr "โบนัสซื้อขาย"
+
+#: src/components/Dashboard/Bonus/index.tsx:70
+msgid "pending bonus"
+msgstr "โบนัสที่รอดำเนินการ"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:343
+msgid "Indicators only available on timeframes  of 1 min and above."
+msgstr "เครื่องมือช่วยวิเคราะห์ทางเทคนิคสามารถเปิดใช้งานได้เฉพาะกรอบเวลา 1 นาทีขึ้นไปเท่านั้น"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:204
+#: src/components/ChartContainer/Chart/ChartControls.tsx:348
+msgid "Switch"
+msgstr "สวิตช์"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:98
+#: src/components/ChartContainer/Chart/period.ts:27
+#: src/components/ChartContainer/Chart/period.ts:29
+msgid "Tick"
+msgstr "ติ๊ก"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:100
+#: src/components/ChartContainer/Chart/period.ts:46
+msgid "1m"
+msgstr "1 นาที"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:102
+#: src/components/ChartContainer/Chart/period.ts:48
+msgid "1 Minute"
+msgstr "1 นาที"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:104
+#: src/components/ChartContainer/Chart/period.ts:65
+msgid "2m"
+msgstr "2 นาที"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:106
+#: src/components/ChartContainer/Chart/period.ts:67
+msgid "2 Minutes"
+msgstr "2 นาที"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:108
+#: src/components/ChartContainer/Chart/period.ts:84
+msgid "5m"
+msgstr "5 นาที"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:110
+#: src/components/ChartContainer/Chart/period.ts:86
+msgid "5 Minutes"
+msgstr "5 นาที"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:112
+#: src/components/ChartContainer/Chart/period.ts:103
+msgid "15m"
+msgstr "15 นาที"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:114
+#: src/components/ChartContainer/Chart/period.ts:105
+msgid "15 Minutes"
+msgstr "15 นาที"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:116
+#: src/components/ChartContainer/Chart/period.ts:122
+msgid "30m"
+msgstr "30 นาที"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:118
+#: src/components/ChartContainer/Chart/period.ts:124
+msgid "30 Minutes"
+msgstr "30 นาที"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:120
+#: src/components/ChartContainer/Chart/period.ts:141
+msgid "1h"
+msgstr "1 ชั่วโมง"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:122
+#: src/components/ChartContainer/Chart/period.ts:143
+msgid "1 Hour"
+msgstr "1 ชั่วโมง"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:124
+#: src/components/ChartContainer/Chart/period.ts:160
+msgid "2h"
+msgstr "2 ชั่วโมง"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:126
+#: src/components/ChartContainer/Chart/period.ts:162
+msgid "2 Hours"
+msgstr "2 ชั่วโมง"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:128
+#: src/components/ChartContainer/Chart/period.ts:179
+msgid "4h"
+msgstr "4 ชั่วโมง"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:130
+#: src/components/ChartContainer/Chart/period.ts:181
+msgid "4 Hours"
+msgstr "4 ชั่วโมง"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:132
+#: src/components/ChartContainer/Chart/period.ts:198
+msgid "1d"
+msgstr "1 วัน"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:134
+#: src/components/ChartContainer/Chart/period.ts:200
+msgid "1 Day"
+msgstr "1 วัน"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:136
+#: src/components/ChartContainer/Chart/period.ts:217
+msgid "1w"
+msgstr "1 สัปดาห์"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:138
+#: src/components/ChartContainer/Chart/period.ts:219
+msgid "1 Week"
+msgstr "1 สัปดาห์"
+
+#: src/components/Assets/Table/index.tsx:162
+#: src/components/Assets/TableSideMode/index.tsx:99
+#: src/components/ChartContainer/Chart/Instruments/InstrumentSubGroup.tsx:88
+#: src/components/Mobile/SearchAssetsPanel/TableSideMode/index.tsx:103
+msgid "price"
+msgstr "ราคา"
+
+#: src/components/ChartContainer/Chart/Instruments/InstrumentSubGroup.tsx:89
+msgid "daily %"
+msgstr "รายวัน %"
+
+#: src/components/ChartContainer/Chart/ChartPositionInfo/index.tsx:194
+msgid "Return on sell"
+msgstr ""
+
+#: src/components/Assets/Groups/constants/groups.ts:8
+#: src/components/Assets/Groups/index.tsx:55
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:8
+#: src/components/Assets/GroupsSideMode/index.tsx:56
+#: src/components/ChartContainer/Chart/ChartIndicators/SelectionPanel/ItemMenu/index.tsx:76
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:8
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:56
+msgid "Favorites"
+msgstr "รายการโปรด"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:22
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:171
+msgid "Label"
+msgstr "ฉลาก"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:28
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:173
+msgid "Circle"
+msgstr "วงกลม"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:34
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:175
+msgid "Rectangle"
+msgstr "สี่เหลี่ยมผืนผ้า"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:40
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:177
+msgid "Segment"
+msgstr "เซ็กเมนต์"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:46
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:179
+msgid "Arrow segment"
+msgstr "ส่วนลูกศร"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:52
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:181
+msgid "Ray"
+msgstr "เส้น"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:58
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:183
+msgid "Arrow ray"
+msgstr "เส้นลูกศร"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:64
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:185
+msgid "Horizontal line"
+msgstr "เส้นแนวนอน"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:70
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:187
+msgid "Vertical line"
+msgstr "เส้นแนวตั้ง"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:272
+msgid "Zoom in"
+msgstr "ซูมออก"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:317
+msgid "Toggle navigator"
+msgstr "เปิดใช้งานเครื่องมือนำทาง"
+
+#: src/components/Assets/Table/index.tsx:146
+msgid "instrument"
+msgstr "อุปกรณ์"
+
+#: src/components/Assets/Table/index.tsx:150
+msgid "description"
+msgstr "คำอธิบาย"
+
+#: src/components/Assets/Table/index.tsx:174
+msgid "open trades"
+msgstr "เปิดการซื้อขาย"
+
+#: src/components/Assets/Table/index.tsx:179
+msgid "add/remove"
+msgstr "เพิ่ม / ลบ"
+
+#: src/components/Assets/Table/index.tsx:184
+msgid "actions"
+msgstr "การกระทำ"
+
+#: src/components/Assets/Search/index.tsx:31
+#: src/components/Assets/SearchSideMode/index.tsx:68
+#: src/components/Mobile/SearchAssetsPanel/SearchSideMode/index.tsx:57
+msgid "Type asset name to search"
+msgstr "พิมพ์ชื่อสินทรัพย์เพื่อค้นหา"
+
+#: src/components/Assets/Table/index.tsx:112
+msgid "Opens in"
+msgstr "เปิดใน"
+
+#: src/components/Assets/Table/index.tsx:278
+msgid "Open"
+msgstr "เปิด"
+
+#: src/components/Assets/Groups/constants/groups.ts:15
+#: src/components/Assets/Groups/index.tsx:57
+msgid "Hot assets"
+msgstr "สินทรัพย์ร้อน"
+
+#: src/components/Assets/Groups/constants/groups.ts:21
+#: src/components/Assets/Groups/index.tsx:59
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:21
+#: src/components/Assets/GroupsSideMode/index.tsx:60
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:21
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:60
+msgid "Recently traded"
+msgstr "ซื้อขายเร็ว ๆ นี้"
+
+#: src/components/Assets/Groups/constants/groups.ts:27
+#: src/components/Assets/Groups/index.tsx:61
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:27
+#: src/components/Assets/GroupsSideMode/index.tsx:62
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:27
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:62
+msgid "Top riser/fallen"
+msgstr "สินทรัพย์ที่มีการเปลี่ยนแปลงสูงสุด / ต่ำสุด"
+
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:201
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:201
+#: src/components/TradeBox/DirectionPanels.tsx:281
+#: src/components/TradeBoxNew/DirectionPanels.tsx:287
+msgid "UP"
+msgstr "ขึ้น"
+
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:202
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:202
+#: src/components/TradeBox/DirectionPanels.tsx:380
+#: src/components/TradeBoxNew/DirectionPanels.tsx:396
+msgid "DOWN"
+msgstr "ลง"
+
+#: src/components/TradeBox/ExpirySelect.tsx:134
+#: src/components/TradeBoxNew/ExpirySelect.tsx:131
+#, javascript-format
+msgid "${ expiry } seconds"
+msgstr "${ expiry } วินาที"
+
+#: src/components/TradeBox/ExpirySelect.tsx:138
+#: src/components/TradeBoxNew/ExpirySelect.tsx:135
+#, javascript-format
+msgid "${ expiry } min"
+msgstr "${ expiry } นาที"
+
+#: src/components/TradeBox/ExpirySelect.tsx:142
+#: src/components/TradeBoxNew/ExpirySelect.tsx:139
+#, javascript-format
+msgid "${ hours } hour"
+msgstr "${ hours } ชั่วโมง"
+
+#: src/components/TradeBox/ExpirySelect.tsx:142
+#: src/components/TradeBoxNew/ExpirySelect.tsx:139
+#, javascript-format
+msgid "${ hours } hours"
+msgstr "${ hours } ชั่วโมง"
+
+#: src/components/TradeBox/ExpirySelect.tsx:145
+#: src/components/TradeBoxNew/ExpirySelect.tsx:142
+#, javascript-format
+msgid "${ hours } day"
+msgstr "${ hours } วัน"
+
+#: src/components/TradeBox/ExpirySelect.tsx:145
+#: src/components/TradeBoxNew/ExpirySelect.tsx:142
+#, javascript-format
+msgid "${ hours } days"
+msgstr "${ hours } วัน"
+
+#: src/components/TradeBox/MobileInfoPanel.tsx:72
+#: src/components/TradeBoxNew/MobileInfoPanel.tsx:72
+msgid "Breakeven Price"
+msgstr ""
+
+#: src/components/TradeBox/index.tsx:524
+#: src/components/TradeBoxNew/index.tsx:486
+msgid "Tap high or low"
+msgstr "แตะสูงหรือต่ำ"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:103
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:103
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:436
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:557
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:462
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:590
+msgid "Up"
+msgstr "ขึ้น"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:104
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:104
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:485
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:526
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:518
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:559
+msgid "Down"
+msgstr "ลง"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:582
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:615
+msgid "Tap up or down"
+msgstr "แตะขึ้นหรือลง"
+
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:89
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:89
+msgid "Money back"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:337
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:337
+msgid "Current PnL"
+msgstr ""
+
+#: src/components/ChartContainer/Chart/ChartPositionInfo/index.tsx:267
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:487
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:493
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:348
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:493
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:499
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:348
+msgid "Close Trade"
+msgstr ""
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:216
+msgid "Home"
+msgstr "บ้าน"
+
+#: src/components/ChartContainer/Chart/ChartPositionInfo/index.tsx:207
+msgid "Breakeven (1x)"
+msgstr ""
+
+#: src/components/ChartContainer/Chart/ChartPositionInfo/index.tsx:221
+msgid "Money doubled (2x)"
+msgstr ""
+
+#: src/components/ChartContainer/Chart/ChartPositionInfo/index.tsx:237
+msgid "Open PnL"
+msgstr ""
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:40
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:78
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:126
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:145
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:164
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:183
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:202
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:221
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:254
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:278
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:297
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:316
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:343
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:362
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:381
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:400
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:429
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:448
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:467
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:486
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:548
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:589
+msgid "Index"
+msgstr "ดัชนี"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:45
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:59
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:83
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:131
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:150
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:169
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:188
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:207
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:226
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:240
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:259
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:283
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:302
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:321
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:348
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:367
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:386
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:405
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:434
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:453
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:472
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:491
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:553
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:594
+msgid "Period"
+msgstr "ระยะเวลา"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:64
+msgid "Decimals"
+msgstr "ทศนิยม"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:88
+msgid "Standard Deviation"
+msgstr "ส่วนเบี่ยงเบนมาตรฐาน"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:102
+msgid "Short period"
+msgstr "ช่วงสั้น ๆ"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:107
+msgid "Long period"
+msgstr "ระยะเวลานาน"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:112
+msgid "Signal period"
+msgstr "ระยะเวลาสัญญาณ"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:264
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:558
+msgid "Periods"
+msgstr "ระยะเวลา"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:496
+msgid "Top band"
+msgstr "กรอบบน"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:501
+msgid "Bottom band"
+msgstr "กรอบล่าง"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:76
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:189
+msgid "Elliot 3"
+msgstr "เอลเลียต 3"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:82
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:191
+msgid "Elliot 5"
+msgstr "เอลเลียต 5"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:88
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:193
+msgid "Crooked 3"
+msgstr "คด3"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:94
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:195
+msgid "Crooked 5"
+msgstr "คด5"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:100
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:197
+msgid "Measure XY"
+msgstr "วัด XY"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:106
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:199
+msgid "Measure Y"
+msgstr "วัด Y"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:112
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:201
+msgid "Measure X"
+msgstr "วัด X"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:123
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:203
+#. {
+#. title: 'Fibonacci',
+#. class: 'highcharts-fibonacci',
+#. icon: 'chart-fibonacci'
+#. },
+msgid "Pitchfork"
+msgstr "แนวขนาน"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:129
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:205
+msgid "Parallel channel"
+msgstr "ช่องคู่ขนาน"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:135
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:207
+msgid "Vertical counter"
+msgstr "แนวตั้ง"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:141
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:209
+msgid "Vertical label"
+msgstr "ป้ายแนวตั้ง"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:147
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:211
+msgid "Vertical arrow"
+msgstr "ลูกศรแนวตั้ง"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:199
+msgid "Indicators only available on timeframes of 1 min and above."
+msgstr "เครื่องมือช่วยวิเคราะห์ทางเทคนิคสามารถเปิดใช้งานได้เฉพาะกรอบเวลา 1 นาทีขึ้นไปเท่านั้น"
+
+#: src/components/ChartContainer/MobileInstrumentsBar/ProductTypePanel/TypeList/TypeItem/index.tsx:37
+#: src/components/TradeBox/ProductTypePanel/index.tsx:78
+#: src/components/TradeBox/ProductTypePanel/index.tsx:159
+#: src/components/TradeBoxNew/ProductTypePanel/index.tsx:79
+#: src/components/TradeBoxNew/ProductTypePanel/index.tsx:165
+msgid "High/Low"
+msgstr "สูงต่ำ"
+
+#: src/components/ChartContainer/MobileInstrumentsBar/ProductTypePanel/TypeList/TypeItem/index.tsx:38
+#: src/components/TradeBox/ProductTypePanel/index.tsx:72
+#: src/components/TradeBox/ProductTypePanel/index.tsx:147
+#: src/components/TradeBoxNew/ProductTypePanel/index.tsx:73
+#: src/components/TradeBoxNew/ProductTypePanel/index.tsx:153
+msgid "Options"
+msgstr "ตัวเลือก"
+
+#: src/components/TradeBox/ExpiriesSlider/ExpiryItem.tsx:31
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:297
+#: src/components/TradeBoxNew/ExpiriesSlider/ExpiryItem.tsx:31
+#, javascript-format
+msgid "${ game.cdfExpiry }H"
+msgstr "${ game.cdfExpiry }ชั่วโมง"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:59
+#: src/components/Mobile/HomeMenuPanel/index.tsx:205
+#: src/components/Mobile/HomeMenuPanel/index.tsx:228
+#: src/components/Sidebar/index.tsx:331
+#: src/components/SidebarNew/index.tsx:357
+msgid "Leaderboard"
+msgstr "กระดานหนัง"
+
+#: src/components/Sidebar/VideoNews/index.tsx:76
+#: src/components/SidebarNew/VideoNews/index.tsx:76
+msgid "Market session Brief"
+msgstr "การตลาดสั้น ๆ"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:46
+#: src/components/SidebarNew/LeaderBoard/index.tsx:46
+msgid "TODAY"
+msgstr "วันนี้"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:46
+#: src/components/SidebarNew/LeaderBoard/index.tsx:46
+msgid "THIS WEEK"
+msgstr "อาทิตย์นี้"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:46
+#: src/components/SidebarNew/LeaderBoard/index.tsx:46
+msgid "THIS MONTH"
+msgstr "เดือนนี้"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:97
+#: src/components/SidebarNew/LeaderBoard/index.tsx:97
+msgid "Trader’s Performance"
+msgstr "ประสิทธิภาพของเทรดเดอร์"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:102
+#: src/components/SidebarNew/LeaderBoard/index.tsx:102
+msgid "Rank"
+msgstr "อันดับ"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:103
+#: src/components/SidebarNew/LeaderBoard/index.tsx:103
+msgid "Name"
+msgstr "ชื่อ"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:104
+#: src/components/SidebarNew/LeaderBoard/index.tsx:104
+msgid "Profit"
+msgstr "กำไร"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:122
+#: src/components/SidebarNew/LeaderBoard/index.tsx:122
+msgid "Load more"
+msgstr "โหลดมากขึ้น"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:242
+msgid "Zoom out"
+msgstr "ขยายออก"
+
+#: src/components/Assets/Table/index.tsx:168
+msgid "24h change"
+msgstr "24 ชั่วโมงเปลี่ยน"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:440
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:490
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:565
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:466
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:523
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:598
+msgid "It is not allowed to make trades in the opposite direction while you have active open trades"
+msgstr ""
+
+#: src/components/ChartContainer/Chart/CfdSentimentSwitcher.tsx:117
+msgid "Price"
+msgstr "ราคา"
+
+#: src/components/ChartContainer/Chart/CfdSentimentSwitcher.tsx:119
+msgid "Multiplier"
+msgstr ""
+
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:37
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:67
+msgid "Basic Chart"
+msgstr "แผนภูมิพื้นฐาน"
+
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:54
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:80
+msgid "Switch to Basic Chart"
+msgstr "สลับไปยังแผนภูมิพื้นฐาน"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:421
+#: src/components/ChartContainer/Chart/ChartControls.tsx:549
+msgid "Heikin Ashi"
+msgstr ""
+
+#: src/components/ChartContainer/Chart/index.tsx:545
+msgid "CLOSE"
+msgstr "ปิด"
+
+#: src/components/ChartContainer/Chart/index.tsx:545
+msgid "EXPIRED"
+msgstr ""
+
+#: src/components/ChartContainer/Chart/index.tsx:545
+msgid "SELL"
+msgstr ""
+
+#: src/components/ChartContainer/Chart/index.tsx:1266
+#: src/components/ChartContainer/Chart/plotLines.ts:115
+msgid "Breakeven"
+msgstr ""
+
+#: src/components/ChartContainer/Chart/plotLines.ts:104
+msgid "If the asset price above this level at expiry time, you're making profits"
+msgstr ""
+
+#: src/components/ChartContainer/Chart/plotLines.ts:106
+msgid "If the asset price below this level at expiry time, you're making profits"
+msgstr ""
+
+#: src/components/Sidebar/index.tsx:333
+#: src/components/SidebarNew/index.tsx:359
+msgid "Pool Trades"
+msgstr "ข้อตกลงสระว่า ยน้ำ"
+
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:224
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:224
+msgid "Trades"
+msgstr "การค้าขาย"
+
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:232
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:232
+msgid "High Pool"
+msgstr "สระน้ำสูง"
+
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:243
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:314
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:243
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:314
+msgid "User"
+msgstr "ผู้ใช้"
+
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:244
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:315
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:244
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:315
+msgid "Time"
+msgstr "เวลา"
+
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:245
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:316
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:245
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:316
+msgid "Open Price"
+msgstr "เปิดราคา"
+
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:303
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:303
+msgid "Low Pool"
+msgstr "สระน้ำต่ำ"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:232
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:239
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:609
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:616
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:238
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:245
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:615
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:622
+msgid "Symbol"
+msgstr "เครื่องหมาย"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:245
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:252
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:622
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:629
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:251
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:258
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:628
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:635
+msgid "Direction"
+msgstr "ทิศทาง"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:297
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:304
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:303
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:310
+msgid "Crnt Price"
+msgstr "ราคาปัจจุบัน"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:323
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:330
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:329
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:336
+msgid "PnL"
+msgstr "โชคดี"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:336
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:343
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:713
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:720
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:342
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:349
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:719
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:726
+msgid "Trade Time"
+msgstr "เวลาการค้า"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:349
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:356
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:603
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:726
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:733
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:355
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:362
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:609
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:732
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:739
+msgid "Expiry Time"
+msgstr "เวลาหมดอายุ"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:362
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:369
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:368
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:375
+msgid "Actions"
+msgstr "การกระทำ"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:861
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:882
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:867
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:888
+msgid "Open Positions"
+msgstr "ตำแหน่งที่เปิด"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:888
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:894
+msgid "Closed Positions"
+msgstr "ปิดตำแหน่ง"
+
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:39
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:69
+msgid "Trading View"
+msgstr "มุมมองการซื้อขาย"
+
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:41
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:71
+msgid "Advanced Chart"
+msgstr "สร้างแผนภูมิ k"
+
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:56
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:82
+msgid "Switch to Trading View"
+msgstr "สลับไปยังมุมมองการซื้อขาย"
+
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:58
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:84
+msgid "Switch to Advanced Chart"
+msgstr "สลับไปยังแผนภูมิขั้นสูง"
+
+#: src/components/ChartContainer/Chart/index.tsx:2425
+#: src/components/TradeBox/index.tsx:441
+#: src/components/TradeBoxNew/index.tsx:395
+msgid "Expiration"
+msgstr "หมดอายุ"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:429
+#: src/components/ChartContainer/Chart/index.tsx:3690
+msgid "purchase time"
+msgstr "เวลาซื้อ"
+
+#: src/components/Assets/TableSideMode/index.tsx:96
+#: src/components/Mobile/SearchAssetsPanel/TableSideMode/index.tsx:98
+msgid "instrmnt"
+msgstr "อุปกรณ์"
+
+#: src/components/Assets/TableSideMode/index.tsx:105
+#: src/components/Mobile/SearchAssetsPanel/TableSideMode/index.tsx:106
+msgid "chg %"
+msgstr ""
+
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:15
+#: src/components/Assets/GroupsSideMode/index.tsx:58
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:15
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:58
+msgid "Most traded"
+msgstr ""
+
+#: src/components/ChartContainer/MobileInstrumentsBar/ProductTypePanel/TypeList/TypeItem/index.tsx:39
+#: src/components/TradeBox/ProductTypePanel/index.tsx:84
+#: src/components/TradeBox/ProductTypePanel/index.tsx:171
+#: src/components/TradeBoxNew/ProductTypePanel/index.tsx:85
+#: src/components/TradeBoxNew/ProductTypePanel/index.tsx:177
+msgid "Above/Below"
+msgstr ""
+
+#: src/components/TradeBox/ProductTypePanel/index.tsx:121
+msgid "Product"
+msgstr ""
+
+#: src/components/TradeBox/DirectionPanels.tsx:279
+#: src/components/TradeBoxNew/DirectionPanels.tsx:285
+msgid "Above"
+msgstr ""
+
+#: src/components/TradeBox/DirectionPanels.tsx:378
+#: src/components/TradeBoxNew/DirectionPanels.tsx:394
+msgid "Below"
+msgstr ""
+
+#: src/components/TradeBox/index.tsx:524
+#: src/components/TradeBoxNew/index.tsx:486
+msgid "tap above or below"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:280
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:259
+msgid "sec"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:280
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:259
+msgid "s"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:284
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:263
+msgid "min"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:284
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:263
+msgid "m"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:289
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:268
+msgid "hour"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:289
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:268
+msgid "hours"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:289
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:268
+msgid "h"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:294
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:273
+msgid "day"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:294
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:273
+msgid "days"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:294
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:273
+msgid "d"
+msgstr ""
+
+#: src/components/helper.tsx:8
+msgid "My Profile"
+msgstr "ประวัติของฉัน"
+
+#: src/components/helper.tsx:10
+msgid "Accounts"
+msgstr "บัญชี"
+
+#: src/components/helper.tsx:12
+msgid "Trading"
+msgstr "การซื้อขาย"
+
+#: src/components/helper.tsx:18
+msgid "Terms & Privacy"
+msgstr "ข้อกำหนดและความเป็นส่วนตัว"
+
+#: src/components/helper.tsx:20
+msgid "Trading Accounts"
+msgstr "บัญชีซื้อขาย"
+
+#: src/components/helper.tsx:22
+msgid "Add Accounts"
+msgstr "เพิ่มบัญชี"
+
+#: src/components/helper.tsx:26
+msgid "Add Funds"
+msgstr "เติมเงิน"
+
+#: src/components/helper.tsx:34
+msgid "Transaction"
+msgstr "การทำธุรกรรม"
+
+#: src/components/helper.tsx:36
+msgid "Delete Account"
+msgstr "ลบบัญชี"
+
+#: src/components/helper.tsx:38
+msgid "Edit Profile"
+msgstr "แก้ไขโปรไฟล์"
+
+#: src/components/helper.tsx:40
+msgid "Account Verification"
+msgstr "ยืนยันตัวตน"
+
+#: src/components/helper.tsx:42
+msgid "Change Password"
+msgstr "เปลี่ยนรหัสผ่าน"
+
+#: src/components/helper.tsx:44
+msgid "Mobile Verification"
+msgstr "การยืนยันมือถือ"
+
+#: src/components/helper.tsx:48
+msgid "Trading History"
+msgstr "ประวัติการซื้อขาย"
+
+#: src/components/helper.tsx:14
+msgid "Expiry Prices"
+msgstr "ราคาหมดอายุ"
+
+#: src/components/helper.tsx:16
+msgid "Asset Index"
+msgstr "ดัชนีสินทรัพย์"
+
+#: src/sagas/accountSaga.ts:62
+msgid "Login failed, please verify that you are using the correct email and password"
+msgstr "การเข้าสู่ระบบล้มเหลว กรุณาตรวจสอบว่า คุณได้ใช้อีเมลและรหัสผ่านที่ถูกต้องหรือไม่"
+
+#: src/sagas/tradingSaga.ts:401
+msgid "Cancelled Successfully"
+msgstr ""
+
+#: src/components/TradeBoxNew/DirectionPanels.tsx:288
+msgid "Higher"
+msgstr ""
+
+#: src/components/TradeBoxNew/DirectionPanels.tsx:397
+msgid "Lower"
+msgstr ""
+
+#: src/components/Mobile/Drawer/index.tsx:169
+msgid "User ID"
+msgstr ""
+
+#: src/components/Header/Account.tsx:149
+#: src/components/Header/Account.tsx:269
+#: src/components/helper.tsx:50
+msgid "Open Account"
+msgstr "Crear cuenta"
+
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:365
+#, javascript-format
+msgid "${ expiry.cdfExpiry }H"
+msgstr ""
+
+#: src/components/modals/SwitchToRealModal/index.tsx:36
+msgid "Switch to real account"
+msgstr ""
+
+#: src/components/modals/SwitchToRealModal/index.tsx:38
+msgid "Switch to real account, so you can start making real profit on the market"
+msgstr ""
+
+#: src/components/modals/MakeDepositModal/index.tsx:45
+msgid "This is your real account"
+msgstr ""
+
+#: src/components/modals/MakeDepositModal/index.tsx:47
+msgid "Add funds to your real account, so you can start making real profit on the market"
+msgstr ""
+
+#: src/components/modals/MakeDepositModal/index.tsx:65
+msgid "Make a deposit"
+msgstr "ทำการฝากเงิน"
+
+#: src/components/modals/EmailConfirmation/index.tsx:33
+msgid "Email Confirmation"
+msgstr ""
+
+#: src/components/modals/EmailConfirmation/index.tsx:35
+msgid "Please complete your email address confirmation in order to secure your account and fund on it"
+msgstr ""
+
+#: src/components/modals/EmailConfirmation/index.tsx:38
+msgid "Confirm Your Email"
+msgstr ""
+
+#: src/components/modals/EmailConfirmation/index.tsx:38
+msgid "You are at a practice account make a deposit to operate in real account"
+msgstr "คุณอยู่ที่บัญชีทดลอง ทำการฝากเงินเพื่อดำเนินการในบัญชีจริง"
+
+#: src/components/modals/EmailConfirmation/index.tsx:38
+msgid "This is your Practice account"
+msgstr "นี่คือบัญชีทดลองของคุณ"

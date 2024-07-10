@@ -1,0 +1,41 @@
+.chart-options-mobile {
+  justify-content: flex-start !important;
+  flex-wrap: wrap;
+  gap: 10px;
+  .panel-select {
+    height: 36px;
+    margin-right: 10px;
+    margin-left: unset;
+    > div {
+      height: 36px;
+    }
+  }
+}
+.chart-option-select {
+  display: flex;
+  gap: 8px;
+  .switcher-container {
+    > div {
+      min-height: 36px;
+      margin-right: 0px;
+    }
+  }
+}
+@media screen and (max-width: 427px) {
+  .chart-options-mobile {
+    .instrument-name {
+      margin-left: 4px;
+    }
+    .asset_icon_big {
+      display: none;
+    }
+  }
+}
+
+.chart-button-switch-mobile {
+  width: 30px;
+  padding: 0px;
+  margin: 0px;
+  margin-right: 8px;
+  border-radius: 15px;
+}

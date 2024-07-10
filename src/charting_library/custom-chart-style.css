@@ -1,0 +1,14 @@
+html.theme-dark:root {
+  --tv-color-toolbar-button-text-active: rgb(117, 249, 134);
+  --tv-color-toolbar-button-text-active-hover: rgb(117, 249, 134);
+  --tv-color-toolbar-toggle-button-background-active: rgb(117, 249, 134);
+  --tv-color-toolbar-toggle-button-background-active-hover: rgb(117, 249, 134);
+}
+
+html.theme-dark .chart-page .chart-container.multiple.active:after {
+  border-color: rgb(117, 249, 134);
+}
+
+html.theme-dark .button-G7o5fBfa.isActive-G7o5fBfa .icon-G7o5fBfa {
+  color: white;
+}

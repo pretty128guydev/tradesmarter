@@ -1,0 +1,47 @@
+html.theme-dark:root {
+  --tv-color-toolbar-button-text-active: #75f986;
+  --tv-color-toolbar-button-text-active-hover: #75f986;
+  --tv-color-toolbar-toggle-button-background-active: #75f986;
+  --tv-color-toolbar-toggle-button-background-active-hover: #75f986;
+  --ui-lib-button-default-color-border: #75f986;
+  --ui-lib-button-default-color-content: #75f986;
+  --tv-color-toolbar-button-text-active: #ffffff;
+  --tv-spinner-color: #75f986;
+}
+
+html.theme-dark .chart-page .chart-container.multiple.active:after {
+  border-color: #75f986;
+}
+
+html.theme-dark .button-G7o5fBfa.isActive-G7o5fBfa .icon-G7o5fBfa {
+  color: #ffffff;
+}
+
+html.theme-dark .tab-Zcmov9JL.active-Zcmov9JL .icon-Zcmov9JL,
+html.theme-dark .tab-Zcmov9JL.active-Zcmov9JL .title-Zcmov9JL {
+  color: #ffffff;
+}
+
+html.theme-dark
+  .wrapper-5Xd5conM
+  .input-5Xd5conM:checked
+  + .box-5Xd5conM.check-5Xd5conM
+  .icon-5Xd5conM {
+  stroke: #ffffff;
+}
+
+html.theme-dark .item-4TFSfyGO.isActive-4TFSfyGO,
+html.theme-dark .item-4TFSfyGO.isActive-4TFSfyGO:active,
+html.theme-dark .item-4TFSfyGO.isActive-4TFSfyGO:hover {
+  color: #ffffff;
+}
+
+html.theme-dark .toggler-OnqkH3TM.checked-OnqkH3TM {
+  background-color: #75f986;
+  color: #ffffff;
+}
+
+html.theme-dark .layoutButton-zv2K45bH.isActive-zv2K45bH {
+  background-color: #75f986;
+  color: #ffffff;
+}

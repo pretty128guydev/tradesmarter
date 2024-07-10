@@ -1,0 +1,2117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2022-01-04 11:31+0700\n"
+"Last-Translator: Moshe Gabay <moshe@backpack.io>, 2021\n"
+"Language-Team: Japanese (https://www.transifex.com/tradesmarter/teams/116351/ja/)\n"
+"Language: ja\n"
+"mime-version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"x-generator: Poedit 3.0.1\n"
+
+#: src/components/Header/Account.tsx:138
+#: src/components/Header/Account.tsx:263
+#: src/components/modals/SignInModal/index.tsx:111
+#: src/components/modals/SignInModal/index.tsx:161
+msgid "Login"
+msgstr "ログイン"
+
+#: src/components/modals/SignInModal/index.tsx:142
+msgid "Forgot password?"
+msgstr "パスワードをお忘れですか？"
+
+#: src/components/modals/PasswordResetModal/index.tsx:121
+#: src/components/modals/SignInModal/index.tsx:151
+msgid "Create account"
+msgstr "口座開設"
+
+#: src/components/modals/SignInModal/index.tsx:161
+msgid "Signing in..."
+msgstr "サインイン中..."
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:528
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:369
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:534
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:369
+#: src/components/modals/SellbackModal/index.tsx:66
+msgid "Sellback"
+msgstr "途中売却の実行"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:700
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:707
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:215
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:706
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:713
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:215
+#: src/components/modals/SellbackModal/index.tsx:102
+msgid "Return"
+msgstr "払い戻し"
+
+#: src/components/modals/SellbackModal/index.tsx:126
+msgid "Confirm sellback"
+msgstr "途中売却の確認"
+
+#: src/components/modals/PracticeExpiredModal/index.tsx:36
+msgid "Practice expired"
+msgstr "デモ口座 利用期間終了"
+
+#: src/components/modals/PracticeExpiredModal/index.tsx:43
+#: src/components/modals/SwitchToRealModal/index.tsx:50
+msgid "Switch to real"
+msgstr "リアル口座に切り替える"
+
+#: src/components/ChartContainer/Chart/Sentiment/index.tsx:239
+#: src/components/Dashboard/RatioTraders/index.tsx:33
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:103
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:201
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:103
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:201
+#: src/components/TradeBox/DirectionPanels.tsx:282
+#: src/components/modals/SellbackModal/index.tsx:80
+msgid "High"
+msgstr "ハイ"
+
+#: src/components/ChartContainer/Chart/Sentiment/index.tsx:243
+#: src/components/Dashboard/RatioTraders/index.tsx:38
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:104
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:202
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:104
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:202
+#: src/components/TradeBox/DirectionPanels.tsx:381
+#: src/components/modals/SellbackModal/index.tsx:80
+msgid "Low"
+msgstr "ロー"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:344
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:386
+#: src/components/TradeBox/ExpirySelect.tsx:370
+msgid "Short"
+msgstr "ショート"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:356
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:394
+#: src/components/TradeBox/ExpirySelect.tsx:378
+msgid "Long"
+msgstr "ロング"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:195
+#: src/components/Mobile/HomeMenuPanel/index.tsx:237
+#: src/components/Sidebar/index.tsx:329
+#: src/components/SidebarNew/index.tsx:355
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:171
+#: src/components/TradeBox/index.tsx:223
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:171
+#: src/components/TradeBoxNew/index.tsx:211
+#. not dead period and not timeout,
+msgid "Trade"
+msgstr "取引"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:172
+#: src/components/TradeBox/index.tsx:224
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:172
+#: src/components/TradeBoxNew/index.tsx:212
+#. not dead period and not timeout,
+msgid "Trading is not available"
+msgstr "お取引頂けません"
+
+#: src/components/TradeBox/MobileInfoPanel.tsx:70
+#: src/components/TradeBox/TextInfoBlock.tsx:78
+#: src/components/TradeBoxNew/MobileInfoPanel.tsx:70
+#: src/components/TradeBoxNew/TextInfoBlock.tsx:78
+msgid "Time left"
+msgstr "残り時間"
+
+#: src/components/Sidebar/SignalsPanel.tsx:30
+#: src/components/Sidebar/index.tsx:323
+#: src/components/SidebarNew/SignalsPanel.tsx:26
+#: src/components/SidebarNew/index.tsx:349
+msgid "Signals"
+msgstr "シグナル"
+
+#: src/components/Sidebar/SocialPanel.tsx:30
+#: src/components/SidebarNew/SocialPanel.tsx:26
+msgid "Social"
+msgstr "ソーシャル"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:51
+#: src/components/Mobile/HomeMenuPanel/index.tsx:201
+#: src/components/Mobile/HomeMenuPanel/index.tsx:226
+#: src/components/Sidebar/VideoNews/index.tsx:84
+#: src/components/Sidebar/index.tsx:319
+#: src/components/SidebarNew/VideoNews/index.tsx:84
+#: src/components/SidebarNew/index.tsx:345
+msgid "Video News"
+msgstr "ビデオニュース"
+
+#: src/components/Sidebar/TutorialsPanel/index.tsx:65
+#: src/components/Sidebar/index.tsx:321
+#: src/components/SidebarNew/TutorialsPanel/index.tsx:61
+#: src/components/SidebarNew/index.tsx:347
+msgid "Tutorials"
+msgstr "チュートリアル"
+
+#: src/components/Sidebar/PositionsPanel/Placeholder.tsx:49
+#: src/components/SidebarNew/PositionsPanel/Placeholder.tsx:49
+msgid "No Open Positions"
+msgstr "オープンポジションはありません"
+
+#: src/components/Sidebar/PositionsPanel/Placeholder.tsx:49
+#: src/components/SidebarNew/PositionsPanel/Placeholder.tsx:49
+msgid "No Closed Positions"
+msgstr "クローズドポジションはありません"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:46
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:75
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:85
+#: src/components/Sidebar/services/TradeStatus.ts:6
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:46
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:75
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:85
+#: src/components/SidebarNew/services/TradeStatus.ts:6
+#: src/components/TradeBox/PayoutsBox.tsx:50
+#: src/components/TradeBoxNew/PayoutsBox.tsx:50
+msgid "In the money"
+msgstr "WIN"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:50
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:77
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:87
+#: src/components/Sidebar/services/TradeStatus.ts:10
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:50
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:77
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:87
+#: src/components/SidebarNew/services/TradeStatus.ts:10
+#: src/components/TradeBox/PayoutsBox.tsx:56
+#: src/components/TradeBoxNew/PayoutsBox.tsx:56
+msgid "Out of the money"
+msgstr "LOSE"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:48
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:52
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:79
+#: src/components/Sidebar/services/TradeStatus.ts:8
+#: src/components/Sidebar/services/TradeStatus.ts:12
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:48
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:52
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:79
+#: src/components/SidebarNew/services/TradeStatus.ts:8
+#: src/components/SidebarNew/services/TradeStatus.ts:12
+#: src/components/TradeBox/PayoutsBox.tsx:60
+#: src/components/TradeBoxNew/PayoutsBox.tsx:60
+msgid "At the money"
+msgstr "DRAW"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:185
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:304
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:185
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:304
+msgid "Trade time"
+msgstr "取引時間"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:189
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:308
+#: src/components/Sidebar/PositionsPanel/OpenPositions/ItemsGroup.tsx:208
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:189
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:308
+#: src/components/SidebarNew/PositionsPanel/OpenPositions/ItemsGroup.tsx:200
+msgid "Expiry time"
+msgstr "満期時間"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:219
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:226
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:596
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:193
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:312
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:225
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:232
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:602
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:193
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:312
+msgid "Trade ID"
+msgstr "取引ID"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:284
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:291
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:661
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:668
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:316
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:290
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:297
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:667
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:674
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:316
+msgid "Strike"
+msgstr "取引価格"
+
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:321
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:321
+msgid "Current Price"
+msgstr "現在の価格"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:271
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:278
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:648
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:655
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:205
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:326
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:277
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:284
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:654
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:661
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:205
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:326
+msgid "Investment"
+msgstr "投資額"
+
+#: src/components/ChartContainer/Chart/CfdSentimentSwitcher.tsx:115
+#: src/components/ChartContainer/Chart/ChartPositionInfo/index.tsx:179
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:310
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:317
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:687
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:694
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:210
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:331
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:316
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:323
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:693
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:700
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:210
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:331
+#: src/components/TradeBoxNew/index.tsx:419
+msgid "Payout"
+msgstr "ペイアウト"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:258
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:265
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:635
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:642
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:220
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:264
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:271
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:641
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:648
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:220
+msgid "Status"
+msgstr "ステータス"
+
+#: src/components/Sidebar/PositionsPanel/index.tsx:53
+#: src/components/SidebarNew/PositionsPanel/index.tsx:53
+msgid "OPEN POSITIONS"
+msgstr "オープンポジション"
+
+#: src/components/Sidebar/PositionsPanel/index.tsx:53
+#: src/components/SidebarNew/PositionsPanel/index.tsx:53
+msgid "CLOSED POSITIONS"
+msgstr "クローズドポジション"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:43
+#: src/components/Mobile/HomeMenuPanel/index.tsx:197
+#: src/components/Mobile/HomeMenuPanel/index.tsx:240
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:876
+#: src/components/Sidebar/PositionsPanel/index.tsx:102
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:882
+#: src/components/SidebarNew/PositionsPanel/index.tsx:95
+msgid "Positions"
+msgstr "ポジション"
+
+#: src/components/Sidebar/NewsPanel/NewsFeedItem.tsx:55
+#: src/components/SidebarNew/NewsPanel/NewsFeedItem.tsx:52
+msgid "Read More"
+msgstr "続きを読む"
+
+#: src/components/Sidebar/NewsPanel/index.tsx:25
+#: src/components/SidebarNew/NewsPanel/index.tsx:25
+msgid "GENERAL"
+msgstr "一般"
+
+#: src/components/Sidebar/NewsPanel/index.tsx:25
+#: src/components/SidebarNew/NewsPanel/index.tsx:25
+msgid "CRYPTO"
+msgstr "暗号通貨"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:47
+#: src/components/Mobile/HomeMenuPanel/index.tsx:199
+#: src/components/Mobile/HomeMenuPanel/index.tsx:227
+#: src/components/Sidebar/NewsPanel/index.tsx:36
+#: src/components/Sidebar/index.tsx:317
+#: src/components/SidebarNew/NewsPanel/index.tsx:36
+#: src/components/SidebarNew/index.tsx:343
+msgid "News"
+msgstr "ニュース"
+
+#: src/components/AccountBar/index.tsx:116
+#: src/components/Mobile/Header/index.tsx:210
+msgid "Practice"
+msgstr "デモ"
+
+#: src/components/Mobile/Header/index.tsx:214
+msgid "Real"
+msgstr "リアル"
+
+#: src/components/AccountBar/index.tsx:153
+#: src/components/Mobile/Header/index.tsx:220
+msgid "Balance"
+msgstr "残高"
+
+#: src/components/AccountBar/index.tsx:159
+#: src/components/Mobile/Header/index.tsx:226
+msgid "Invested"
+msgstr "投資額"
+
+#: src/components/Header/Account.tsx:245
+#: src/components/Mobile/Drawer/drawerMenu.tsx:250
+#: src/components/SideMenuBar/index.tsx:270
+msgid "Log out"
+msgstr "ログアウト"
+
+#: src/components/ChartContainer/OutOfTradingHours.tsx:117
+msgid "Out of trading hours"
+msgstr "現在取引時間外です"
+
+#: src/components/ChartContainer/OutOfTradingHours.tsx:131
+msgid "Will become available again on"
+msgstr "次回の取引可能日時"
+
+#: src/components/Assets/SearchSideMode/index.tsx:39
+#: src/components/ChartContainer/InstrumentsBar/index.tsx:191
+#: src/components/Mobile/SearchAssetsPanel/SearchSideMode/index.tsx:36
+msgid "All assets"
+msgstr "マーケットへ"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:289
+msgid "Chart timeframes"
+msgstr "チャートの時間"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:171
+#: src/components/ChartContainer/Chart/ChartControls.tsx:300
+msgid "Chart types"
+msgstr "チャートの種類"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:315
+msgid "Chart drawing tools list"
+msgstr "チャート描画ツール"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:364
+#: src/components/ChartContainer/Chart/ChartControls.tsx:488
+msgid "Candlestick"
+msgstr "ローソク足"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:378
+#: src/components/ChartContainer/Chart/ChartControls.tsx:503
+msgid "Line"
+msgstr "ライン"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:392
+#: src/components/ChartContainer/Chart/ChartControls.tsx:518
+msgid "Area"
+msgstr "エリア"
+
+#: src/components/ChartContainer/Chart/Sentiment/index.tsx:237
+msgid "Trader sentiment"
+msgstr "トレーダーセンチメント"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/index.tsx:44
+msgid "INDICATORS"
+msgstr "インジケーター"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/SelectionPanel/ItemMenu/index.tsx:73
+#: src/components/ChartContainer/Chart/ChartIndicators/SelectionPanel/ItemMenu/index.tsx:82
+msgid "All Indicators"
+msgstr "全てのインジケーター"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/SelectionPanel/ItemMenu/index.tsx:79
+msgid "Currently in use"
+msgstr "現在使用中"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/SelectionPanel/ItemMenu/index.tsx:105
+msgid "Search..."
+msgstr "検索..."
+
+#: src/components/ChartContainer/Chart/ChartIndicators/SelectionPanel/ItemExplorer/index.tsx:67
+msgid "Add Indicator"
+msgstr "インジケーターの追加"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/EditPanel/index.tsx:48
+#: src/components/ChartContainer/Chart/ChartIndicators/SelectionPanel/ItemExplorer/index.tsx:71
+msgid "Update"
+msgstr "更新"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:277
+msgid "Clear All"
+msgstr "全てクリア"
+
+#: src/components/AccountBar/index.tsx:109
+msgid "Connected"
+msgstr "接続済み"
+
+#: src/components/AccountBar/index.tsx:147
+msgid "REAL"
+msgstr "リアル"
+
+#: src/components/AccountBar/index.tsx:165
+msgid "Available cash"
+msgstr "利用可能な資金"
+
+#: src/components/AccountBar/BonusWalletPicker/BonusWalletInfo.tsx:69
+#: src/components/AccountBar/BonusWalletPicker/index.tsx:34
+#: src/components/AccountBar/index.tsx:173
+msgid "Available bonus"
+msgstr "利用可能なボーナス"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:53
+#: src/components/modals/PasswordResetModal/index.tsx:107
+#: src/components/modals/SignInModal/FieldGroup.tsx:53
+#: src/components/modals/SignInModal/index.tsx:116
+msgid "Email address"
+msgstr "メールアドレス"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:54
+#: src/components/modals/SignInModal/FieldGroup.tsx:54
+#: src/components/modals/SignInModal/index.tsx:127
+msgid "Password"
+msgstr "パスワード"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:58
+#: src/components/modals/PasswordResetModal/index.tsx:109
+#: src/components/modals/SignInModal/FieldGroup.tsx:58
+#: src/components/modals/SignInModal/index.tsx:118
+msgid "Enter your email address"
+msgstr "メールアドレスを入力してください"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:59
+#: src/components/modals/SignInModal/FieldGroup.tsx:59
+#: src/components/modals/SignInModal/index.tsx:129
+msgid "Enter your password"
+msgstr "パスワードを入力してください"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:63
+#: src/components/modals/PasswordResetModal/index.tsx:108
+#: src/components/modals/SignInModal/FieldGroup.tsx:63
+#: src/components/modals/SignInModal/index.tsx:117
+msgid "Please enter valid email address"
+msgstr "有効なメールアドレスを入力してください"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:64
+#: src/components/modals/SignInModal/FieldGroup.tsx:64
+#: src/components/modals/SignInModal/index.tsx:128
+msgid "Please enter your password"
+msgstr "パスワードを入力してください"
+
+#: src/components/Header/Account.tsx:68
+#: src/components/Mobile/Dashboard.tsx:42
+#: src/components/Mobile/Drawer/index.tsx:56
+#: src/components/Mobile/HomeMenuPanel/index.tsx:35
+#: src/components/Mobile/HomeMenuPanel/index.tsx:193
+#: src/components/Mobile/HomeMenuPanel/index.tsx:225
+#: src/components/Sidebar/index.tsx:313
+#: src/components/SidebarNew/index.tsx:339
+#: src/components/helper.tsx:6
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: src/components/Header/Account.tsx:70
+#: src/components/Mobile/Drawer/index.tsx:57
+msgid "Settings"
+msgstr "[設定]"
+
+#: src/components/Header/Account.tsx:72
+#: src/components/Header/index.tsx:121
+#: src/components/Mobile/Drawer/index.tsx:58
+#: src/components/Mobile/Header/index.tsx:155
+#: src/components/helper.tsx:52
+msgid "Deposit"
+msgstr "入金"
+
+#: src/components/Header/Account.tsx:74
+#: src/components/Mobile/Drawer/index.tsx:59
+#: src/components/helper.tsx:28
+msgid "Withdrawal"
+msgstr "出金"
+
+#: src/components/Header/Account.tsx:76
+#: src/components/Mobile/Drawer/index.tsx:60
+#: src/components/helper.tsx:30
+msgid "Transfer Funds"
+msgstr "資金移動"
+
+#: src/components/Header/Account.tsx:78
+#: src/components/Mobile/Drawer/index.tsx:61
+#: src/components/helper.tsx:24
+msgid "Add Account"
+msgstr "WowFX口座を追加"
+
+#: src/components/Header/Account.tsx:80
+#: src/components/Mobile/Drawer/index.tsx:62
+#: src/components/helper.tsx:46
+msgid "Privacy Center"
+msgstr "プライバシーセンター"
+
+#: src/components/Header/Account.tsx:82
+#: src/components/Mobile/Drawer/index.tsx:63
+#: src/components/helper.tsx:32
+msgid "Transactions"
+msgstr "トランザクション"
+
+#: src/components/modals/GuestDemoExpiredModal/index.tsx:36
+#: src/components/modals/SessionExpiredModal/index.tsx:28
+msgid "Logged Out"
+msgstr "ログアウトしました"
+
+#: src/components/modals/GuestDemoExpiredModal/index.tsx:43
+msgid "Your guest demo account expired, please create real account."
+msgstr "デモ口座の有効期間が終了しました。リアル口座を開設してください。"
+
+#: src/components/modals/GuestDemoExpiredModal/index.tsx:50
+msgid "Create real account"
+msgstr "リアル口座を開設する"
+
+#: src/components/Header/index.tsx:130
+#: src/components/Mobile/Drawer/index.tsx:82
+msgid "Guest demo"
+msgstr "ゲスト デモ口座"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:406
+#: src/components/ChartContainer/Chart/ChartControls.tsx:533
+msgid "OHLC"
+msgstr "四本値"
+
+#: src/components/Assets/Groups/constants/groups.ts:33
+#: src/components/Assets/Groups/index.tsx:63
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:33
+#: src/components/Assets/GroupsSideMode/index.tsx:64
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:50
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:59
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:33
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:64
+msgid "Crypto"
+msgstr "暗号通貨"
+
+#: src/components/Assets/Groups/constants/groups.ts:51
+#: src/components/Assets/Groups/index.tsx:69
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:51
+#: src/components/Assets/GroupsSideMode/index.tsx:70
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:51
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:60
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:51
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:70
+msgid "Commodities"
+msgstr "コモディティ"
+
+#: src/components/Assets/Groups/constants/groups.ts:57
+#: src/components/Assets/Groups/index.tsx:71
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:57
+#: src/components/Assets/GroupsSideMode/index.tsx:72
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:53
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:62
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:57
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:72
+msgid "Indices"
+msgstr "指数"
+
+#: src/components/Assets/Groups/constants/groups.ts:45
+#: src/components/Assets/Groups/index.tsx:67
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:45
+#: src/components/Assets/GroupsSideMode/index.tsx:68
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:54
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:63
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:45
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:68
+msgid "Stocks"
+msgstr "株式"
+
+#: src/components/Assets/Groups/constants/groups.ts:39
+#: src/components/Assets/Groups/index.tsx:65
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:39
+#: src/components/Assets/GroupsSideMode/index.tsx:66
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:52
+#: src/components/ChartContainer/Chart/Instruments/InstrumentGroups.tsx:61
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:39
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:66
+msgid "Currencies"
+msgstr "通貨ペア"
+
+#: src/components/modals/PasswordResetModal/index.tsx:100
+#: src/components/modals/PasswordResetModal/index.tsx:163
+#: src/components/modals/PasswordResetModal/index.tsx:180
+msgid "Restore password"
+msgstr "パスワードをリセットする"
+
+#: src/components/modals/PasswordResetModal/index.tsx:102
+msgid "Please enter your email address and we will send you instruction on how to reset your password."
+msgstr "メールアドレスを入力してください。パスワードのリセット方法をお送りします。"
+
+#: src/components/modals/PasswordResetModal/index.tsx:132
+msgid "Cancel"
+msgstr "[キャンセル]"
+
+#: src/components/modals/PasswordResetModal/index.tsx:144
+msgid "Submit"
+msgstr "送信"
+
+#: src/components/modals/PasswordResetModal/index.tsx:182
+#. *
+#. * Show success contents
+#.
+msgid "We have reset the password, please check the email"
+msgstr "パスワードをリセットしました。メールを確認してください"
+
+#: src/components/modals/PasswordResetModal/index.tsx:191
+#: src/components/modals/SessionExpiredModal/index.tsx:41
+msgid "Close"
+msgstr "閉じる"
+
+#: src/components/TradeBox/TextInfoBlock.tsx:70
+#: src/components/TradeBoxNew/TextInfoBlock.tsx:70
+msgid "Expiry at"
+msgstr "満期時間"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:316
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:312
+msgid "Time Duration"
+msgstr "[満期]"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:364
+#: src/components/TradeBox/index.tsx:395
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:367
+#: src/components/TradeBoxNew/index.tsx:369
+msgid "Amount"
+msgstr "投資額"
+
+#: src/components/notifications/TradeSubmit/TradeSubmittedSuccess.tsx:20
+msgid "The trade was successfully opened"
+msgstr "取引は正常に開かれました"
+
+#: src/components/notifications/TradeSubmit/TradeSubmittedError.tsx:36
+msgid "Minimum investment amount"
+msgstr "最小投資額"
+
+#: src/components/notifications/TradeSubmit/TradeSubmittedError.tsx:39
+msgid "Maximum investment amount"
+msgstr "最大投資額"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:197
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:197
+#: src/components/TradeBox/TextInfoBlock.tsx:61
+#: src/components/TradeBoxNew/TextInfoBlock.tsx:61
+msgid "Strike Price"
+msgstr "ストライクプライス"
+
+#: src/components/ChartContainer/Chart/ChartPositionInfo/index.tsx:267
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:521
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:362
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:527
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:362
+msgid "Sell back"
+msgstr "途中売却の実行"
+
+#: src/components/AccountBar/index.tsx:21
+msgid "Balance Bonus"
+msgstr "バランスボーナス"
+
+#: src/components/AccountBar/index.tsx:22
+msgid "Smart Bonus"
+msgstr "スマートボーナス"
+
+#: src/components/AccountBar/index.tsx:23
+msgid "Pending Bonus"
+msgstr "保留中のボーナス"
+
+#: src/components/AccountBar/index.tsx:24
+msgid "Profit Bonus"
+msgstr "利益ボーナス"
+
+#: src/components/AccountBar/index.tsx:25
+msgid "Sticky Bonus"
+msgstr "スティッキーボーナス"
+
+#: src/components/AccountBar/index.tsx:26
+msgid "No Deposit Bonus"
+msgstr "デポジットボーナスなし"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:674
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:681
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:201
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:680
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:687
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:201
+msgid "Closed Price"
+msgstr "クローズ価格"
+
+#: src/components/ChartContainer/Chart/CurrentPayout.tsx:45
+#: src/components/ChartContainer/MobileInstrumentsBar/CurrentPayout.tsx:33
+msgid "PAYOUT"
+msgstr "ペイアウト"
+
+#: src/components/modals/SellbackModal/index.tsx:74
+msgid "ID"
+msgstr "ID"
+
+#: src/components/modals/SellbackModal/index.tsx:78
+msgid "Type"
+msgstr "タイプ"
+
+#: src/components/modals/SellbackModal/index.tsx:84
+msgid "Asset"
+msgstr "資産"
+
+#: src/components/modals/SellbackModal/index.tsx:98
+msgid "Spot Price"
+msgstr "スポット価格"
+
+#: src/components/modals/SessionExpiredModal/index.tsx:35
+msgid "You are logged out, please log in to the platform."
+msgstr "ログアウトしました。再ログインをお願い致します。"
+
+#: src/components/TradeBox/MobileInfoPanel.tsx:69
+#: src/components/TradeBoxNew/MobileInfoPanel.tsx:69
+msgid "Strike price"
+msgstr "取引価格"
+
+#: src/components/TradeBox/MobileInfoPanel.tsx:71
+#: src/components/TradeBoxNew/MobileInfoPanel.tsx:71
+msgid "Potential profit"
+msgstr "利益"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:54
+#: src/components/Sidebar/services/TradeStatus.ts:14
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:54
+#: src/components/SidebarNew/services/TradeStatus.ts:14
+msgid "Sold back"
+msgstr "途中売却"
+
+#: src/components/ChartContainer/Chart/InstrumentInfo/index.tsx:76
+msgid "Precision"
+msgstr "小数桁数"
+
+#: src/components/ChartContainer/Chart/InstrumentInfo/index.tsx:77
+msgid "Opening hours"
+msgstr "取引時間"
+
+#: src/components/AccountBar/BonusWalletPicker/BonusWalletInfo.tsx:74
+msgid "Released bonus"
+msgstr "ボーナスが有効になりました"
+
+#: src/components/AccountBar/BonusWalletPicker/BonusWalletInfo.tsx:79
+msgid "Original bonus"
+msgstr "オリジナルボーナス"
+
+#: src/components/AccountBar/BonusWalletPicker/BonusWalletInfo.tsx:84
+msgid "Volume traded"
+msgstr "取引金額"
+
+#: src/components/AccountBar/BonusWalletPicker/BonusWalletInfo.tsx:89
+msgid "Volume required"
+msgstr "必要取引額"
+
+#: src/components/TradeBox/NextExpiryBox.tsx:162
+#: src/components/TradeBoxNew/NextExpiryBox.tsx:162
+msgid "It’s not possible to open a trade at this expiry time anymore, since the price is no longer in the range."
+msgstr "価格が範囲内にないため、この有効期限で取引を開始することはできなくなります。"
+
+#: src/components/TradeBox/NextExpiryBox.tsx:163
+#: src/components/TradeBoxNew/NextExpiryBox.tsx:163
+msgid "Pick another expiry time."
+msgstr "他の満期をお選びください."
+
+#: src/components/TradeBox/NextExpiryBox.tsx:167
+#: src/components/TradeBoxNew/NextExpiryBox.tsx:167
+msgid "Next expiry time"
+msgstr "次の満期を表示"
+
+#: src/components/TradeBox/PayoutInformationBox.tsx:30
+#: src/components/TradeBox/index.tsx:548
+#: src/components/TradeBox/index.tsx:580
+#: src/components/TradeBoxNew/PayoutInformationBox.tsx:30
+msgid "Payout information"
+msgstr "ペイアウト情報"
+
+#: src/components/Sidebar/PositionsPanel/index.tsx:121
+#: src/components/SidebarNew/PositionsPanel/index.tsx:111
+#, javascript-format
+msgid "Showing last ${ closedTrades }"
+msgstr "最新 ${ closedTrades } を表示中"
+
+#: src/components/Sidebar/PositionsPanel/index.tsx:128
+#: src/components/SidebarNew/PositionsPanel/index.tsx:116
+msgid "load more"
+msgstr "続きを見る"
+
+#: src/components/Sidebar/PositionsPanel/OpenPositions/ItemsGroup.tsx:214
+#: src/components/SidebarNew/PositionsPanel/OpenPositions/ItemsGroup.tsx:206
+msgid "Total P&L"
+msgstr "損益合計"
+
+#: src/components/Sidebar/PositionsPanel/OpenPositions/PositionsModeSwitcher.tsx:36
+#: src/components/SidebarNew/PositionsPanel/OpenPositions/PositionsModeSwitcher.tsx:36
+msgid "Group by expiry time"
+msgstr "満期ごとにまとめて表示"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:343
+msgid "Indicators only available on timeframes  of 1 min and above."
+msgstr "インジケーターは1分足以上のチャートで表示可能です。"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:204
+#: src/components/ChartContainer/Chart/ChartControls.tsx:348
+msgid "Switch"
+msgstr "変更"
+
+#: src/components/ChartContainer/Chart/ChartPositionInfo/index.tsx:194
+msgid "Return on sell"
+msgstr "売却利益"
+
+#: src/components/notifications/TradeSubmit/TradeSubmittedPositionClosed.tsx:52
+msgid "Go to the closed positions"
+msgstr "クローズドポジションを表示"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:98
+#: src/components/ChartContainer/Chart/period.ts:27
+#: src/components/ChartContainer/Chart/period.ts:29
+msgid "Tick"
+msgstr "ティック"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:102
+#: src/components/ChartContainer/Chart/period.ts:48
+msgid "1 Minute"
+msgstr "1分"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:106
+#: src/components/ChartContainer/Chart/period.ts:67
+msgid "2 Minutes"
+msgstr "2分"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:110
+#: src/components/ChartContainer/Chart/period.ts:86
+msgid "5 Minutes"
+msgstr "5分"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:114
+#: src/components/ChartContainer/Chart/period.ts:105
+msgid "15 Minutes"
+msgstr "15分"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:118
+#: src/components/ChartContainer/Chart/period.ts:124
+msgid "30 Minutes"
+msgstr "30分"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:122
+#: src/components/ChartContainer/Chart/period.ts:143
+msgid "1 Hour"
+msgstr "1時間"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:126
+#: src/components/ChartContainer/Chart/period.ts:162
+msgid "2 Hours"
+msgstr "2時間"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:130
+#: src/components/ChartContainer/Chart/period.ts:181
+msgid "4 Hours"
+msgstr "4時間"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:134
+#: src/components/ChartContainer/Chart/period.ts:200
+msgid "1 Day"
+msgstr "日足"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:138
+#: src/components/ChartContainer/Chart/period.ts:219
+msgid "1 Week"
+msgstr "週足"
+
+#: src/components/TradeBox/OneclickTradeBox.tsx:40
+#: src/components/TradeBoxNew/OneclickTradeBox.tsx:40
+msgid "One-click Trade"
+msgstr "1クリックトレード"
+
+#: src/components/TradeBox/TimeLeft.tsx:21
+#: src/components/TradeBoxNew/TimeLeft.tsx:21
+msgid "seconds"
+msgstr "秒"
+
+#: src/components/Assets/Table/index.tsx:162
+#: src/components/Assets/TableSideMode/index.tsx:99
+#: src/components/ChartContainer/Chart/Instruments/InstrumentSubGroup.tsx:88
+#: src/components/Mobile/SearchAssetsPanel/TableSideMode/index.tsx:103
+msgid "price"
+msgstr "価格"
+
+#: src/components/ChartContainer/Chart/Instruments/InstrumentSubGroup.tsx:89
+msgid "daily %"
+msgstr "デイリー%"
+
+#: src/components/Assets/Table/index.tsx:154
+#: src/components/Assets/TableSideMode/index.tsx:102
+#: src/components/ChartContainer/Chart/Instruments/InstrumentSubGroup.tsx:90
+#: src/components/Dashboard/RecentTrades/table.tsx:48
+#: src/components/Mobile/SearchAssetsPanel/TableSideMode/index.tsx:100
+msgid "payout"
+msgstr "ペイアウト"
+
+#: src/components/notifications/TradeSubmit/TradeSubmittedPositionClosed.tsx:30
+#, javascript-format
+msgid "${ props.notification.props.amount } positions were closed at ${ time }. Total profit "
+msgstr "${ time } ${ props.notification.props.amount }にポジションクローズされました。払い戻し"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:156
+#, javascript-format
+msgid "${ expiry }s"
+msgstr ""
+
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:160
+#, javascript-format
+msgid "${ expiry }m"
+msgstr ""
+
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:164
+#, javascript-format
+msgid "${ hours }h"
+msgstr ""
+
+#: src/components/TradeBox/CfdOptionsTradeBox/ExpirySelect.tsx:167
+#, javascript-format
+msgid "${ hours }d"
+msgstr ""
+
+#: src/components/Sidebar/NewsPanel/NewsFeedItem.tsx:47
+#: src/components/SidebarNew/NewsPanel/NewsFeedItem.tsx:47
+msgid "Read Less"
+msgstr ""
+
+#: src/components/Dashboard/TradeVolume/chart.tsx:53
+msgid "Volume Per Day"
+msgstr "一日の投資額"
+
+#: src/components/Dashboard/TradeVolume/index.tsx:64
+msgid "total traded volume"
+msgstr "合計投資額"
+
+#: src/components/Dashboard/TradeVolume/index.tsx:78
+msgid "number of trades"
+msgstr "取引回数/保有数"
+
+#: src/components/Dashboard/TradeVolume/index.tsx:92
+msgid "average volume"
+msgstr "平均投資額"
+
+#: src/components/Dashboard/TopTradedAssets/index.tsx:44
+msgid "Other"
+msgstr ""
+
+#: src/components/Dashboard/TopTradedAssets/index.tsx:57
+msgid "Top traded assets"
+msgstr "トップ取引銘柄"
+
+#: src/components/Dashboard/RecentUpdates/index.tsx:22
+msgid "Recent Updates"
+msgstr "最新情報"
+
+#: src/components/Dashboard/RecentTrades/index.tsx:31
+msgid "Recent Trades"
+msgstr "最新の取引"
+
+#: src/components/Dashboard/RecentTrades/download.tsx:83
+msgid "Download"
+msgstr "ダウンロード"
+
+#: src/components/Dashboard/RecentTrades/index.tsx:39
+msgid "Load More"
+msgstr "続きを見る"
+
+#: src/components/Dashboard/RecentTrades/table.tsx:33
+msgid "id"
+msgstr "id"
+
+#: src/components/Dashboard/RecentTrades/table.tsx:36
+msgid "trade time"
+msgstr "取引時間"
+
+#: src/components/Dashboard/RecentTrades/table.tsx:39
+msgid "expiry time"
+msgstr "満期時間"
+
+#: src/components/Dashboard/RecentTrades/table.tsx:42
+msgid "asset"
+msgstr "銘柄"
+
+#: src/components/Dashboard/RecentTrades/table.tsx:45
+msgid "investment"
+msgstr "投資額"
+
+#: src/components/Assets/Table/index.tsx:158
+#: src/components/Dashboard/RecentTrades/table.tsx:51
+msgid "status"
+msgstr "ステータス"
+
+#: src/components/Dashboard/RecentTrades/table.tsx:54
+msgid "return"
+msgstr "払い戻し"
+
+#: src/components/Dashboard/RatioTraders/index.tsx:47
+msgid "High/Low Ratio"
+msgstr "ハイロー比率"
+
+#: src/components/Dashboard/Cash/index.tsx:34
+msgid "balance"
+msgstr "残高"
+
+#: src/components/Dashboard/Cash/index.tsx:45
+msgid "invested"
+msgstr "投資額"
+
+#: src/components/Dashboard/Cash/index.tsx:56
+msgid "available cash"
+msgstr "利用可能な資金"
+
+#: src/components/Dashboard/Bonus/index.tsx:48
+msgid "total bonus received"
+msgstr "合計獲得ボーナス"
+
+#: src/components/Dashboard/Bonus/index.tsx:59
+msgid "traded bonus"
+msgstr "取引ボーナス"
+
+#: src/components/Dashboard/Bonus/index.tsx:70
+msgid "pending bonus"
+msgstr "保留ボーナス"
+
+#: src/components/Sidebar/DailyAnalysisPanel/index.tsx:31
+#: src/components/SidebarNew/DailyAnalysisPanel/index.tsx:31
+msgid "daily analysis"
+msgstr "日々の分析"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:100
+#: src/components/ChartContainer/Chart/period.ts:46
+msgid "1m"
+msgstr "1分"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:104
+#: src/components/ChartContainer/Chart/period.ts:65
+msgid "2m"
+msgstr "2分"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:108
+#: src/components/ChartContainer/Chart/period.ts:84
+msgid "5m"
+msgstr "5分"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:112
+#: src/components/ChartContainer/Chart/period.ts:103
+msgid "15m"
+msgstr "15分"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:116
+#: src/components/ChartContainer/Chart/period.ts:122
+msgid "30m"
+msgstr "30分"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:120
+#: src/components/ChartContainer/Chart/period.ts:141
+msgid "1h"
+msgstr "1時間"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:124
+#: src/components/ChartContainer/Chart/period.ts:160
+msgid "2h"
+msgstr "2時間"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:128
+#: src/components/ChartContainer/Chart/period.ts:179
+msgid "4h"
+msgstr "4時間"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:132
+#: src/components/ChartContainer/Chart/period.ts:198
+msgid "1d"
+msgstr "1日足"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:136
+#: src/components/ChartContainer/Chart/period.ts:217
+msgid "1w"
+msgstr "1週足"
+
+#: src/components/Assets/Groups/constants/groups.ts:8
+#: src/components/Assets/Groups/index.tsx:55
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:8
+#: src/components/Assets/GroupsSideMode/index.tsx:56
+#: src/components/ChartContainer/Chart/ChartIndicators/SelectionPanel/ItemMenu/index.tsx:76
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:8
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:56
+msgid "Favorites"
+msgstr "お気に入り"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:22
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:171
+msgid "Label"
+msgstr "ラベル"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:28
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:173
+msgid "Circle"
+msgstr "サークル"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:34
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:175
+msgid "Rectangle"
+msgstr "矩形"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:40
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:177
+msgid "Segment"
+msgstr "セグメント"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:46
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:179
+msgid "Arrow segment"
+msgstr "矢印セグメント"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:52
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:181
+msgid "Ray"
+msgstr "レイ"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:58
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:183
+msgid "Arrow ray"
+msgstr "アローレイ"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:64
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:185
+msgid "Horizontal line"
+msgstr "水平線"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:70
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:187
+msgid "Vertical line"
+msgstr "垂直線"
+
+#: src/components/ui/FavIcon.tsx:83
+msgid "Remove from Favorites"
+msgstr "お気に入りから削除"
+
+#: src/components/ui/FavIcon.tsx:83
+msgid "Add to Favorites"
+msgstr "お気に入りに追加"
+
+#: src/components/Sidebar/index.tsx:446
+#: src/components/SidebarNew/index.tsx:472
+msgid "new"
+msgstr "NEW"
+
+#: src/components/ui/TopIcon.tsx:81
+msgid "Remove from chart"
+msgstr "上部バーから削除"
+
+#: src/components/ui/TopIcon.tsx:81
+msgid "Add to chart"
+msgstr "上部バーに追加"
+
+#: src/components/Sidebar/index.tsx:315
+#: src/components/SidebarNew/index.tsx:341
+msgid "Open/Сlosed Positions"
+msgstr "オープン/クローズドポジション"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:55
+#: src/components/Mobile/HomeMenuPanel/index.tsx:203
+#: src/components/Mobile/HomeMenuPanel/index.tsx:224
+#: src/components/Sidebar/index.tsx:325
+#: src/components/SidebarNew/index.tsx:351
+msgid "Daily Analysis"
+msgstr "日々の分析"
+
+#: src/components/Sidebar/index.tsx:327
+#: src/components/SidebarNew/index.tsx:353
+msgid "Markets"
+msgstr "マーケット"
+
+#: src/components/Assets/Table/index.tsx:146
+msgid "instrument"
+msgstr "銘柄"
+
+#: src/components/Assets/Table/index.tsx:150
+msgid "description"
+msgstr "説明"
+
+#: src/components/Assets/Table/index.tsx:174
+msgid "open trades"
+msgstr "保有ポジション"
+
+#: src/components/Assets/Table/index.tsx:179
+msgid "add/remove"
+msgstr "追加/削除"
+
+#: src/components/Assets/Table/index.tsx:184
+msgid "actions"
+msgstr "アクション"
+
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:201
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:201
+#: src/components/TradeBox/DirectionPanels.tsx:281
+#: src/components/TradeBoxNew/DirectionPanels.tsx:287
+msgid "UP"
+msgstr "上"
+
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:202
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:202
+#: src/components/TradeBox/DirectionPanels.tsx:380
+#: src/components/TradeBoxNew/DirectionPanels.tsx:396
+msgid "DOWN"
+msgstr "下"
+
+#: src/components/TradeBox/ExpirySelect.tsx:134
+#: src/components/TradeBoxNew/ExpirySelect.tsx:131
+#, javascript-format
+msgid "${ expiry } seconds"
+msgstr "${ expiry }秒"
+
+#: src/components/TradeBox/ExpirySelect.tsx:138
+#: src/components/TradeBoxNew/ExpirySelect.tsx:135
+#, javascript-format
+msgid "${ expiry } min"
+msgstr "${ expiry }分"
+
+#: src/components/TradeBox/ExpirySelect.tsx:142
+#: src/components/TradeBoxNew/ExpirySelect.tsx:139
+#, javascript-format
+msgid "${ hours } hour"
+msgstr "${ hours }時間"
+
+#: src/components/TradeBox/ExpirySelect.tsx:142
+#: src/components/TradeBoxNew/ExpirySelect.tsx:139
+#, javascript-format
+msgid "${ hours } hours"
+msgstr "${ hours }時間"
+
+#: src/components/TradeBox/ExpirySelect.tsx:145
+#: src/components/TradeBoxNew/ExpirySelect.tsx:142
+#, javascript-format
+msgid "${ hours } day"
+msgstr "${ hours }日足"
+
+#: src/components/TradeBox/ExpirySelect.tsx:145
+#: src/components/TradeBoxNew/ExpirySelect.tsx:142
+#, javascript-format
+msgid "${ hours } days"
+msgstr "${ hours }日足"
+
+#: src/components/TradeBox/MobileInfoPanel.tsx:72
+#: src/components/TradeBoxNew/MobileInfoPanel.tsx:72
+msgid "Breakeven Price"
+msgstr ""
+
+#: src/components/TradeBox/index.tsx:524
+#: src/components/TradeBoxNew/index.tsx:486
+msgid "Tap high or low"
+msgstr "高または低をタップ"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:103
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:103
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:436
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:557
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:462
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:590
+msgid "Up"
+msgstr "上"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:104
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:104
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:485
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:526
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:518
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:559
+msgid "Down"
+msgstr "下"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:582
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:615
+msgid "Tap up or down"
+msgstr "上または下をタップ"
+
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:89
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:89
+msgid "Money back"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:337
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:337
+msgid "Current PnL"
+msgstr "現在の損益"
+
+#: src/components/ChartContainer/Chart/ChartPositionInfo/index.tsx:267
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:487
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:493
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:348
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:493
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:499
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:348
+msgid "Close Trade"
+msgstr "途中売却"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:545
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:386
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:551
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:386
+msgid "Hedge"
+msgstr "ヘッジ"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:565
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:402
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:571
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:402
+msgid "Double Up"
+msgstr "ダブルアップ"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:216
+msgid "Home"
+msgstr "ホームページ"
+
+#: src/components/ChartContainer/Chart/ChartPositionInfo/index.tsx:207
+msgid "Breakeven (1x)"
+msgstr "ブレイクイーブン"
+
+#: src/components/ChartContainer/Chart/ChartPositionInfo/index.tsx:221
+msgid "Money doubled (2x)"
+msgstr "払い戻し2倍"
+
+#: src/components/ChartContainer/Chart/ChartPositionInfo/index.tsx:237
+msgid "Open PnL"
+msgstr "現在の損益"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:40
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:78
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:126
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:145
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:164
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:183
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:202
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:221
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:254
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:278
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:297
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:316
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:343
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:362
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:381
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:400
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:429
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:448
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:467
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:486
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:548
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:589
+msgid "Index"
+msgstr "索引"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:45
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:59
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:83
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:131
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:150
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:169
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:188
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:207
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:226
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:240
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:259
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:283
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:302
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:321
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:348
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:367
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:386
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:405
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:434
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:453
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:472
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:491
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:553
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:594
+msgid "Period"
+msgstr "限目"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:64
+msgid "Decimals"
+msgstr "小数"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:88
+msgid "Standard Deviation"
+msgstr "標準偏差"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:102
+msgid "Short period"
+msgstr "短期"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:107
+msgid "Long period"
+msgstr "長い期間"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:112
+msgid "Signal period"
+msgstr "信号周期"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:264
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:558
+msgid "Periods"
+msgstr "期間"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:496
+msgid "Top band"
+msgstr "トップバンド"
+
+#: src/components/ChartContainer/Chart/ChartIndicators/menuItems.ts:501
+msgid "Bottom band"
+msgstr "ボトムバンド"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:76
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:189
+msgid "Elliot 3"
+msgstr "エリオット3"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:82
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:191
+msgid "Elliot 5"
+msgstr "エリオット5"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:88
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:193
+msgid "Crooked 3"
+msgstr "曲がった3"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:94
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:195
+msgid "Crooked 5"
+msgstr "曲がった5"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:100
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:197
+msgid "Measure XY"
+msgstr "XYを測定する"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:106
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:199
+msgid "Measure Y"
+msgstr "Yを測定"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:112
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:201
+msgid "Measure X"
+msgstr "Xを測定"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:123
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:203
+#. {
+#. title: 'Fibonacci',
+#. class: 'highcharts-fibonacci',
+#. icon: 'chart-fibonacci'
+#. },
+msgid "Pitchfork"
+msgstr "ピッチフォーク"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:129
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:205
+msgid "Parallel channel"
+msgstr "パラレルチャネル"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:135
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:207
+msgid "Vertical counter"
+msgstr "縦型カウンター"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:141
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:209
+msgid "Vertical label"
+msgstr "縦ラベル"
+
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:147
+#: src/components/ChartContainer/Chart/ChartDrawingTools/index.tsx:211
+msgid "Vertical arrow"
+msgstr "垂直矢印"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:199
+msgid "Indicators only available on timeframes of 1 min and above."
+msgstr "インジケーターは1分足以上のチャートで表示可能です。"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:272
+msgid "Zoom in"
+msgstr "ズームイン"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:317
+msgid "Toggle navigator"
+msgstr "ナビゲーターの切り替え"
+
+#: src/components/Assets/Table/index.tsx:112
+msgid "Opens in"
+msgstr "で開きます"
+
+#: src/components/Assets/Table/index.tsx:278
+msgid "Open"
+msgstr "チャートを開く"
+
+#: src/components/Assets/Search/index.tsx:31
+#: src/components/Assets/SearchSideMode/index.tsx:68
+#: src/components/Mobile/SearchAssetsPanel/SearchSideMode/index.tsx:57
+msgid "Type asset name to search"
+msgstr "銘柄名を入力して検索"
+
+#: src/components/Assets/Groups/constants/groups.ts:15
+#: src/components/Assets/Groups/index.tsx:57
+msgid "Hot assets"
+msgstr "注目銘柄"
+
+#: src/components/Assets/Groups/constants/groups.ts:21
+#: src/components/Assets/Groups/index.tsx:59
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:21
+#: src/components/Assets/GroupsSideMode/index.tsx:60
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:21
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:60
+msgid "Recently traded"
+msgstr "最近の取引"
+
+#: src/components/Assets/Groups/constants/groups.ts:27
+#: src/components/Assets/Groups/index.tsx:61
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:27
+#: src/components/Assets/GroupsSideMode/index.tsx:62
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:27
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:62
+msgid "Top riser/fallen"
+msgstr "トップ上昇/下降銘柄"
+
+#: src/components/ChartContainer/MobileInstrumentsBar/ProductTypePanel/TypeList/TypeItem/index.tsx:37
+#: src/components/TradeBox/ProductTypePanel/index.tsx:78
+#: src/components/TradeBox/ProductTypePanel/index.tsx:159
+#: src/components/TradeBoxNew/ProductTypePanel/index.tsx:79
+#: src/components/TradeBoxNew/ProductTypePanel/index.tsx:165
+msgid "High/Low"
+msgstr "ハイ/ロー"
+
+#: src/components/ChartContainer/MobileInstrumentsBar/ProductTypePanel/TypeList/TypeItem/index.tsx:38
+#: src/components/TradeBox/ProductTypePanel/index.tsx:72
+#: src/components/TradeBox/ProductTypePanel/index.tsx:147
+#: src/components/TradeBoxNew/ProductTypePanel/index.tsx:73
+#: src/components/TradeBoxNew/ProductTypePanel/index.tsx:153
+msgid "Options"
+msgstr "オプション"
+
+#: src/components/TradeBox/ExpiriesSlider/ExpiryItem.tsx:31
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:297
+#: src/components/TradeBoxNew/ExpiriesSlider/ExpiryItem.tsx:31
+#, javascript-format
+msgid "${ game.cdfExpiry }H"
+msgstr "${ game.cdfExpiry }時間"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:59
+#: src/components/Mobile/HomeMenuPanel/index.tsx:205
+#: src/components/Mobile/HomeMenuPanel/index.tsx:228
+#: src/components/Sidebar/index.tsx:331
+#: src/components/SidebarNew/index.tsx:357
+msgid "Leaderboard"
+msgstr "リーダーボード"
+
+#: src/components/Sidebar/VideoNews/index.tsx:76
+#: src/components/SidebarNew/VideoNews/index.tsx:76
+msgid "Market session Brief"
+msgstr "マーケット・セッション概要"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:46
+#: src/components/SidebarNew/LeaderBoard/index.tsx:46
+msgid "TODAY"
+msgstr "今日"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:46
+#: src/components/SidebarNew/LeaderBoard/index.tsx:46
+msgid "THIS WEEK"
+msgstr "今週"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:46
+#: src/components/SidebarNew/LeaderBoard/index.tsx:46
+msgid "THIS MONTH"
+msgstr "今月"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:97
+#: src/components/SidebarNew/LeaderBoard/index.tsx:97
+msgid "Trader’s Performance"
+msgstr "トレーダーのパフォーマンス"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:102
+#: src/components/SidebarNew/LeaderBoard/index.tsx:102
+msgid "Rank"
+msgstr "ランク"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:103
+#: src/components/SidebarNew/LeaderBoard/index.tsx:103
+msgid "Name"
+msgstr "名前"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:104
+#: src/components/SidebarNew/LeaderBoard/index.tsx:104
+msgid "Profit"
+msgstr "利益"
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:122
+#: src/components/SidebarNew/LeaderBoard/index.tsx:122
+msgid "Load more"
+msgstr "続きを見る"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:242
+msgid "Zoom out"
+msgstr "ズームアウトする"
+
+#: src/components/Assets/Table/index.tsx:168
+msgid "24h change"
+msgstr "24時間変更"
+
+#: src/components/ChartContainer/Chart/CfdSentimentSwitcher.tsx:119
+msgid "Multiplier"
+msgstr "乗数"
+
+#: src/components/ChartContainer/Chart/CfdSentimentSwitcher.tsx:117
+msgid "Price"
+msgstr "価格"
+
+#: src/components/ChartContainer/Chart/plotLines.ts:104
+msgid "If the asset price above this level at expiry time, you're making profits"
+msgstr "満期時に価格がこのラインを上回れば、利益確定となります。"
+
+#: src/components/ChartContainer/Chart/plotLines.ts:106
+msgid "If the asset price below this level at expiry time, you're making profits"
+msgstr "満期時に価格がこのラインを下回れば、利益確定となります。"
+
+#: src/components/ChartContainer/Chart/index.tsx:545
+msgid "CLOSE"
+msgstr "閉じる"
+
+#: src/components/ChartContainer/Chart/index.tsx:545
+msgid "EXPIRED"
+msgstr "期限切れ"
+
+#: src/components/ChartContainer/Chart/index.tsx:545
+msgid "SELL"
+msgstr "売る"
+
+#: src/components/ChartContainer/Chart/index.tsx:1266
+#: src/components/ChartContainer/Chart/plotLines.ts:115
+msgid "Breakeven"
+msgstr "ブレイクイーブン"
+
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:440
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:490
+#: src/components/TradeBox/CfdOptionsTradeBox/index.tsx:565
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:466
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:523
+#: src/components/TradeBoxNew/CfdOptionsTradeBox/index.tsx:598
+msgid "It is not allowed to make trades in the opposite direction while you have active open trades"
+msgstr ""
+
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:37
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:67
+msgid "Basic Chart"
+msgstr "基本チャート "
+
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:54
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:80
+msgid "Switch to Basic Chart"
+msgstr "基本チャートに切り替える"
+
+#: src/components/ChartContainer/Chart/ChartBottomPanel/index.tsx:421
+#: src/components/ChartContainer/Chart/ChartControls.tsx:549
+msgid "Heikin Ashi"
+msgstr ""
+
+#: src/components/Sidebar/index.tsx:333
+#: src/components/SidebarNew/index.tsx:359
+msgid "Pool Trades"
+msgstr "トレーディングプール"
+
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:224
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:224
+msgid "Trades"
+msgstr "取引"
+
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:232
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:232
+msgid "High Pool"
+msgstr "ハイプール ハイ"
+
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:243
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:314
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:243
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:314
+msgid "User"
+msgstr "ユーザー"
+
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:244
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:315
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:244
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:315
+msgid "Time"
+msgstr "時間"
+
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:245
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:316
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:245
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:316
+msgid "Open Price"
+msgstr "オープン価格"
+
+#: src/components/Sidebar/RecentTradesPanel/index.tsx:303
+#: src/components/SidebarNew/RecentTradesPanel/index.tsx:303
+msgid "Low Pool"
+msgstr "ロープール"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:232
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:239
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:609
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:616
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:238
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:245
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:615
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:622
+msgid "Symbol"
+msgstr "銘柄"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:245
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:252
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:622
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:629
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:251
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:258
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:628
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:635
+msgid "Direction"
+msgstr "方向"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:297
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:304
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:303
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:310
+msgid "Crnt Price"
+msgstr "現在価格"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:323
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:330
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:329
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:336
+msgid "PnL"
+msgstr "損益"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:336
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:343
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:713
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:720
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:342
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:349
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:719
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:726
+msgid "Trade Time"
+msgstr "取引時間"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:349
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:356
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:603
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:726
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:733
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:355
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:362
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:609
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:732
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:739
+msgid "Expiry Time"
+msgstr "満期時間"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:362
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:369
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:368
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:375
+msgid "Actions"
+msgstr "アクション"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:861
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:882
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:867
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:888
+msgid "Open Positions"
+msgstr "オープンポジション"
+
+#: src/components/Sidebar/BottomPositionsPanel/index.tsx:888
+#: src/components/SidebarNew/BottomPositionsPanel/index.tsx:894
+msgid "Closed Positions"
+msgstr "クローズドポジション"
+
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:39
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:69
+msgid "Trading View"
+msgstr "取引観"
+
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:41
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:71
+msgid "Advanced Chart"
+msgstr "先進 チャート "
+
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:56
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:82
+msgid "Switch to Trading View"
+msgstr "取引ビューに切り替える"
+
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:58
+#: src/components/ChartContainer/ChartLibraryConfig.tsx:84
+msgid "Switch to Advanced Chart"
+msgstr "高度なチャートに切り替える"
+
+#: src/components/ChartContainer/Chart/index.tsx:2425
+#: src/components/TradeBox/index.tsx:441
+#: src/components/TradeBoxNew/index.tsx:395
+msgid "Expiration"
+msgstr "満期"
+
+#: src/components/ChartContainer/Chart/ChartControls.tsx:429
+#: src/components/ChartContainer/Chart/index.tsx:3690
+msgid "purchase time"
+msgstr "購入締切"
+
+#: src/components/Assets/TableSideMode/index.tsx:96
+#: src/components/Mobile/SearchAssetsPanel/TableSideMode/index.tsx:98
+msgid "instrmnt"
+msgstr "銘柄"
+
+#: src/components/Assets/TableSideMode/index.tsx:105
+#: src/components/Mobile/SearchAssetsPanel/TableSideMode/index.tsx:106
+msgid "chg %"
+msgstr "変更%"
+
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:15
+#: src/components/Assets/GroupsSideMode/index.tsx:58
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/constants/groups.ts:15
+#: src/components/Mobile/SearchAssetsPanel/GroupsSideMode/index.tsx:58
+msgid "Most traded"
+msgstr "最も取引されている"
+
+#: src/components/ChartContainer/MobileInstrumentsBar/ProductTypePanel/TypeList/TypeItem/index.tsx:39
+#: src/components/TradeBox/ProductTypePanel/index.tsx:84
+#: src/components/TradeBox/ProductTypePanel/index.tsx:171
+#: src/components/TradeBoxNew/ProductTypePanel/index.tsx:85
+#: src/components/TradeBoxNew/ProductTypePanel/index.tsx:177
+msgid "Above/Below"
+msgstr ""
+
+#: src/components/TradeBox/ProductTypePanel/index.tsx:121
+msgid "Product"
+msgstr "製品"
+
+#: src/components/TradeBox/DirectionPanels.tsx:279
+#: src/components/TradeBoxNew/DirectionPanels.tsx:285
+msgid "Above"
+msgstr ""
+
+#: src/components/TradeBox/DirectionPanels.tsx:378
+#: src/components/TradeBoxNew/DirectionPanels.tsx:394
+msgid "Below"
+msgstr ""
+
+#: src/components/TradeBox/index.tsx:524
+#: src/components/TradeBoxNew/index.tsx:486
+msgid "tap above or below"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:280
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:259
+msgid "sec"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:280
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:259
+msgid "s"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:284
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:263
+msgid "min"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:284
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:263
+msgid "m"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:289
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:268
+msgid "hour"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:289
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:268
+msgid "hours"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:289
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:268
+msgid "h"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:294
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:273
+msgid "day"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:294
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:273
+msgid "days"
+msgstr ""
+
+#: src/components/TradeBox/ExpiriesSelect/ExpiryItem.tsx:294
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:273
+msgid "d"
+msgstr ""
+
+#: src/components/helper.tsx:8
+msgid "My Profile"
+msgstr "マイプロフィール"
+
+#: src/components/helper.tsx:10
+msgid "Accounts"
+msgstr "アカウント"
+
+#: src/components/helper.tsx:12
+msgid "Trading"
+msgstr "取引情報"
+
+#: src/components/helper.tsx:18
+msgid "Terms & Privacy"
+msgstr "利用規約"
+
+#: src/components/helper.tsx:20
+msgid "Trading Accounts"
+msgstr "取引アカウント"
+
+#: src/components/helper.tsx:22
+msgid "Add Accounts"
+msgstr "アカウント追加"
+
+#: src/components/helper.tsx:26
+msgid "Add Funds"
+msgstr "資金を追加する"
+
+#: src/components/helper.tsx:34
+msgid "Transaction"
+msgstr "トランザクション"
+
+#: src/components/helper.tsx:36
+msgid "Delete Account"
+msgstr "アカウント削除"
+
+#: src/components/helper.tsx:38
+msgid "Edit Profile"
+msgstr "プロフィール修正"
+
+#: src/components/helper.tsx:40
+msgid "Account Verification"
+msgstr "本人確認書類提出"
+
+#: src/components/helper.tsx:42
+msgid "Change Password"
+msgstr "パスワード変更"
+
+#: src/components/helper.tsx:44
+msgid "Mobile Verification"
+msgstr "モバイル検証"
+
+#: src/components/helper.tsx:48
+msgid "Trading History"
+msgstr "取引履歴"
+
+#: src/components/helper.tsx:14
+msgid "Expiry Prices"
+msgstr "満期レート"
+
+#: src/components/helper.tsx:16
+msgid "Asset Index"
+msgstr "銘柄一覧"
+
+#: src/sagas/accountSaga.ts:62
+msgid "Login failed, please verify that you are using the correct email and password"
+msgstr "ログインに失敗しました。Eメール又はパスワードをご確認ください。"
+
+#: src/sagas/tradingSaga.ts:401
+msgid "Cancelled Successfully"
+msgstr ""
+
+#: src/components/TradeBoxNew/DirectionPanels.tsx:288
+msgid "Higher"
+msgstr ""
+
+#: src/components/TradeBoxNew/DirectionPanels.tsx:397
+msgid "Lower"
+msgstr ""
+
+#: src/components/Mobile/Drawer/index.tsx:169
+msgid "User ID"
+msgstr ""
+
+#: src/components/Header/Account.tsx:149
+#: src/components/Header/Account.tsx:269
+#: src/components/helper.tsx:50
+msgid "Open Account"
+msgstr "オープンアカウント"
+
+#: src/components/TradeBoxNew/ExpiriesSelect/ExpiryItem.tsx:365
+#, javascript-format
+msgid "${ expiry.cdfExpiry }H"
+msgstr ""
+
+#: src/components/modals/SwitchToRealModal/index.tsx:36
+msgid "Switch to real account"
+msgstr "リアルアカウントに切り替える"
+
+#: src/components/modals/SwitchToRealModal/index.tsx:38
+msgid "Switch to real account, so you can start making real profit on the market"
+msgstr "リアルアカウントに切り替えて、市場で実際の利益を上げ始めましょう"
+
+#: src/components/modals/MakeDepositModal/index.tsx:45
+msgid "This is your real account"
+msgstr "これはあなたの本当のアカウントです"
+
+#: src/components/modals/MakeDepositModal/index.tsx:47
+msgid "Add funds to your real account, so you can start making real profit on the market"
+msgstr "実際の口座に資金を追加すると、市場で実際の利益を上げ始めることができます"
+
+#: src/components/modals/MakeDepositModal/index.tsx:65
+msgid "Make a deposit"
+msgstr "入金する"
+
+#: src/components/modals/EmailConfirmation/index.tsx:33
+msgid "Email Confirmation"
+msgstr "メール確認"
+
+#: src/components/modals/EmailConfirmation/index.tsx:35
+msgid "Please complete your email address confirmation in order to secure your account and fund on it"
+msgstr "預金者からの預金口座に電子メールを送信して確認する"
+
+#: src/components/modals/EmailConfirmation/index.tsx:38
+msgid "Confirm Your Email"
+msgstr "メールを確認してください"
+
+#: src/components/modals/EmailConfirmation/index.tsx:38
+msgid "You are at a practice account make a deposit to operate in real account"
+msgstr "あなたは練習用口座にいます。実際の口座で運用するには入金してください。"
+
+#: src/components/modals/EmailConfirmation/index.tsx:38
+msgid "This is your Practice account"
+msgstr "これはあなたの練習用アカウントです"
+
+#: src/components/modals/EmailConfirmation/index.tsx:38
+msgid "Chart"
+msgstr "チャート"
+
+#: src/components/modals/EmailConfirmation/index.tsx:38
+msgid "Chart Period"
+msgstr "チャート期間"
+
+#: src/components/modals/EmailConfirmation/index.tsx:38
+msgid "Chart Type"
+msgstr "チャートタイプ"
+
+#: src/components/modals/EmailConfirmation/index.tsx:38
+msgid "Indicators"
+msgstr "指標"

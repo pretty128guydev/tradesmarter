@@ -1,0 +1,37 @@
+# Widgets
+List of widgets to reuse in this project.
+
+* register
+    * https://bpw.tradesmarter.com/en?#!/register
+* login
+    * https://bpw.tradesmarter.com/en?#!/login
+* dashboard
+    * https://bpw.tradesmarter.com/en?#!/dashboard
+* deposit 
+    * https://bpw.tradesmarter.com/en?#!/banking/deposit
+* withdrawal
+    * http://bpw.tradesmarter.com/en?#!/banking/withdrawal
+* transfer-funds
+    * https://bpw.tradesmarter.com/en?#!/banking/transfer-funds
+* add-account
+    * https://bpw.tradesmarter.com/en?#!/banking/add-account
+* account
+    * https://bpw.tradesmarter.com/en?#!/account/
+* settings
+    * https://bpw.tradesmarter.com/en?#!/settings
+* upload-files
+    * https://bpw.tradesmarter.com/en?#!/upload-files
+* questionnaire
+    * https://bpw.tradesmarter.com/en?#!/questionnaire
+* change-password
+    * https://bpw.tradesmarter.com/en?widgets=1#!/change-password
+* mobile-verification
+    * https://bpw.tradesmarter.com/en?widgets=1#!/mobile-verification
+* privacy-center
+    * https://bpw.tradesmarter.com/en?widgets=1#!/privacy-center
+* transactions
+    * https://bpw.tradesmarter.com/en?widgets=1#!/reports/transactions
+* asset-index
+    * https://bpw.tradesmarter.com/en?widgets=1#!/reports/asset-index
+* expiry-prices 
+    * https://bpw.tradesmarter.com/en?widgets=1#!/reports/expiry-prices

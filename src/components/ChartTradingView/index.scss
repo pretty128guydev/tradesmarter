@@ -1,0 +1,54 @@
+.trading-chart-controls {
+  position: relative;
+}
+
+.div.intervalTitle-1WIwNaDF {
+  display: none;
+}
+
+.trading-chart-header-mobile {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  .resolution-button {
+    margin: 0px 6px;
+  }
+  .asset_icon_big {
+    display: block;
+  }
+  .chart-controls-panel {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 8px;
+    position: relative;
+    padding-right: 8px;
+
+    .panel-select {
+      margin-left: unset;
+    }
+    .switcher-container {
+      min-height: 32px;
+    }
+  }
+  .ChartTradingView {
+    height: 100%;
+    width: 100%;
+    padding-top: 30px;
+    > div {
+      height: 100%;
+    }
+  }
+}
+.countdown-time-position {
+  position: absolute;
+  z-index: 20;
+}
+@media screen and (max-width: 977px) {
+  .trading-chart-header-mobile {
+    .ChartTradingView {
+      padding-top: 5px;
+    }
+  }
+}

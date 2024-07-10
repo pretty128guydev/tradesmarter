@@ -637,12 +637,12 @@ const TradeBox = (props: ITradeBoxProps) => {
           )
         : null}
 
-      <OneClickTradeBox
+      {/* <OneClickTradeBox
         isMobile={isMobile}
         active={oneClickTrade}
         colors={colors}
         onChange={onChangeOneClickTrade}
-      />
+      /> */}
 
       {isMobile && (
         <MobileInfoPanel

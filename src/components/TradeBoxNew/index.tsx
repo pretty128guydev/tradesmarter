@@ -190,9 +190,9 @@ const TradeBoxNew = (props: ITradeBoxNewProps) => {
       registry.investmentLimits
     )
     if (amountChanged) {
-      if (amount < minStake) {
+      if (Number(amount) < minStake) {
         setAmount(minStake)
-      } else if (amount > maxStake) {
+      } else if (Number(amount) > maxStake) {
         setAmount(maxStake)
       }
     } else {
@@ -493,12 +493,12 @@ const TradeBoxNew = (props: ITradeBoxNewProps) => {
           </TradeButtonPlaceHolder>
         )
       ) : null}
-      <OneClickTradeBox
+      {/* <OneClickTradeBox
         isMobile={isMobile}
         active={oneClickTrade}
         colors={colors}
         onChange={onChangeOneClickTrade}
-      />
+      /> */}
     </Wrapper>
   )
 }

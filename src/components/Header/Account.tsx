@@ -287,7 +287,7 @@ const Account = (props: IAccountProps) => {
                 isMobile={props.isMobile}
               >
                 <div className="right-menu-user-info">
-                  <div>{AccountLevel(userInfo.accountLevel)}</div>
+                  {/* <div>{AccountLevel(userInfo.accountLevel)}</div> */}
                   <div>{`${userInfo?.firstName}`}</div>
                   <div>{`${userInfo?.email}`}</div>
                   <div>{`${t`User ID`}: ${userInfo?.userID}`}</div>

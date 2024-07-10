@@ -288,7 +288,7 @@ const Account = (props: IAccountProps) => {
               >
                 <div className="right-menu-user-info">
                   {/* <div>{AccountLevel(userInfo.accountLevel)}</div> */}
-                  <div>{`${userInfo?.firstName}`}</div>
+                  <div>{`${userInfo?.firstName}` + `${userInfo?.lastName}`}</div>
                   <div>{`${userInfo?.email}`}</div>
                   <div>{`${t`User ID`}: ${userInfo?.userID}`}</div>
                 </div>
@@ -297,7 +297,7 @@ const Account = (props: IAccountProps) => {
                   <ListItem key={menuItem.url} colors={colors}>
                     <span>{getIcon(menuItem.label)}</span>
                     <span onClick={() => clickAction(menuItem)}>
-                      {translatedMenuItem[menuItem.label] || menuItem.label}
+                      {translatedMenuItem[menuItem.label] || menuItem.label}    
                     </span>
                   </ListItem>
                 ))}

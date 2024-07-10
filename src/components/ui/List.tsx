@@ -35,7 +35,7 @@ const ListContainer = styled.div<any>`
   padding-bottom: 16px;
 
   width: ${(props: IListContainerProps) =>
-    props.periodpanel !== 'tradebox' ? '210px' : '50px'};
+    props.periodpanel !== 'tradebox' ? '220px' : '50px'};
   height: ${(props: IListContainerProps) =>
     props.periodpanel !== 'tradebox' ? '350px' : '150px'};
   border-radius: 6px;

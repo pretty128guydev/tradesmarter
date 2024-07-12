@@ -234,9 +234,9 @@ const Drawer = (props: IDrawerProps) => {
                       ?.join('') as string
                   }
                 />
-                {/* <div className="account_level">
+                <div className="account_level">
                   {AccountLevel(userInfo.accountLevel)}
-                </div> */}
+                </div>
               </div>
               <div className="user-info-container">
                 <span>{`${userInfo?.firstName}`}</span>

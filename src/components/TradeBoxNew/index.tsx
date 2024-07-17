@@ -493,12 +493,12 @@ const TradeBoxNew = (props: ITradeBoxNewProps) => {
           </TradeButtonPlaceHolder>
         )
       ) : null}
-      {/* <OneClickTradeBox
+      <OneClickTradeBox
         isMobile={isMobile}
         active={oneClickTrade}
         colors={colors}
         onChange={onChangeOneClickTrade}
-      /> */}
+      />
     </Wrapper>
   )
 }

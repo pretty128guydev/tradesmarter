@@ -2035,19 +2035,19 @@ msgstr "ログインに失敗しました。Eメール又はパスワードを�
 
 #: src/sagas/tradingSaga.ts:401
 msgid "Cancelled Successfully"
-msgstr ""
+msgstr "キャンセルされました"
 
 #: src/components/TradeBoxNew/DirectionPanels.tsx:288
 msgid "Higher"
-msgstr ""
+msgstr "より高い"
 
 #: src/components/TradeBoxNew/DirectionPanels.tsx:397
 msgid "Lower"
-msgstr ""
+msgstr "より低い"
 
 #: src/components/Mobile/Drawer/index.tsx:169
 msgid "User ID"
-msgstr ""
+msgstr "ユーザーID"
 
 #: src/components/Header/Account.tsx:149
 #: src/components/Header/Account.tsx:269

@@ -2062,19 +2062,19 @@ msgstr ""
 
 #: src/components/modals/SwitchToRealModal/index.tsx:36
 msgid "Switch to real account"
-msgstr ""
+msgstr "Переключиться на реальный счет"
 
 #: src/components/modals/SwitchToRealModal/index.tsx:38
 msgid "Switch to real account, so you can start making real profit on the market"
-msgstr ""
+msgstr "Перейдите на реальный счет, чтобы начать получать реальную прибыль на рынке."
 
 #: src/components/modals/MakeDepositModal/index.tsx:45
 msgid "This is your real account"
-msgstr ""
+msgstr "Это ваш настоящий аккаунт"
 
 #: src/components/modals/MakeDepositModal/index.tsx:47
 msgid "Add funds to your real account, so you can start making real profit on the market"
-msgstr ""
+msgstr "Добавьте средства на свой реальный счет, чтобы начать получать реальную прибыль на рынке."
 
 #: src/components/modals/MakeDepositModal/index.tsx:65
 msgid "Make a deposit"
@@ -2082,15 +2082,15 @@ msgstr "Сделать депозит"
 
 #: src/components/modals/EmailConfirmation/index.tsx:33
 msgid "Email Confirmation"
-msgstr ""
+msgstr "Подтверждение электонной почты"
 
 #: src/components/modals/EmailConfirmation/index.tsx:35
 msgid "Please complete your email address confirmation in order to secure your account and fund on it"
-msgstr ""
+msgstr "Пожалуйста, заполните форму подтверждения адреса электронной почты, чтобы защитить свой счет и пополнить его."
 
 #: src/components/modals/EmailConfirmation/index.tsx:38
 msgid "Confirm Your Email"
-msgstr ""
+msgstr "Подтвердите ваш адрес электронной почты"
 
 #: src/components/modals/EmailConfirmation/index.tsx:38
 msgid "You are at a practice account make a deposit to operate in real account"

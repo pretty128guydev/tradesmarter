@@ -108,7 +108,7 @@ const Panel = styled.div<{
 `
 const Label = styled.span<{ colors: any; top: number }>`
   display: block;
-  margin-top: ${(props) => props.top}px;
+  margin-top: ${(props) => props.top + 3}px;
   height: 14px;
   font-size: 12px;
   font-weight: 500;

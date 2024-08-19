@@ -34,7 +34,7 @@ import Mytradebox from './components/TradeBox/mytradebox'
 const DesktopGrid = styled.section<any>`
   display: flex;
   flex: 1 1 auto;
-  border-top: 1px solid ${(props) => props.colors.panelBorder};
+  border-top: 1px solid ${(props) => props.colors.DashboardPanel};
   position: relative;
 `
 

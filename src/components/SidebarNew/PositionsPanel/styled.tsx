@@ -104,7 +104,12 @@ const TradeInfo = styled.div<{}>`
   align-items: center;
 `
 
-const TradeDetails = styled.div<{ colors: any }>`
+const TradeDetails = styled.div<{
+  colors: any
+  out_money?: boolean
+  out_money2?: boolean
+  noOpen?: any
+}>`
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -125,6 +130,30 @@ const TradeDetails = styled.div<{ colors: any }>`
     font-size: 10px;
     letter-spacing: 0.01px;
   }
+  ${(props) =>
+    props.noOpen === 'tradebox' &&
+    props.out_money === true &&
+    `@keyframes blink {
+        0% { opacity: 1; }
+        50% { opacity: 0; }
+        100% { opacity: 1; }
+    }
+
+    .trade__money {
+        animation: blink 1s infinite alternate;
+    }`}
+  ${(props) =>
+    props.noOpen === 'tradebox' &&
+    props.out_money2 === true &&
+    `@keyframes blink {
+        0% { opacity: 1; }
+        50% { opacity: 0; }
+        100% { opacity: 1; }
+    }
+
+    .trade__money {
+        animation: blink 1s infinite alternate;
+    }`}
 `
 
 const TradeInfoExpander = styled.div<{ colors: any; opened: boolean }>`

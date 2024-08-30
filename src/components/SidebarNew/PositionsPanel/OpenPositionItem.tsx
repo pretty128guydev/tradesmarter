@@ -248,7 +248,12 @@ const OpenPositionItem = ({
           placeholderSrc={AssetPlaceholder}
         />
         <TradeInfo>
-          <TradeDetails colors={colors}>
+          <TradeDetails
+            colors={colors}
+            out_money={currentCfdOptionsPnL < 0}
+            out_money2={moneyStateColor > 0}
+            noOpen={'tradebox'}
+          >
             <span className="trade__asset_name">{instrumentName}</span>
             <span className="trade__direction">
               <b

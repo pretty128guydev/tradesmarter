@@ -1,3 +1,4 @@
+import { Pointer } from 'highcharts'
 import styled from 'styled-components'
 
 const Modal = styled.div<any>`
@@ -39,6 +40,7 @@ const closeIconStyles = {
   position: 'absolute' as any,
   top: 24,
   right: 29,
+  cursor: 'pointer'
 }
 const SubmitButton = styled.a<any>`
   display: block;

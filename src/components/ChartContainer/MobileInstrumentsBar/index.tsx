@@ -49,14 +49,14 @@ const MobileInstrumentsBox = styled.div<{
   justify-content: start;
   margin: 0px 3px 0 3px;
   .chart-options-mobile {
-    background-color: ${(props) => props.colors.tradebox.widgetBackground};
+    background-color: #514a4a38;
     padding: 8px;
     border-radius: 6px;
     margin-right: 5px;
   }
   .chart_selects {
     border-radius: 6px;
-    background-color: ${(props) => props.colors.tradebox.widgetBackground};
+    background-color: #514a4a38;
     align-items: center;
     display: flex;
     .chart_options {

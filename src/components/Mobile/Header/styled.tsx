@@ -16,7 +16,7 @@ const TopPanel = styled.header<{
   flex: 0 0 60px;
   box-sizing: border-box;
   border-radius: 0px 0px 8px 8px;
-  background-color: ${(props) => props.colors.tradebox.widgetBackground};
+  background-color: #514a4a38;
   padding: ${(props) => !props.loggedIn && '5px 0px'};
   margin-bottom: ${(props) => !props.loggedIn && '4px'};
   //   @media (orientation: landscape) {
@@ -124,7 +124,7 @@ const BalancePanel = styled.section<{
   border-top: 1px solid ${(props) => props.colors.panelBorder};
   border-bottom: 1px solid ${(props) => props.colors.panelBorder};
   padding: ${(props) => (isMobileLandscape(props.isMobile) ? '4px 15px' : '0')};
-  background-color: ${(props) => props.colors.tradebox.widgetBackground};
+  background-color: #514a4a38;
   border-radius: 8px;
   margin: 3px;
   padding: ${(props) => (!props.loggedIn ? '10px 0px' : '7px 11px 7px 11px')};

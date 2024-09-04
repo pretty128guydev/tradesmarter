@@ -12,7 +12,7 @@ const Wrapper = styled.div<any>`
   border-radius: 8px, 8px, 0px, 0px;
   background-color: ${(props) =>
     props.isMobile
-      ? props.colors.tradebox.widgetBackground
+      ? `#514a4a38`
       : props.colors.background};
   border-left: 1px solid ${(props) => props.colors.panelBorder};
 
@@ -49,7 +49,7 @@ const Panel = styled.div<{
     props.isMobile ? 0 : props.isCfdOptions ? '10px' : '20px'};
 
   border-radius: 3px;
-  background-color: ${(props) => props.colors.tradebox.widgetBackground};
+//   background-color: ${(props) => props.colors.tradebox.widgetBackground};
 
   ${(props) =>
     props.isMobile && isMobileLandscape(props.isMobile)

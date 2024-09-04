@@ -43,7 +43,7 @@ const ListContainer = styled.div<any>`
   background-color: ${(props: IListContainerProps) =>
     props.periodpanel !== 'tradebox'
       ? props.colors.background
-      : props.colors.tradebox.widgetBackground};
+      : '#514a4a38'};
 
   .right-menu-user-info {
     padding-left: 10px;

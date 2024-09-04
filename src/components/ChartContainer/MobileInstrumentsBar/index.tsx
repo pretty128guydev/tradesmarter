@@ -72,7 +72,7 @@ const MobileInstrumentsBox = styled.div<{
       position: absolute;
       z-index: 41;
       top: 60px;
-      background-color: ${(props) => props.colors.tradebox.widgetBackground};
+      background-color: #514a4a38;
       div:nth-child(1) {
         padding-top: 10px;
       }
